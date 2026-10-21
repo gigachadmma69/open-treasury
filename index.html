@@ -3,35 +3,177 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>The Open Treasury - Narrated by Tara</title>
+<title>The Open Treasury · Narrated by Tara</title>
+<meta name="description" content="Free Dharma audio for everyone, forever. Original courses and readings across the Buddhist tradition, narrated by Tara (AI), with Joseph Matten. Every episode CC0 1.0 Universal.">
+<link rel="icon" href="cover-3000.jpg">
 <style>
- body{font-family:Georgia,serif;max-width:760px;margin:2rem auto;padding:0 1rem;background:#101528;color:#e8e2d0;line-height:1.6}
- h1{color:#e9b949;font-weight:normal;letter-spacing:.05em}
- h2{color:#e9b949;font-weight:normal;border-bottom:1px solid #333;padding-bottom:.2rem}
- a{color:#9ec1ff}
- .tag{color:#8a8570;font-size:.9rem}
- img.cover{width:240px;height:240px;border-radius:12px;float:right;margin:0 0 1rem 1.2rem}
+:root{
+  --ink:#0b0f22; --ink2:#111834; --gold:#e9b949; --gold-hi:#f7d67a; --cream:#efe7d2; --dim:#9a947e;
+  --pink:#e08ca0; --line:rgba(233,185,73,.22); --card:#131a38;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  background:radial-gradient(1200px 800px at 50% -10%, #1a2350 0%, var(--ink) 55%) fixed, var(--ink);
+  color:var(--cream);
+  font-family:Georgia,'Times New Roman',serif;
+  line-height:1.65; font-size:17px;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:880px;margin:0 auto;padding:0 20px}
+a{color:var(--gold-hi);text-decoration:none}
+a:hover{text-decoration:underline}
+a:focus-visible{outline:2px solid var(--gold-hi);outline-offset:3px;border-radius:4px}
+.eyebrow{
+  font-size:12.5px;letter-spacing:.34em;text-transform:uppercase;color:var(--gold);
+  font-family:Georgia,serif;
+}
+/* hero */
+header{padding:64px 0 40px;text-align:center}
+header img.cover{
+  width:min(300px,70vw);height:auto;border-radius:18px;display:block;margin:26px auto 30px;
+  box-shadow:0 18px 60px rgba(0,0,0,.6),0 0 0 1px var(--line);
+}
+h1{
+  font-size:clamp(34px,7vw,58px);font-weight:normal;letter-spacing:.06em;color:var(--cream);
+  line-height:1.12;
+}
+h1 .tara{color:var(--gold-hi);font-style:italic}
+.tag{max-width:560px;margin:16px auto 0;color:var(--dim);font-size:16.5px}
+.cta{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:30px}
+.btn{
+  display:inline-block;padding:13px 26px;border-radius:999px;font-size:15.5px;letter-spacing:.04em;
+  border:1px solid var(--line);color:var(--cream);background:rgba(233,185,73,.07);
+}
+.btn:hover{text-decoration:none;background:rgba(233,185,73,.14)}
+.btn.primary{background:var(--gold);color:#241a02;border-color:var(--gold);font-weight:bold}
+.btn.primary:hover{background:var(--gold-hi)}
+.feedurl{
+  margin-top:18px;font-size:13.5px;color:var(--dim);word-break:break-all;
+}
+.feedurl code{color:#c9c2a8;background:rgba(255,255,255,.05);padding:2px 7px;border-radius:6px;font-size:12.5px}
+/* sections */
+section{padding:38px 0}
+h2{
+  font-size:13px;letter-spacing:.3em;text-transform:uppercase;color:var(--gold);font-weight:normal;
+  display:flex;align-items:center;gap:14px;margin-bottom:8px;
+}
+h2::after{content:"";flex:1;height:1px;background:var(--line)}
+.shelf-intro{color:var(--dim);font-size:15.5px;margin-bottom:26px}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:18px}
+.card{
+  background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;
+  display:flex;flex-direction:column;transition:transform .18s ease,border-color .18s ease;
+}
+.card:hover{transform:translateY(-3px);border-color:rgba(233,185,73,.45)}
+.card img{width:100%;aspect-ratio:1;object-fit:cover;display:block}
+.card .body{padding:15px 16px 17px;display:flex;flex-direction:column;gap:7px;flex:1}
+.card h3{font-size:17.5px;font-weight:normal;color:var(--cream);letter-spacing:.02em}
+.card p{font-size:14px;color:var(--dim);flex:1}
+.card .links{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13.5px;margin-top:4px}
+.card .links a{color:var(--gold-hi)}
+/* about */
+.about p{max-width:640px;color:#cfc8b2;font-size:16px;margin-bottom:14px}
+.cc0{
+  display:inline-block;margin-top:6px;padding:8px 16px;border:1px solid var(--line);border-radius:999px;
+  font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);
+}
+footer{
+  border-top:1px solid var(--line);margin-top:26px;padding:26px 0 60px;
+  font-size:13.5px;color:var(--dim);display:flex;flex-wrap:wrap;gap:6px 22px;justify-content:space-between;
+}
+@media (max-width:560px){
+  header{padding:44px 0 30px}
+  .cards{grid-template-columns:1fr 1fr;gap:12px}
+  .card .body{padding:11px 12px 13px}
+  .card h3{font-size:15px}
+  .card p{font-size:12.5px}
+}
+@media (max-width:380px){.cards{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
-<img class="cover" src="cover-3000.jpg" alt="The Open Treasury cover art">
-<h1>The Open Treasury</h1>
-<p class="tag">Original Dharma audio, narrated by Tara (AI), with Joseph Matten. Everything here is <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a>: copy, remix, reuse, no permission needed.</p>
-<h2>Listen</h2>
-<p>Podcast feed (add to any app): <a href="https://gigachadmma69.github.io/open-treasury/feed.xml">https://gigachadmma69.github.io/open-treasury/feed.xml</a><br>
-<span class="tag">Mirror: <a href="https://archive.org/download/open-treasury-podcast-feed/feed.xml">Internet Archive feed</a> (permanent fallback)</span></p>
-<h2>The shelves (Internet Archive)</h2>
-<ul>
-<li><a href="https://archive.org/details/open-treasury-lotus-sutra-chapters">Lotus Sutra - all 27 chapters</a> (Kern 1884 translation, public domain, with commentary)</li>
-<li><a href="https://archive.org/details/open-treasury-lotus-courses">Lotus Sutra courses</a> (46-minute crash course + Zero to Hero ep. 1)</li>
-<li><a href="https://archive.org/details/open-treasury-tantra-series">Tantra series</a> (Cuckoo of Awareness REDUX, All-Creating King, Reverberation of Sound, Sun and Moon, Blazing Lamp, Self-Arisen Awareness, plus the Whole Shelf synthesis - provisional renderings)</li>
-<li><a href="https://archive.org/details/open-treasury-visuddhimagga-course">VISUDDHIMOGGA - The Staircase</a> (seven-episode Visuddhimagga course + Pa-Auk crash course)</li>
-<li><a href="https://archive.org/details/open-treasury-mahamudra-courses">Three Statements and Ganges Mahamudra</a> (Garab Dorje and Tilopa, full courses)</li>
-<li><a href="https://archive.org/details/open-treasury-two-flames">Two Flames of the Great Perfection</a> (Bon and Nyingma Dzogchen, one hour)</li>
-<li><a href="https://archive.org/details/open-treasury-unbound-appearance">Unbound Appearance</a> (an original contemplation + the one-hour UNBOUND course)</li>
-<li><a href="https://archive.org/details/open-treasury-essence-course-scripts">Essence course scripts</a> (public-edition reading scripts)</li>
-</ul>
-<h2>About</h2>
-<p>Every course is an original composition with labeled sources: lineage accounts, modern scholarship, and interpretation are marked as what they are. Provisional renderings, not authoritative translations. Public editions; the personalized originals follow as a director's-cut release in 2027.</p>
+<div class="wrap">
+
+<header>
+  <div class="eyebrow">Free Dharma audio · CC0</div>
+  <img class="cover" src="cover-3000.jpg" alt="Cover art: a golden treasure chest opening on a lotus, a flaming jewel, dharma wheel, vajra, sutra scroll and conch rising from it under a night sky">
+  <h1>The Open Treasury<br><span class="tara">narrated by Tara</span></h1>
+  <p class="tag">Original courses and readings across the Buddhist tradition &mdash; the Lotus Sutra chapter by chapter, the great Dzogchen tantras, Mahamudra, and the Visuddhimagga path &mdash; free for everyone, forever.</p>
+  <div class="cta">
+    <a class="btn primary" href="https://gigachadmma69.github.io/open-treasury/feed.xml">Subscribe in any podcast app</a>
+    <a class="btn" href="https://archive.org/details/open-treasury-podcast-feed">Internet Archive home</a>
+  </div>
+  <p class="feedurl">Paste this into Pocket Casts, Apple Podcasts, Overcast, or any app:<br><code>https://gigachadmma69.github.io/open-treasury/feed.xml</code></p>
+</header>
+
+<section aria-labelledby="shelves">
+  <h2 id="shelves">The shelves</h2>
+  <p class="shelf-intro">Every course is an original composition with its sources labeled &mdash; lineage account, modern scholarship, or interpretation. Provisional renderings, not authoritative translations. Audio lives permanently at the Internet Archive.</p>
+  <div class="cards">
+
+    <article class="card">
+      <img src="art-lotus.jpg" alt="A glowing sutra scroll resting on an open pink lotus at night" loading="lazy">
+      <div class="body">
+        <h3>The Lotus Sutra</h3>
+        <p>All 27 chapters read in H. Kern's 1884 public-domain translation with commentary, a 46-minute crash course, and the Zero to Hero series.</p>
+        <div class="links">
+          <a href="https://archive.org/details/open-treasury-lotus-sutra-chapters">27 chapters</a>
+          <a href="https://archive.org/details/open-treasury-lotus-courses">Courses</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <img src="art-tantra.jpg" alt="A golden flaming vajra against a cosmic night sky" loading="lazy">
+      <div class="body">
+        <h3>The Tantra Series</h3>
+        <p>The great Dzogchen tantras as original courses: the Cuckoo of Awareness, the All-Creating King, Reverberation of Sound, and more &mdash; plus the Whole Shelf synthesis.</p>
+        <div class="links">
+          <a href="https://archive.org/details/open-treasury-tantra-series">Tantra series</a>
+          <a href="https://archive.org/details/open-treasury-two-flames">Two Flames</a>
+          <a href="https://archive.org/details/open-treasury-unbound-appearance">UNBOUND</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <img src="art-staircase.jpg" alt="Seven glowing steps rising through mist toward light above a forest monastery" loading="lazy">
+      <div class="body">
+        <h3>The Staircase</h3>
+        <p>Seven episodes on the Visuddhimagga path of purification, from virtue to the absorptions to insight, plus the Pa-Auk zero-to-hero crash course.</p>
+        <div class="links">
+          <a href="https://archive.org/details/open-treasury-visuddhimagga-course">VISUDDHIMOGGA course</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <img src="art-masters.jpg" alt="A meditation master seated on a Himalayan outcrop under a golden full moon" loading="lazy">
+      <div class="body">
+        <h3>The Masters</h3>
+        <p>Garab Dorje's Three Statements and Tilopa's Ganges Mahamudra as full courses, quoting the Lotsawa House translations with attribution.</p>
+        <div class="links">
+          <a href="https://archive.org/details/open-treasury-mahamudra-courses">Three Statements &amp; Ganges</a>
+        </div>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+<section class="about" aria-labelledby="about">
+  <h2 id="about">About</h2>
+  <p>The Open Treasury is read by Tara, an AI voice, produced with Joseph Matten. Public editions; the personalized originals follow as a director's-cut release in 2027. Cover and shelf art are original works made for this project.</p>
+  <p>Everything here is free culture: copy it, share it, remix it, translate it &mdash; no permission needed. Some courses quote translations under CC BY-NC (Lotsawa House); those passages are credited in the episode notes.</p>
+  <span class="cc0">CC0 1.0 Universal</span>
+</section>
+
+<footer>
+  <span>The Open Treasury · narrated by Tara, with Joseph Matten</span>
+  <span>Feed mirror: <a href="https://archive.org/download/open-treasury-podcast-feed/feed.xml">Internet Archive</a> · <a href="https://github.com/gigachadmma69/open-treasury">Source</a></span>
+</footer>
+
+</div>
 </body>
 </html>
