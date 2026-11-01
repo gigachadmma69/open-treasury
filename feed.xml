@@ -4,14 +4,14 @@
     <title>The Open Treasury: Narrated by Tara</title>
     <link>https://gigachadmma69.github.io/open-treasury/</link>
     <atom:link href="https://archive.org/download/open-treasury-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>The Open Treasury is free Dharma audio for everyone, forever. Original courses and readings across the Buddhist tradition - the Lotus Sutra chapter by chapter, the great Dzogchen tantras, Mahamudra, the Visuddhimagga path of purification, and the masters from Garab Dorje to Tilopa - narrated by Tara, an AI voice, produced with Joseph Matten. Every episode is CC0 1.0 Universal: copy it, share it, build on it. Courses are provisional renderings - original AI-voiced works, not authoritative translations. Personalized editions follow in 2027. Support is never expected; if you enjoy the Treasury, a voluntary dana at buymeacoffee.com/joematten helps keep it going.</description>
-    <itunes:summary>The Open Treasury is free Dharma audio for everyone, forever. Original courses and readings across the Buddhist tradition - the Lotus Sutra chapter by chapter, the great Dzogchen tantras, Mahamudra, the Visuddhimagga path of purification, and the masters from Garab Dorje to Tilopa - narrated by Tara, an AI voice, produced with Joseph Matten. Every episode is CC0 1.0 Universal: copy it, share it, build on it. Courses are provisional renderings - original AI-voiced works, not authoritative translations. Personalized editions follow in 2027.
+    <description>The Open Treasury is free Dharma audio for everyone, forever. Original courses and readings across the Buddhist tradition - the Lotus Sutra chapter by chapter, the great Dzogchen tantras, Mahamudra, the Visuddhimagga path of purification, and the masters from Garab Dorje to Tilopa - narrated by Tara, an AI voice, produced with Joseph Matten. Episodes are CC0 unless an episode page states otherwise. Check episode notes before reusing source-derived material. Courses are provisional renderings - original AI-voiced works, not authoritative translations. Personalized editions follow in 2027. Support is never expected; if you enjoy the Treasury, a voluntary dana at buymeacoffee.com/joematten helps keep it going.</description>
+    <itunes:summary>The Open Treasury is free Dharma audio for everyone, forever. Original courses and readings across the Buddhist tradition - the Lotus Sutra chapter by chapter, the great Dzogchen tantras, Mahamudra, the Visuddhimagga path of purification, and the masters from Garab Dorje to Tilopa - narrated by Tara, an AI voice, produced with Joseph Matten. Episodes are CC0 unless an episode page states otherwise. Check episode notes before reusing source-derived material. Courses are provisional renderings - original AI-voiced works, not authoritative translations. Personalized editions follow in 2027.
 
 Support is never expected; if you enjoy the Treasury, a voluntary dana at buymeacoffee.com/joematten helps keep it going.</itunes:summary>
-    <itunes:subtitle>Free Dharma audio, forever - the Lotus Sutra, the Dzogchen tantras, Mahamudra and the Visuddhimagga, narrated by Tara. Every episode CC0.</itunes:subtitle>
+    <itunes:subtitle>Free Dharma audio, forever - the Lotus Sutra, the Dzogchen tantras, Mahamudra and the Visuddhimagga, narrated by Tara. Episodes are CC0 unless an episode page states otherwise.</itunes:subtitle>
     <language>en</language>
-    <copyright>CC0 1.0 Universal</copyright>
-    <podcast:license>CC0-1.0</podcast:license>
+    <copyright>Episode-specific terms: CC0 unless an episode page states otherwise. See episode pages and source notes.</copyright>
+    <podcast:license url="https://gigachadmma69.github.io/open-treasury/licenses.html">open-treasury-episode-specific</podcast:license>
     <podcast:medium>podcast</podcast:medium>
     <itunes:author>Tara, with Joseph Matten</itunes:author>
     <itunes:owner><itunes:name>Joseph Matten</itunes:name><itunes:email>gigachadmma69@gmail.com</itunes:email></itunes:owner>
@@ -21,7 +21,26 @@ Support is never expected; if you enjoy the Treasury, a voluntary dana at buymea
     <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-        <item><title>Namkha Che: A Full 55-Verse Study Course</title><link>https://gigachadmma69.github.io/open-treasury/ep/namkha-che-full-55-verse-study/</link><description><![CDATA[A four-unit study course covering all fifty-five verses of Dorje Sempa Namkha Che in sequence. Original study paraphrases and commentary compare the short critical text with longer-tantra correspondences and selected published translations. Separate from the earlier interpretive companion.
+        <item><title>The Crystal and the Open Sky: Studying Longchenpa on Awareness</title><link>https://gigachadmma69.github.io/open-treasury/ep/longchenpa-crystal-open-sky/</link><description><![CDATA[An hour-long study companion to the Gone to Suchness selection: eleven short scriptural citations and selected explanatory prose from chapter ten of Longchenpa's autocommentary. Provisional English readings are interleaved with original explanation, an opening crash course and a conclusion.
+
+Not a complete chapter or complete tantra reading, not a certified translation and not a reading of a modern English translation. The Great Garuda's third quoted line remains incomplete in English. Some edition differences and two incomplete bibliographic identifications remain explicit. No advanced practice procedures are imported.
+
+Transmission context: Tsadra describes this work as traditionally transmitted with empowerment and oral instruction from a qualified teacher. This is textual study, not empowerment, pointing-out instruction or a substitute for a teacher.
+
+Source-derived English renderings and adapted presentation: CC BY-NC-SA 4.0. Working Tibetan transcription: Rangjung Yeshe Wiki Texts/Tsadra, checked against the 2009 scanned edition. Selection, provisional translation, punctuation, reordering and edition choices are declared in the notes. Separately identifiable original commentary and narration contributions: CC0 1.0 Universal. The complete package is not CC0. No endorsement is implied.
+
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Attribution, declared changes and edition notes: https://gigachadmma69.github.io/open-treasury/ep/longchenpa-crystal-open-sky/sources.md]]></description><itunes:summary><![CDATA[An hour-long study companion to the Gone to Suchness selection: eleven short scriptural citations and selected explanatory prose from chapter ten of Longchenpa's autocommentary. Provisional English readings are interleaved with original explanation, an opening crash course and a conclusion.
+
+Not a complete chapter or complete tantra reading, not a certified translation and not a reading of a modern English translation. The Great Garuda's third quoted line remains incomplete in English. Some edition differences and two incomplete bibliographic identifications remain explicit. No advanced practice procedures are imported.
+
+Transmission context: Tsadra describes this work as traditionally transmitted with empowerment and oral instruction from a qualified teacher. This is textual study, not empowerment, pointing-out instruction or a substitute for a teacher.
+
+Source-derived English renderings and adapted presentation: CC BY-NC-SA 4.0. Working Tibetan transcription: Rangjung Yeshe Wiki Texts/Tsadra, checked against the 2009 scanned edition. Selection, provisional translation, punctuation, reordering and edition choices are declared in the notes. Separately identifiable original commentary and narration contributions: CC0 1.0 Universal. The complete package is not CC0. No endorsement is implied.
+
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Attribution, declared changes and edition notes: https://gigachadmma69.github.io/open-treasury/ep/longchenpa-crystal-open-sky/sources.md]]></itunes:summary><guid isPermaLink="false">longchenpa-crystal-open-sky-public</guid><pubDate>Sun, 01 Nov 2026 05:34:58 +0000</pubDate><enclosure url="https://gigachadmma69.github.io/open-treasury/audio/longchenpa-crystal-open-sky.mp3" length="29504944" type="audio/mpeg"/><itunes:duration>01:01:28</itunes:duration><itunes:explicit>false</itunes:explicit><podcast:license url="https://creativecommons.org/licenses/by-nc-sa/4.0/">cc-by-nc-sa-4.0</podcast:license></item>
+    <item><title>Namkha Che: A Full 55-Verse Study Course</title><link>https://gigachadmma69.github.io/open-treasury/ep/namkha-che-full-55-verse-study/</link><description><![CDATA[A four-unit study course covering all fifty-five verses of Dorje Sempa Namkha Che in sequence. Original study paraphrases and commentary compare the short critical text with longer-tantra correspondences and selected published translations. Separate from the earlier interpretive companion.
 
 Not a certified Tibetan translation or a reading of a modern translation. Difficult wording, witness variants and unresolved verses remain explicit. Traditional Garab Dorje attribution and Wilkinson's compilation hypothesis are distinguished. The longer thirty-three-chapter tantra is not treated as an identical witness. No restricted practice instructions or claims of attainment.
 
