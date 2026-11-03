@@ -1,0 +1,352 @@
+# Shabkar: The Hermit Who Could Not Ignore the World
+## ANNOTATED TWIN of the clean narration script (not for narration)
+
+This twin reproduces the clean script verbatim and adds, after every rendered passage, an ANNOTATION line giving: quotation ID, source song, Tibetan incipit, exact Lotsawa House Tibetan URL, and the audit comparison credit. V2 note: the v1 block Q6 was removed per archive audit and its lines now stand in source order inside Q5, so v2 has 23 rendering blocks; the ID Q6 is retired, not reused. The full Tibetan passages, full renderings, and detailed audit notes are in quote-ledger-v2.md. Biographical and scholarly claims are mapped in claim-source-map-v2.1.md. Licensing and credits are in license-credit-note-v2.md.
+
+
+## Chapter 1: A Singer, Not a Mascot
+
+We begin with a colophon, the small print at the end of a Tibetan text, because that is where this episode honestly starts. A colophon is a closing note, sometimes by the author or a compiler, about how a piece came to be written; this one is Shabkar's own. Here it is, in our rendering from the Tibetan:
+
+[RENDERING]
+This was written when many poor people, who had nothing to eat and nothing to wear, came again and again to beg at the door of my retreat hut. Compassion for all beings who had been my mothers welled up in my heart until I could not bear it, and tears came to my eyes.
+[/RENDERING]
+
+[ANNOTATION Q1 | Source C, colophon | Tibetan incipit: ཞེས་པ་འདི་ཡང་མཚམས་ཁང་སྒོར་ལྟོ་གོས་ཡེ་མེད་པའི་ངན་སློང་མང་བོ་ཡང་ཡང་སློང་དུ་འོངས་པས་རྐྱེན་བྱས། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/song-compassion | Audit comparison: Adam Pearcey translation, Lotsawa House (Song of Compassion 2008, rev. 2012; When Remembering My Mother 2012). Sense agrees; Pearcey has 'groups of poor folk... came begging at the door of my retreat hut again and again'. Our rendering keeps 'again and again' (yang yang) and 'tears came to my eyes' for mchi ma 'khrugs pa, where Pearcey expands to 'shedding many tears'. Full colophon in ledger entry C5.]
+
+
+No storm, no dramatic night, no invented dialogue. The song's colophon tells us: people were hungry, they knocked more than once, and the hermit cried. That small documentary fact is the ground this whole episode stands on, and we will keep returning to it.
+
+The hermit was Shabkar Tsokdruk Rangdrol, who lived from 1781 to 1851 in Amdo, the Tibetan cultural region of the northeast, around Rebgong. He was a yogi, a wanderer, and above all a singer. Tibet had seen singing saints before, Milarepa most famously, and Shabkar is often compared to him. But Shabkar is not a mascot for a brand of cheerful spirituality, and this episode will not treat him as one. He was a man who wanted, with his whole heart, to be left alone in the mountains, and who kept failing at it, because the world kept knocking.
+
+A word about the kind of book his life comes down to us in. His autobiography belongs to the Tibetan genre called namthar, a liberation narrative. A namthar is a crafted thing. It tells a life as a path toward awakening, shaped to teach, and it is not independent documentation of every event it reports. When we tell you that something happened to Shabkar, we almost always mean: his autobiography, or the tradition around it, says it happened. We will mark that difference as we go, because he deserves readers who know what kind of evidence they are holding.
+
+The autobiography, as the Columbia essay describes it, traces his spiritual development from birth through the age of fifty-six, and the journey it maps is geographic as much as inward: from his home in Amdo to Lhasa, to Nepal, to Mount Kailash, and back across the Tibetan cultural region. He dedicated his life to meditation as a teenager, the essay says, and grew into a renowned and influential lama. But the book's own center of gravity is not the itinerary. It is the voice. Again and again the prose stops and the man sings, and the songs move between grief, delight and dry humor. That mixture is the sound of this episode's subject, and we will trust it more than any summary, including ours.
+
+Songs fill roughly half of that autobiography, and that is not decoration. In a culture where teaching traveled by voice, a song was a vehicle: memorable, repeatable, singable by people who would never open a book. Shabkar sang to teach, to admonish, to argue, to grieve, and sometimes, by his own account, for the pleasure of it. His modern readers at Columbia University, in an essay we draw on in this episode, remark on how the songs braid grief and exuberance together, with a sly humor running through them. Songs were how this hermit, who claimed to want no audience, ended up with a very large one.
+
+The essay's account of how the songs work is worth slowing down for, because it will govern how we listen. Length is the first thing: they run long, spinning single images from the natural world, plants, animals, mountains, weather, out to great length; a few are built as acrostics. Admonition works by repetition: one line comes back again and again until the person it was aimed at cannot claim not to have heard it. Much of the singing is funny, puns, exaggeration, a deliberate casualness, and the essay reads the humor as a vehicle, the playful surface carrying a serious lesson underneath. Asked a direct question, he might answer with a song that declined to answer it straight. One warning of the essay's we take seriously: the songs were written down for posterity, so even their air of joking spontaneity should be read with a grain of salt. A man composing his own liberation story is composing it. And some songs are not playful in the least. They are about the certainty of death, and the uncertainty of when, and those will matter in the next chapter.
+
+The four songs are a fraction of what he wrote, and the fraction should be named as such. The Lotsawa House series devoted to him lists some two dozen of his texts in English alone: aspiration prayers, guru yogas, a sang offering composed at Lapchi near the Nepal border, works written at Mount Kailash for named students, swift-rebirth prayers. His collected works fill volumes. He was prolific across every genre his tradition kept. We chose four songs out of that abundance because they are the four this episode's sources let us read closely, in Tibetan, with published translations to audit against. The boundary is evidentiary, not a judgment that the rest matters less.
+
+One caution before we go further, because it sets the tone for everything here. Even Shabkar's songbook has attribution traps. Lotsawa House notes that two Dzogchen songs by Shabkar have recently circulated under Khenpo Gangshar's name. They are outside this episode's scope. What you will hear rendered in this episode comes from four songs whose Tibetan texts we read line by line, and every rendered passage is marked, with its source, in the notes that accompany this script.
+
+Here is the thread we will follow, and we draw it openly from the research of Rachel Pang, the scholar whose work on Shabkar's nonsectarian activity we draw on in the later chapters. Drawing on Pang's analysis, we follow three strands of his impartiality: a man with no fixed home, moving from hermitage to hermitage; a compassion that refuses to rank beings, mothers and strangers and animals on one level; and a respect for teachings that refuses sectarian contempt. Places without a fixed home. Compassion without preferred beings. Respect without hostility. That is the spine of this episode. The selection of three strands is ours; her analysis ranges wider, and the frame is hers, not our discovery.
+
+His dates, by the way, are the ones given by Lotsawa House, Columbia's essay, and the Treasury of Lives: 1781 to 1851. One publisher's page gives 1850 for the final year. We note the variant in the accompanying documents and stay with the majority dating.
+
+So: a singer, not a mascot. The four songs selected for this episode are about his mother, compassion, and nonsectarian respect. To understand the songs, though, we have to start with the leaving, because the leaving cost him the thing he sang about for the rest of his life.
+
+## Chapter 2: The Cost of Leaving
+
+Everything in this chapter comes to us through his autobiography as analyzed by Becky Best in the Columbia University essay named in our sources. That matters. We have not read the full autobiography; we are following a careful secondary account of Matthieu Ricard's translation of it, and the scenes below are autobiography-reported episodes, not independently verified history. We will tell them as his own telling, because the telling is itself the evidence for who he was.
+
+The telling begins at home, in Rebgong in Amdo, the northeastern marches of the Tibetan world, a country of farming valleys and nomad grassland, monasteries and clan territories, where a family's survival was a daily negotiation with weather, animals and neighbors. It is the world of every later chapter: the beggars, the hunters, the feuding clans, the guard dogs all belong to it. Shabkar's horizons would eventually stretch to Lhasa and Kailash, but the moral laboratory of his life was this one crowded, demanding homeland, and his leaving it is the first experiment.
+
+The refusal comes first in the telling. Shabkar's widowed mother wanted what widowed mothers in his world wanted: a wife for her son, a settled household, a man at home. She could point to relatives who practiced the Dharma and stayed nearby doing it. Shabkar wanted none of it. He rejected marriage in the strongest terms his autobiography can find, and he rejected the compromise version of religion too, the kind you can fold into domestic life. For him, practice meant leaving: no encumbrance, nothing held back.
+
+So he left. Not only his home village, but his mother and his sister, and according to his own account he did not leave honestly. He promised to return soon, knowing he would not, and later reasoned it through in the open, in his own book: all beings have been his mother in past lives, so the claims of this one mother could be weighed against all the others; and a lie told for the sake of the Dharma, he judged, was a minor offense. We report that reasoning because he reported it. We do not dress it up, and this episode offers no one advice to abandon their family. What the autobiography gives us is retrospective narration: the older writer arguing the young renunciant's case on paper, and winning the argument at a price he had not finished counting.
+
+Consider also what leaving could mean in material terms, because the doctrine can make it sound weightless. Leaving could carry material costs for a household, alongside the emotional loss; our source does not itemize his family's finances. Her pleading, as the autobiography reports it, did come armed with practical examples: the relatives, practicing at home. We say this much as our own reading of the scene's stakes, not as a quotation, and we keep it conditional, because the cost his own account returns to is the emotional one. Renunciation narratives float easily into abstraction. This one stays honest by keeping the grief, not an invented ledger, at its center.
+
+Notice, too, the shape of his refusal, because it explains the man. His mother had offered him a middle way, and middle ways were on offer all around him in the form of relatives who practiced and stayed home. He rejected the middle way as a dilution, not a balance. For the young Shabkar, the Dharma was apparently not something you fit around a household; the household was the thing to be escaped, and escape had to be total to be real. That absolutism is easy to criticize from a comfortable chair, and this episode will not pretend it cost nothing; the whole chapter is the bill. The later songs let us hold his fierce commitment beside the grief of leaving. We cannot prove that one caused the other. The tension is part of the story, not an explanation that cancels its cost.
+
+What filled the years between the leaving and the return, according to the same account, was exactly the life he had chosen, and it kept succeeding in ways that made returning harder. Time and again in his songs and his prose he expresses the desire to practice in solitude; when he finds solitude, the essay says, he sings songs of praise and joy. But solitude kept being interrupted by his own growing reputation. More and more people sought him out for teachings. The hermit who had fled society was being drawn back into it, and the return to his mother kept sliding down a list that the world kept lengthening.
+
+The price came due slowly. Years passed. The return he had promised kept being postponed, each postponement easy, until the news was the kind that cannot be postponed back. He got home too late. His mother had died, and he never saw her again in this life. The Columbia essay calls his sorrow and regret at this a rare and meaningful crack in an otherwise almost superhuman spiritual life, and that seems exactly right. The ideals had been airtight. The grief got in anyway.
+
+It is worth pausing on where this scene survives: in his own book. A liberation narrative is supposed to edify, and regret is not the usual currency. Yet the autobiography keeps the scene, keeps the reasoning that led to it, keeps even the uncomfortable argument about the lie. Whatever else we say about the namthar genre, in this case the crafted narrative chose to preserve its hero's failure at the exact point where his doctrine and his heart collided. That preservation stands in thematic connection with the mother song in the next chapter, and it is why we treat the episode as real evidence, not of what a camera would have seen, but of what the man himself could not stop reckoning with. He had a sister, too, whom he also left behind; the record we have read says little more about her, and we will not invent a subplot to fill the silence. The silence itself is part of the cost accounting: the story remembers the mother. The others who paid for his freedom are mostly offstage, and honesty requires noticing that they are.
+
+Hold the two facts side by side, because the rest of his life is the friction between them. Fact one: he believed, as a matter of doctrine he never abandoned, that every being had been his mother, and that singling out one mother was a failure of vision. Fact two: the one mother he singled out anyway, in memory and in grief, was his own, and he had missed her death. He did not resolve that tension by giving up the doctrine. He did not resolve it by giving up the grief either. He sang it.
+
+That is where the next chapter begins: with the song he addressed, of all people, to himself.
+
+## Chapter 3: When Remembering His Mother
+
+The song is short, and it is not addressed to us. Its colophon says so plainly, in our rendering: "Tsokdruk Rangdrol spoke these words to himself on one occasion when remembering his mother." And it opens by naming its listener. The first line of Tibetan is an instruction to a single person, and that person is the singer.
+
+[RENDERING]
+Listen, Tsokdruk Rangdrol. You say that the mother who bore you in her womb in this life was kind. But the beings who, in birth after birth without number, were your parents and did you good: why do you not remember their kindness even once? What has happened to you?
+[/RENDERING]
+
+[ANNOTATION Q2 | Source D, verses 1-2 | Tibetan incipit: ཉོན་དང་ཚོགས་དྲུག་རང་གྲོལ་བ། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/remembering-mother | Audit comparison: Adam Pearcey translation, Lotsawa House (Song of Compassion 2008, rev. 2012; When Remembering My Mother 2012). Addressee is the author himself; packet literal check concurs ('Listen, Tsokdruk Rangdrol').]
+
+
+That is the whole song in embryo. He is not preaching at a crowd. He is cross-examining himself, and the charge is partiality. Because the suffering he is forgetting, he goes on, is not abstract:
+
+[RENDERING]
+Heat and cold, hunger and thirst, servitude; the lame, the blind, beggars, the sick: all these wretched beings who have been your mothers. Can your mind really throw them away?
+[/RENDERING]
+
+[ANNOTATION Q3 | Source D, verse 3 | Tibetan incipit: ཚ་གྲང་བཀྲེལ་སྐོམ་བཀོལ་སྤྱོད་དང་། (as printed on LH; read bkres skom, hunger and thirst, following the sense and the published translation) | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/remembering-mother | Audit comparison: Adam Pearcey translation, Lotsawa House (Song of Compassion 2008, rev. 2012; When Remembering My Mother 2012). List of sufferings plus categories of beings: lame, blind, beggars, sick. V2: retained unchanged per archive audit flag ruling; 'the lame, the blind' is a defensible historical rendering, and the respectful modern substitute was optional, not imposed.]
+
+
+Then he grounds the argument where he always grounds it, in the teaching he received:
+
+[RENDERING]
+All beings have been kind mothers. If it is true, as the Buddha said, that there is no difference between the mother of your former lives and the mother of this life, then why has a difference arisen for you, between the mothers of before and the mother of now? Think: what use is the distinction you are making?
+[/RENDERING]
+
+[ANNOTATION Q4 | Source D, verses 4-5 | Tibetan incipit: སེམས་ཅན་ཐམས་ཅད་དྲིན་ཅན་མ། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/remembering-mother | Audit comparison: Adam Pearcey translation, Lotsawa House (Song of Compassion 2008, rev. 2012; When Remembering My Mother 2012). The Buddha-attributed no-difference claim is the song's own citation of the Buddha, presented as such in narration.]
+
+
+Two honesties are required of us here, and we will keep both. First: the premise of this song, that all beings have literally been one's mother across rebirth, is Shabkar's Buddhist premise. It is the ground he stands on, not an empirically established fact, and this episode presents it as his, neither endorsing it as proven nor apologizing it away. Second: notice what the song does not say. It never says his love for his actual mother was bad. It says the love stopped too soon, at one doorstep. What it attacks is the monopoly:
+
+[RENDERING]
+To let go, in your mind, of all beings who have been your mothers, and to remember a single mother alone: that is clinging, infatuation. Do not imagine it is compassion arising. As long as partiality and attachment remain, do not expect liberation from samsara. While attachment remains, do not say you have renounced this life's affairs.
+[/RENDERING]
+
+[ANNOTATION Q5 | Source D, verse 6 complete and verse 7, first line, in source order | Tibetan incipit: མ་གྱུར་སེམས་ཅན་ཀུན་བློས་དོར། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/remembering-mother | Audit comparison: Adam Pearcey translation, Lotsawa House (Song of Compassion 2008, rev. 2012; When Remembering My Mother 2012). 'Clinging, infatuation' renders chags zhen; Pearcey: 'a form of attachment'. V2: the partiality couplet and the renunciation line, omitted from v1's Q5 ledger entry and partly repeated as a separate Q6 block in reversed order, now stand once, in source order, at the end of this block; Q6 is retired.]
+
+
+Hear the audacity of that, aimed at a hermit. He has left household life; he lives in retreat; and he tells himself not to claim renunciation while one attachment, the most forgivable one imaginable, still organizes his heart. The song's standard for renunciation is not the leaving of places. It is the leaving of preference. By that standard the door of the hermitage matters less than the door of the mind, and he knows he has not finished walking through the second one.
+
+That is a hard verse, and it would curdle if it were aimed at a grieving listener. It is not. It is a man in a hermitage aiming it at himself, and the colophon insists we know that. The song's severity is self-prescribed medicine. Preached outward, at someone else's fresh grief, it would be cruelty. Sung inward, by a man who missed his mother's death, it is something else: an attempt to make his grief big enough to be useful.
+
+Notice who enforces the discipline in this song. Not a rule book. A gaze. The lamas, the buddhas and their heirs would feel shame, or rejoice: the teachers function here as the conscience he carries inside his own memory of being taught. He has internalized his audience so completely that even alone, remembering his dead mother in private, he experiences himself as seen. That is either a burden or an intimacy, and in his case it seems to have been both. And notice the destination the song names at its climax: to weep for all beings, with love and compassion and the awakening mind, is to "enter the ranks of the Great Vehicle," the Mahayana. The song does not say: master a philosophy and you enter. It says: let your grief reach everyone and you enter. Compassion is not the decoration on the path here. It is the door of the path.
+
+And the song knows about the tears. It stages them, and asks whose tears they are:
+
+[RENDERING]
+If you abandon all who have been your mothers, and weep at remembering your old mother, then the lamas, the buddhas and their heirs, whoever looked on, would feel shame in their hearts. But remember the kindness of those who have been your mothers, think of their suffering and weep, and the lamas, the buddhas and their heirs rejoice.
+[/RENDERING]
+
+[ANNOTATION Q7 | Source D, verses 8-9 | Tibetan incipit: མ་གྱུར་སེམས་ཅན་ཡལ་བར་དོར། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/remembering-mother | Audit comparison: Adam Pearcey translation, Lotsawa House (Song of Compassion 2008, rev. 2012; When Remembering My Mother 2012). 'Feel shame in their hearts' renders thugs kyis khrel; Pearcey: 'a source of embarrassment'.]
+
+
+So the prescription is not dry eyes. The prescription is wider eyes. Weep, but for everyone:
+
+[RENDERING]
+So just as you remember the mother of this life, contemplate how the wretched beings who were your mothers suffer, and shed tears again and again. Just as you feel love for the mother of this life, feel love for all beings who were your mothers, and arouse compassion, and the awakening mind. Then you enter the ranks of the Great Vehicle.
+[/RENDERING]
+
+[ANNOTATION Q8 | Source D, verses 10-11 | Tibetan incipit: དེ་ཕྱིར་ཚེ་འདིའི་མ་དྲན་བཞིན། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/remembering-mother | Audit comparison: Adam Pearcey translation, Lotsawa House (Song of Compassion 2008, rev. 2012; When Remembering My Mother 2012). 'Awakening mind' renders byang chub sems (bodhicitta); 'Great Vehicle' renders theg pa chen po (Mahayana).]
+
+
+And it ends not in severity but in a kind of promise, almost tender:
+
+[RENDERING]
+Again and again, remember the kindness of the beings of the six classes, your kind parents. If you tend to them as you would your mother in this life, they in turn will love you as their own child.
+[/RENDERING]
+
+[ANNOTATION Q9 | Source D, verse 12 (closing verse) | Tibetan incipit: དྲིན་ཅན་ཕ་མ་འགྲོ་དྲུག་རྣམས། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/remembering-mother | Audit comparison: Adam Pearcey translation, Lotsawa House (Song of Compassion 2008, rev. 2012; When Remembering My Mother 2012). 'Six classes' renders 'gro drug, the six realms' classes of beings. V2 correction per archive audit: v1 rendered the closing relationship in reverse ('as a mother cares'); the Tibetan (tshe 'di'i ma ltar phar bskyangs na; tshur yang bu ltar byams par 'gyur) is now rendered in the direction Pearcey's published reading also takes.]
+
+
+That closing promise deserves a slow look, because it answers the song's opening charge in kind. The song began with a child reproached for forgetting his mothers. It ends with a measure given back: tend to all beings as you would your own mother in this life, and they will love you in turn as their own child. The relationship he fled, one-directional, a son's debt to one woman, is rebuilt at cosmic scale as reciprocity: care flows down the generations and back up them, and nobody in the system is only a giver or only a debtor. There is no sentimentality in it, because the tending demanded is measured against the full kindness he received, feeding, warming, shielding, the exact kindnesses the compassion song will enumerate. But there is real warmth in it too. The universe of this song is not a courtroom of debts. It is a family that has forgotten its own size, and the song is the remembering.
+
+Read whole, the song is not a rebuke of his love for his mother. It is that love, refused permission to stay small. The grief of chapter two becomes, in this song, a discipline: every pang for one woman is treated as a door, and behind the door stands everyone. Whether we share his premise or not, the emotional logic is exact, and it is the logic that powered the rest of his life. Because once you have decided that every stranger at the door is your mother, the door of your hermitage is never really closed. And the strangers, as we heard in chapter one, had already found the door.
+
+## Chapter 4: The Knock at the Hermitage Door
+
+The Song of Compassion begins where chapter three left off: with the mothers. All of them. The song's first move is to widen the word "mother" until it covers every being who ever sheltered him, and then to ask where those mothers are now. Our rendering follows the Tibetan closely; the refrain in Tibetan is a small cry, snying re rje, "my heart aches for them," and it ends nearly every verse.
+
+[RENDERING]
+Beings who have been my mothers, who from beginningless time until now have cared for me with kindness: now they suffer, and my heart aches for them. The kind mother who cooled me when I was hot: some of them are now born in the eight hot hells, and suffer the torment of heat. My heart aches for them.
+[/RENDERING]
+
+[ANNOTATION Q10 | Source C, verses 1-2 | Tibetan incipit: རང་ཉིད་ཐོག་མའི་དུས་ནས་ད་ལྟའི་བར། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/song-compassion | Audit comparison: Adam Pearcey translation, Lotsawa House (Song of Compassion 2008, rev. 2012; When Remembering My Mother 2012). Refrain snying re rje rendered 'my heart aches for them'; Pearcey: 'my heart goes out to them'.]
+
+
+The opening looks back from the earliest time until now; we hear this against the Buddhist premise of beginningless rebirth. It sets the scale before anything else can happen. This is not kindness received last year, or in one childhood. It is kindness received across a past with no starting point, from a population with no edges: everyone. The refrain matters too. In Tibetan it is the short cry snying re rje, a cry rather than a sentence; Adam Pearcey's published translation, against which ours was audited, renders it "my heart goes out to them," and ours keeps a similar ache. What neither English phrase quite captures is the repetition. Verse after verse, realm after realm, the same cry returns, like the repeated line the Columbia essay noticed in his admonition songs, except that here the one being admonished by repetition is the singer's own heart: do not get used to this. Do not let the last realm hurt less than the first.
+
+Understand what kind of map he is drawing. The six realms he is about to walk through, the hells, the hungry ghosts, the animals, humans, the jealous gods, the gods, belong to traditional Buddhist cosmology. They are his world-picture, the geography of rebirth as his tradition taught it, and we present them as that. A modern listener may be tempted to read the hells as a metaphor for states of mind, and such a reading can be offered as commentary; listeners do it all the time. But it must not be silently substituted for his meaning. Shabkar meant realms, and beings in them, and mothers in them. The song only has its force if the suffering is real to the singer.
+
+[RENDERING]
+The kind mother who warmed me when I was cold: some are now born in the eight cold hells, and suffer the torment of cold. My heart aches for them. The kind mother who gave me food and drink when I hungered and thirsted: some are now born in the realm of hungry ghosts, and suffer hunger and thirst. My heart aches for them.
+[/RENDERING]
+
+[ANNOTATION Q11 | Source C, verses 3-4 | Tibetan incipits: གྲང་བའི་དུས་སུ་དྲོད་ཀྱིས་བསྐྱངས་པའི་མ། and བཀྲེས་སྐོམ་དུས་སུ་བཟའ་བཏུང་སྟེར་བའི་མ། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/song-compassion | Audit comparison: Adam Pearcey translation, Lotsawa House (Song of Compassion 2008, rev. 2012; When Remembering My Mother 2012). Two verses combined in one narration block, as in ledger C2-C3.]
+
+
+Notice the pattern. Every verse pairs a kindness he received with a suffering now endured by the giver. Cooling, answered by burning. Warmth, answered by freezing. Food, answered by famine. The song is a ledger read in reverse: everything he was given is still owed, and the creditors are in trouble.
+
+[RENDERING]
+The kind mother who always cared for me with love: some are now born among the animals, and suffer being worked and exploited. My heart aches for them. The kind mother who lovingly gave me whatever I wished: some are now born among human beings, and suffer sickness and death. My heart aches for them. The kind mother who shielded me from every harm: some are now born among the asuras, and suffer quarreling and strife. My heart aches for them. The kind mother who nourished me with nothing but benefit: some are now born among the gods, and suffer passing away and falling. My heart aches for them.
+[/RENDERING]
+
+[ANNOTATION Q12 | Source C, verses 5-8 | Tibetan incipits: བྱམས་པས་རྟག་ཏུ་བསྐྱངས་པའི་དྲིན་ཅན་མ། / བརྩེ་བས་གང་འདོད་སྟེར་བའི་དྲིན་ཅན་མ། / གནོད་པ་ཀུན་ལས་སྐྱོབ་པའི་དྲིན་ཅན་མ། / ཕན་པ་ཁོ་ནས་སྐྱོང་བའི་དྲིན་ཅན་མ། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/song-compassion | Audit comparison: Adam Pearcey translation, Lotsawa House (Song of Compassion 2008, rev. 2012; When Remembering My Mother 2012). Four realm verses combined; 'being worked and exploited' renders bkol spyod; gods' suffering 'pho ltung, passing away and falling.]
+
+
+Two details of craft deserve notice before the turn. First, the counting: eight hot hells, eight cold hells. The song uses the tradition's exact enumerations, and the precision is a signal of intent. This is not a poet gesturing at misery in general; it is a man reading from a map he believes in, coordinate by coordinate. Second, the distribution: in every verse it is some of them, la la in the Tibetan, some mothers here, some there. The song does not claim all his mothers are in the hells. It spreads them across the whole wheel, a portion in every realm, which is quietly worse: there is no realm he can point to and say, at least they are safe there. Even the gods make the list. That is worth pausing on. In this cosmology the gods suffer a specific torment: their lives are long and pleasant, and then they fall, and the fall is foreseen. Nobody in the song is exempt, and nobody in it is a stranger. Then the song turns, and the turn is the engine of the whole episode:
+
+[RENDERING]
+The suffering of the round of rebirth never ends of itself. There is no power, now, to protect them. These mothers of mine are suffering, and my heart aches for them. When I think in this way about the suffering of beings, this thought arises: today itself, not tomorrow, today, if only I could attain the state of a buddha. May I awaken swiftly, swiftly, and having awakened, clear away the suffering of all beings who have been my mothers, and set them all in happiness: this is my prayer.
+[/RENDERING]
+
+[ANNOTATION Q13 | Source C, verses 9-10 (closing) | Tibetan incipit: འཁོར་བའི་སྡུག་བསྔལ་རང་སངས་འགྱུར་དུས་མེད། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/song-compassion | Audit comparison: Adam Pearcey translation, Lotsawa House (Song of Compassion 2008, rev. 2012; When Remembering My Mother 2012). 'Today itself, not tomorrow, today' follows de ring / nang par doubling in the Tibetan; Pearcey: 'Let it not be tomorrow, but let it come to me today'. V2 correction per archive audit: the protection line (rang la da lta skyob pa'i nus pa med) is now rendered non-committally, 'There is no power, now, to protect them'; the reflexive permits debate, Pearcey's published reading is second person, and v1's first-person reading is no longer presented as the only literal one.]
+
+
+Today, not tomorrow. The Tibetan doubles the urgency, and doubles the swiftness too: quickly, quickly. This is not serenity. This is a man who has talked himself into an emergency. The compassion song does not end with contemplation; it ends with a vow of speed, because the colophon has already told us why speed is needed. The people at the door were not symbols. They lacked food and clothing, they came again and again, and the hermit's response was not a teaching. It was tears, and then this: the decision that the only adequate answer to suffering at that scale was to become someone who could end it.
+
+The closing lines are formally an aspiration prayer, a monlam, and the form matters: in his tradition, an aspiration is not a wish tossed at the sky. It is a vow that reorganizes the one who makes it. Watch the sequence the song has engineered. First, memory: beginningless kindness. Then, survey: the kindness repaid with suffering in every realm. Then, confession: no present power to protect. Then, and only then, the vow, with its doubled urgency, today, today itself, quickly, quickly. The song is a machine for converting contemplation into deadline, and it was built, remember, at a door, in response to actual hunger. The abstraction has a street address.
+
+We should be careful, and the song itself teaches the care. He does not claim the power he wishes for. The song's own confession, that there is no power now to protect them, is right there in the text, one verse before the vow. The honesty and the ambition are in the same song, four lines apart. That combination, clear-eyed about his limits and unreasonable about his deadline, is Shabkar at his most characteristic. And it explains something the next chapter takes up: why a man this tender toward beings he could not see, in realms he could not visit, was just as fierce about the beings he could see, the ones with fur and feathers, the ones being led to slaughter within walking distance of his door.
+
+## Chapter 5: Animals Are Not Scenery
+
+In most saints' lives, animals are scenery: a deer in the background, birds for atmosphere. In the life Shabkar tells, as Becky Best's Columbia essay describes it, animals are company instead. The essay's picture is of a man who treats them on the same footing as the people around him: instructing them, taking lessons from them, scolding them, fretting over their welfare in body and in spirit. Size settled nothing. The essay records extreme efforts on behalf of creatures as small as tadpoles and ants. It also recounts the autobiography defending an eagle's small prey and reprimanding the bird itself. In his world animals stood inside the circle of moral address. They could be spoken to. That meant they could also be wronged, which is the hinge of this chapter.
+
+Everything in this chapter is an autobiography-reported episode mediated by that secondary essay, and we flag it as such rather than dressing it as independently documented fact. We also keep to what the essay supports: no precise counts of animals saved, no menus, no invented encounters.
+
+What the essay supports clearly is a crusade. Vegetarianism cut against the grain of daily life in eastern Tibet, a pastoral world where meat was ordinary food, and Shabkar made it his goal to persuade as many people as possible to give it up. Best is careful about his motive, and her care is worth repeating: the passion does not read as doctrinal fanaticism. It reads as heartfelt concern in two directions at once, for the animals being eaten, and for the karma of the humans eating them. The eater, in his view, was also in danger. The butcher's customer was also a mother-being.
+
+The essay adds a dimension modern readers do not expect: his world was crowded with beings we cannot see. Bodhisattvas, dakinis, demons, local gods move through the autobiography, and in his account, invisible beings take part in everyday events, rather than remaining ideas in a doctrinal list. Say what one likes about that ontology; its effect on conduct is plain. A world that populated, at every scale from ant to local god, leaves no scenery anywhere. Everything is somebody.
+
+The humans of that world could be as dangerous as any animal in it. The essay's portrait of his Amdo is a place of variable law, bandits on the roads, clan feuds running in blood, and the nomads' guard dogs, raised against bandits, a threat in themselves to a wandering pilgrim; one wealthy family's dogs, fifteen of them, are recorded chasing and attacking him. A hermit's life on the road was not an idyll of solitude. It was exposure, chosen daily, to a landscape in which help and harm arrived in the same shapes: dogs, strangers, weather, hunger.
+
+Understand where vegetarianism sits in the architecture of this life. The mother song widened his love in meditation, where widening is free. The compassion song turned it into a vow, still mostly interior. The dinner table is where the doctrine starts costing somebody something three times a day. A teaching that every being has been your mother is, among other things, a claim about meat: the animal on the plate is not an it. His vegetarian preaching is simply chapters three and four with their sleeves rolled up, the same impartiality refusing to stop at the kitchen door. And the symmetry completes itself: just as the beggars' hunger was not scenery at his door, the hunter's hunger was not scenery either. Everyone in this economy of compassion still had to eat, and an account of his compassion that skipped their hunger would not have finished its work.
+
+And then there is the detail that lifts the whole chapter out of preaching and into economics. Persuading a hunter to stop hunting is not the end of the problem; it is the beginning of a different one. A man who stops hunting still has to eat. Best's essay notes that Shabkar not only counseled hunters to abandon the hunt, but asked the wealthy to see to the support of former hunters, and to their transition into new professions. Think about what that means in practice. The hermit who sang about the hells was also doing livelihood planning. Compassion, in his hands, had to answer the question: and then what does he do on Monday?
+
+That is why this chapter belongs in the episode's spine. Chapter three widened his love until it covered all beings. Chapter four turned that love into urgency. Here, the same love meets a payroll problem and refuses to be embarrassed by it. The beings are not scenery, and neither are their circumstances. A former hunter is not a converted statistic; he is a man whose livelihood has just been taken away, and Shabkar's appeal asked those who could afford it, the wealthy, to support the transition rather than leave its cost with the man himself. It is a small, concrete, almost bureaucratic piece of mercy, and it tells you more about the texture of his compassion than any number of verses about the hells: his kindness kept going past the emotional moment, into arrangements.
+
+Indeed, the essay's summary of the autobiography says he interacts personally with animals at least as much as with humans, and that his travels took him from Amdo to Lhasa, to Nepal, to Mount Kailash. The hermitage was a base camp, not a hiding place; the road kept requisitioning him.
+
+The essay gives us one more piece of the picture. As his reputation grew, the man who had fled society found himself mediating feuds between clans in Amdo, feuds that had run in rounds of bloodshed, and intervening in wrongs he witnessed on the road, including, on one journey, a man deceiving children and selling them into servitude, whom Shabkar rebuked with both Buddhist reasoning and a pointed reminder of the authorities in Lhasa. His fame eventually reached further than Lhasa. When he and his companions planned to donate a sizable amount of gold to a holy site in Nepal, the Qing court's representative in the region, the amban, sent intelligence reports on his activities to the court, and the court responded that his religious efforts were permissible. Think about that arc: the runaway teenager becomes, in the eyes of an empire, a movement to be assessed, and cleared. The pattern is the same as at the hermitage door. He did not go looking for these things. They knocked. And a lifetime of the mother-song's discipline meant he could not pretend the knockers were strangers.
+
+So the hermitage door turns out to have been the whole world in miniature. Beggars, hunters, feuding clans, an eagle with its prey: the knock kept coming, and the answer kept being the same. But Shabkar's refusal to rank beings had a second front, quieter and in its way just as radical. He refused to dismiss other teachings merely because they differed from his own. The next chapter is a song he sang about that refusal, and we give it entire.
+
+## Chapter 6: Paths Up One Mountain
+
+The song had no title of its own; the title it travels under now was supplied by its modern translator, Rachel Pang, whose 2023 translation we used to audit the rendering you are about to hear. Shabkar simply sang it. Where it survives is the third volume of his collected works, in the Shechen Publications edition of 2003, and the long heading the collected works give it is worth hearing about, because it is a stage direction: the heading describes the song as part of a garland of joyful songs sung while he was wandering in retreat without partiality, to urge himself and others toward the Dharma. Self and others, urged together, on the road, in retreat. That is this song's native habitat: not a debating hall, but a man walking, singing at his own party spirit first.
+
+It opens with a prayer, and the prayer already contains the argument:
+
+[RENDERING]
+To all the lineage lamas of Madhyamaka, Dzogchen, Mahamudra, Zhije and Cho, I pray: bless us that we may be without partiality toward the systems of tenets.
+[/RENDERING]
+
+[ANNOTATION Q14 | Source F, verse 1 | Tibetan incipit: དབུ་རྫོགས་ཕྱག་ཆེན་ཞི་བྱེད་གཅོད། བརྒྱུད་པའི་བླ་མ་ཐམས་ཅད་ལ། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/nonsectarianism-song | Audit comparison: Rachel Pang translation, Lotsawa House 2023. Five systems named in Tibetan order: Madhyamaka (dbu ma), Dzogchen (rdzogs chen), Mahamudra (phyag chen), Zhije (zhi byed), Cho (gcod).]
+
+
+Five names. Madhyamaka, the philosophy of emptiness. Dzogchen, the Great Perfection. Mahamudra, the Great Seal. Zhije, the Pacification. Cho, the Cutting. These were not five flavors of one school; they were distinct traditions with distinct methods and, in Shabkar's Tibet, distinct partisans. He asks all of their teachers, together, for one blessing: impartiality. Then comes the image the song is built around. We checked this couplet closely against the Tibetan, and our rendering follows it closely:
+
+[RENDERING]
+The state of genuine, complete buddhahood is like the peak of a mountain. Madhyamaka, Dzogchen, Mahamudra, Zhije and Cho are like paths coming from the four directions. The people who practice them travel those paths, though not in the same way. The teachings are a little different from one another, just as the paths are not identical.
+[/RENDERING]
+
+[ANNOTATION Q15 | Source F, verses 2-3 | Tibetan incipit: ཡང་དག་རྫོགས་པའི་སངས་རྒྱས་ས། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/nonsectarianism-song | Audit comparison: Rachel Pang translation, Lotsawa House 2023. Concurs with the packet's literal check ('The state of genuine, complete buddhahood is like the peak of a mountain'); common literal meaning, not claimed as unique.]
+
+
+Now watch what he does with disagreement, because this is where careless readers turn him into a poster for the idea that all teachings are the same. He says the opposite:
+
+[RENDERING]
+If, the teachings being slightly out of accord, one party says of another, "Your teaching is a false teaching," and disparages it, that is as if the paths of the four directions, which differ in size, in how pleasant or hard they are, in being crooked or straight, should disparage one another: "Your path is not a path. It is a false path."
+[/RENDERING]
+
+[ANNOTATION Q16 | Source F, verses 4-5 | Tibetan incipit: ཆོས་རྣམས་ཅུང་ཟད་མ་མཐུན་ན། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/nonsectarianism-song | Audit comparison: Rachel Pang translation, Lotsawa House 2023. Cung zad rendered 'slightly / a little', kept small in narration to match the Tibetan's understatement.]
+
+
+The teachings differ. He says so twice. What he forbids is not difference but contempt. The song is not a claim that the paths are interchangeable; it is an argument that a path's being different from yours, slower than yours, rougher than yours, does not make it a false path. And he is honest about the differences that matter most to travelers, the practical ones:
+
+[RENDERING]
+The ways of practicing are not the same. It is like this: some ride a good horse; some load a pack animal; some shoulder the load themselves and go. The difference between fast and slow is great. The one on horseback arrives first, the ones with pack animals arrive next, and the ones carrying loads arrive last. Yet whatever teaching one takes up in practice, to attain the state of buddhahood is like reaching the mountain peak by whichever of the four paths one has climbed.
+[/RENDERING]
+
+[ANNOTATION Q17 | Source F, verses 6-8 | Tibetan incipit: ཉམས་སུ་ལེན་ཚུལ་མི་གཅིག་པ། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/nonsectarianism-song | Audit comparison: Rachel Pang translation, Lotsawa House 2023. Horse, pack animal, load-carrier sequence and arrival order follow the Tibetan exactly.]
+
+
+Read that slowly. A hierarchy of speed survives in this song; he is not pretending every vehicle is equally swift. What does not survive is the conclusion his contemporaries kept drawing, that slower means false, that different means damned. Arrival is arrival. The summit does not ask which side you came up.
+
+Two small words carry the song's whole theology of difference, and the Tibetan keeps them modest: the teachings are cung zad, a little, not quite in accord. A little. He neither inflates the disagreements into damnation nor dissolves them into nothing. And the practical instruction that follows from it, in our rendering, is to practice with pure perception whichever of them you yourself are inclined to. Inclination is honored here, not overridden: the song does not assign anyone a path, does not merge the paths into a blend, does not tell the horseman to carry loads for humility's sake. It tells each traveler three things: your path is a path, theirs is too, and contempt is the one move that loses the mountain for everyone. For a song sometimes recruited into modern slogans about all traditions being one, it is remarkably uninterested in oneness. It is interested in conduct on the road.
+
+Then the song does something revealing: it reaches for authorities, and we must be precise about whose voices these are. The next two passages are quotations inside Shabkar's song, sayings he attributes to earlier masters. They are his attributions, presented here as he presents them, not as independently collated historical records:
+
+[RENDERING]
+"In the teachings there is no black and no white. To take sides among tenets and slander the Dharma cuts the very rope by which one climbs to liberation." So said the lord of siddhas, Milarepa.
+[/RENDERING]
+
+[ANNOTATION Q18 | Source F, verse 9, Shabkar's embedded attribution to Milarepa | Tibetan incipit: ཆོས་ལ་དཀར་ནག་མེད་པ་ལ། ... གྲུབ་དབང་མི་ལ་རས་པས་གསུངས། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/nonsectarianism-song | Audit comparison: Rachel Pang translation, Lotsawa House 2023. Presented in narration as Shabkar's attribution, not an independently collated Milarepa quotation, per packet.]
+
+
+[RENDERING]
+"Since wrongdoing against the supports, the Dharma and holy beings, is beyond bearing, abandon the force of partiality and hatred, and spread the jewelled radiance of pure perception over everything." So said Panchen Chokyi Gyaltsen.
+[/RENDERING]
+
+[ANNOTATION Q19 | Source F, verse 10, Shabkar's embedded attribution to Panchen Chokyi Gyaltsen | Tibetan incipit: ཆོས་དང་སྐྱེས་བུ་དམ་པ་ལ། ... པཎ་ཆེན་ཆོས་ཀྱི་རྒྱལ་མཚན་གསུངས། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/nonsectarianism-song | Audit comparison: Rachel Pang translation, Lotsawa House 2023. Same attribution caution as Q18.]
+
+
+Sit with Milarepa's image for a moment, since Shabkar chose to quote it: a rope. To climb to liberation is, in that figure, to be hauled up a rock face on a rope, and sectarian slander does not merely slow the climb. It cuts the rope. This song focuses its criticism on contempt. Shabkar can imagine a teaching being slower, rougher, even slightly out of accord, and still call it a path. What he cannot imagine surviving is contempt, because contempt severs the climber's one connection to the summit. And notice the Panchen's antidote, which Shabkar also chose to quote: pure perception, dag snang, spread over everything like light from a jewel. That same phrase, pure perception, becomes the entire subject of the next chapter's song. The mountain song argues for it. The sunlight song simply stands inside it.
+
+A yogi of the mountains quoting Milarepa, and a Panchen Lama, one of the great institutional figures of the Gelug school, in the same breath, in support of the same point. That is the song in miniature: the mountain does not care which lineage taught you to climb. And he closes by turning the whole thing into a prayer for everyone else:
+
+[RENDERING]
+May everyone act just so, Tsokdruk Rangdrol prays to all. Having prayed to all the lamas of old, I sang this song. Through the blessings of the holy ones of former times, may there be no partiality toward the teachings.
+[/RENDERING]
+
+[ANNOTATION Q20 | Source F, verses 11-12 (closing) and colophon line | Tibetan incipit: དེ་བཞིན་མཛོད་ཅེས་ཐམས་ཅད་ལ། ; colophon: ཅེས་པ་འདི་ཡང་ཚོགས་དྲུག་རང་གྲོལ་གྱིས་སྨྲས་པའོ། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/nonsectarianism-song | Audit comparison: Rachel Pang translation, Lotsawa House 2023.]
+
+
+The Tibetan colophon is one line: "This was spoken by Tsokdruk Rangdrol." Just a singer on the road, asking the teachers of five traditions to bless his listeners out of a habit, contempt, that he clearly believed could cut the rope entirely. The next chapter takes up the shortest of our four songs, sung in retreat, where the same refusal of contempt appears not as an argument but as weather: sunlight, falling on snow.
+
+## Chapter 7: Sunlight on Snow
+
+The last of our four songs is the shortest, and the gentlest, and in some ways the strangest. The Lotsawa House series notes tell us it was composed while he was on retreat on Mahadeva Island in Lake Kokonor, and that the text also appears in his autobiography. Like the nonsectarianism song, it was untitled; "The Sunlight of Pure Perception" is its modern name. Rachel Pang translated it in 2014, and her translation audited ours. The song is only four verses. Here is the whole of it, in our rendering:
+
+[RENDERING]
+Long ago, in the land of snows, through the kindness of the holy ones of old, many profound teachings spread. But most practitioners of the Dharma, taking them as at odds with one another, like heat and cold, practice attachment, aversion and partiality.
+[/RENDERING]
+
+[ANNOTATION Q21 | Source G, verse 1 | Tibetan incipit: གངས་ཅན་ཁྲོད་དུ་སྔོན་གྱི། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/sunlight-of-pure-perception-song | Audit comparison: Rachel Pang translation, 2014, Lotsawa House 2023. 'Like heat and cold' renders tsha grang bzhin du, the song's own simile for teachings taken as contradictory.]
+
+
+[RENDERING]
+Some of the holy ones have said that Madhyamaka, Dzogchen and Mahamudra are like sugar, molasses and honey: each is as good as the other.
+[/RENDERING]
+
+[ANNOTATION Q22 | Source G, verse 2 | Tibetan incipit: དམ་པ་འགའ་རེས་ཞལ་ནས། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/sunlight-of-pure-perception-song | Audit comparison: Rachel Pang translation, 2014, Lotsawa House 2023. Sugar/molasses/honey (ka ra / bu ram / sbrang rtsi) is in the Tibetan, per packet literal check, not a translator's invention; the saying is attributed inside the song to 'some of the holy ones'.]
+
+
+That image is really in the Tibetan, sugar, molasses, honey, three sweetnesses that no one ranks by insulting the others. He does not say the three teachings are one teaching. He says they are sweetnesses of different kinds, and that some of the holy ones, note, not he himself claiming the coinage, said each is as good as the other. Then he steps forward, and the step is a confession, not an attack:
+
+[RENDERING]
+Therefore I have listened to, and reflected on, all of them without partiality. Partisans, you who practice with attachment and aversion, please do not scold me.
+[/RENDERING]
+
+[ANNOTATION Q23 | Source G, verse 3 | Tibetan incipit: དེས་ན་བདག་གིས་ཀུན་ལ། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/sunlight-of-pure-perception-song | Audit comparison: Rachel Pang translation, 2014, Lotsawa House 2023. 'Please do not scold me' renders ma gnang addressed to sectarian practitioners.]
+
+
+Please do not scold me. After the mountain song's argument, this little song pleads. He knows what his impartiality could cost socially; a man who studies everyone's teachings fits no party neatly, and partisans defend their own. The plea is the sound of that exposure: impartiality, in a partisan world, invites suspicion.
+
+And remember where he is singing it from: retreat, on an island in a great lake, about as far from the debating courtyard as his world provided. That setting matters to the song's meaning. His impartiality was not a salon position, adopted where pluralism was fashionable. It was forged in the same solitude where he wept for his mothers, and it has the hermit's signature all over it: a light to keep unobstructed. The mountain song argues with opponents he might meet on the road. The sunlight song has no opponents in it at all, only weather and sweetness and the fear of being scolded, which he answers in advance by pleading, gently, in verse. And then the closing verse, the one that gives the song its name:
+
+[RENDERING]
+When the sunlight of pure perception spreads across Madhyamaka, Dzogchen and Mahamudra, those towering white snow mountains, a stream of blessings will surely flow.
+[/RENDERING]
+
+[ANNOTATION Q24 | Source G, verse 4 (closing) | Tibetan incipit: དབུ་མ་རྫོགས་ཆེན་ཕྱག་ཆེན། ལྷུན་སྟུག་རབ་དཀར་གངས་ལ། | Source: https://www.lotsawahouse.org/bo/tibetan-masters/shabkar/sunlight-of-pure-perception-song | Audit comparison: Rachel Pang translation, 2014, Lotsawa House 2023. 'Stream of blessings' renders byin rlabs chu rgyun.]
+
+
+Sunlight does not argue with the mountain. It does not improve the mountain or correct it. It falls on the whole range at once, and what the mountain gives back, meltwater, streams, is figured as blessing. Pure perception, in this image, is not a technique for winning debates about teachings. It is a change of light.
+
+One thread ties this little song back to the mother at the center of the episode, and it is a single Tibetan word: drin, kindness. The mother songs are built on it; the mothers are drin can ma, the kind mothers, the ones whose kindness must be remembered. This song opens with the same word in a different direction: the profound teachings spread in Tibet, it says, through the kindness, drin, of the holy ones of old. Teachers, in Shabkar's accounting, are also mothers. The teachings arrived the way food and warmth arrived, as somebody's kindness, unearned by the receiver. Which may be the deepest reason contempt for a teaching felt to him like a family offense: to curse a tradition was to curse a kindness that had fed somebody. The man who would not rank his mothers would not curse the kindnesses that had fed his mind either. The songs are one song, at that depth: remember the kindness, all of it, and let the remembering widen until it changes the light.
+
+Now the scholar's care, because this small song sits inside a large claim that is often made too loosely. The nonsectarian movement in Tibetan Buddhism, called rime, is usually associated with the great figures of nineteenth-century Kham, in the east: Jamgon Kongtrul, Jamyang Khyentse Wangpo and their circle. Rachel Pang's research, in her 2014 study of Shabkar's rime activities and her 2015 reconsideration of the term, argues that Shabkar was doing this work earlier, in Amdo, before those better-known Kham figures, and that his activity belongs in the movement's history. Her research also reports something equally important: no identified formal contact between Shabkar and the Kham movement. Two springs, rising separately.
+
+Part of Pang's contribution is lexical, and it disciplines episodes like this one. The Tibetan term at stake, ris med, literally "without partiality," has a semantic range wider than the capital-M Movement it is often translated as. In her 2015 reconsideration she traces it across basic attitude and practice, and into contexts of mind and reality themselves: a disposition of non-partisanship that individuals could hold and enact, in study, in teaching, in whom they would learn from, long before and far beyond any coordinated campaign. Her semantic range for the term is wider than the three strands this episode follows; those three are our selection, drawing on her analysis, not her definition. Shabkar fits that older, wider sense precisely. His impartiality was a practice, not a platform. He studied across traditions, taught whoever knocked, and praised rival schools in song. This evidence presents his nonsectarianism through study, teaching and songs, not as the founding charter of a centralized organization. Retrofitting him as the chairman of a movement he predated would be exactly the kind of sectarian bookkeeping, ours instead of theirs, that his songs exist to refuse.
+
+So let the record be stated exactly. The evidence presented here does not make Shabkar the founder of a centralized rime organization. The sources checked for this episode do not establish a meeting with Patrul Rinpoche, the other great wandering teacher of that century. There are traditional reports that Patrul tried to meet him, and they are worth repeating only as what they are: traditional reports, not a verified meeting. What the documents support is more interesting than the legend anyway: a hermit in the northeast, working from songs and personal example, arriving at the same refusal of contempt that the famous eastern masters would later take up in their own ways. Pang also cautions, and we follow her, against melting his position into a modern slogan. His impartiality lived inside a Buddhist framework, with Buddhist premises about liberation; it was not a general claim that all religions are identical, and chapter six's song never says they are.
+
+Sunlight on snow, then, is not a program. It is a disposition with a pedigree: the disposition of a man who had already refused to rank his mothers, refused to rank the beings at his door, and now refuses to dismiss other paths up the mountain. Which brings us to the end, and to the question of what holds all of this together in one life.
+
+## Chapter 8: The Song After the Song
+
+Four songs, and we have heard them all. Let us lay them side by side one last time, not as quotations now, but as the shape they make together.
+
+The mother song widened one woman's kindness until it covered every being who ever lived. The compassion song stood at a hermitage door and turned that wideness into urgency: today, not tomorrow. The mountain song refused to curse other paths. The sunlight song refused even to argue: it changed the light instead. Renunciation and responsibility. Clarity and kindness. Different paths, no contempt. A man left the world as completely as anyone of his century managed to leave it, and the leaving kept failing, beautifully, in every direction: his grief followed him into the hermitage, the beggars found his door, the hunters needed new livings, the feuding clans needed a mediator, the rival schools needed, in his hearing, not refutation but sunlight.
+
+Run the spine from the opening of this episode through it one final time, with the debts acknowledged. Drawing on Pang's analysis, we followed three strands of impartiality, and the life, as the sources let us see it, kept all three under strain. Places without a fixed home: the teenager who fled the household, the pilgrim of Lhasa and Kailash, the island retreatant, the hermit whose hut had a door the world had learned. Compassion without preferred beings: the mother song's widening grief, the door song's emergency vow, the hunter's new livelihood, the ant and the eagle and the child being sold, each met as somebody. Respect without sectarian hostility: five traditions prayed to in one breath, sweetnesses beside sweetnesses, sunlight that does not argue. The frame holds because the life kept testing it at its weakest points: the mother he could not reach, the solitude he could not keep, the schools he would not curse. Impartiality, in Shabkar, is not serenity. It is a discipline that kept costing him something, which is how we know it was one.
+
+One thing must be said clearly at the end, because a high view can be misheard as an escape hatch. Shabkar's Dzogchen was real; his tradition counts him a master of it, and the songs we excluded from this episode include works of direct instruction that circulate widely. But nothing in the four songs we read suggests that the view dissolves the visitor. If all beings are empty of fixed nature, the hungry man at the door is not therefore imaginary. In Shabkar's life the highest view and the most concrete mercy are not in competition. The view is what made the mercy impartial: no preferred beings, and a refusal to dismiss other paths merely because they differed from his own. This episode has stayed at that level deliberately, context and conduct, and offers no practice manual, because the songs themselves point at conduct: remember, feed, refrain, respect.
+
+One more limit, easy to miss, belongs in the open. The autobiographical account summarized by Best runs through age 56. We have not audited later-life sources here. Whole territories of the later life therefore stand outside the record this episode rests on, and we note the edge of the map rather than drawing past it.
+
+A final honesty about scope. This episode is a bounded thing: one secondary account of a long autobiography, four songs in substantial renderings with documented selection, two scholarly studies drawn on for one strand of his activity. Shabkar wrote vastly more than we have touched, his collected works run to volumes, and whole territories of the life, the retreats, the teachings, the long later years, stand outside our four songs entirely. We chose the boundary on purpose: better four songs actually read, word by word, than a whole life summarized from summaries. But the boundary should be visible. What we have given you is a door into the house, not the house. The songs, at least, are sized for carrying, and a door, as this episode has had reason to know, is not a small thing in Shabkar's world.
+
+Here is our own closing image, and we mark it as ours, not his: a door, a mountain, and morning light. The door is the one the beggars knocked on, again and again, until the man inside understood that solitude is not a wall but a place you return to between knockings. The mountain is the one with paths on every side, each path really different, each really a path, the peak indifferent to our quarrels about the route. And the light is the light that falls on all the slopes at once, asking nothing, ranking nothing, melting the snow into streams that anyone downstream can drink. He sang about all three. We have only arranged them.
+
+He asked, in the compassion song, to awaken quickly, quickly, for the sake of the mothers. The record says he spent the rest of his life acting as if the prayer had a deadline only he could hear: teaching, mediating, persuading hunters, feeding the conversation between schools that preferred to shout. If the hermit could not ignore the world, perhaps that is because, on his own account, the world was his family, knocking. The songs remain. They were built to be carried by voice, and they have been carried, across two centuries, into this episode, into your ears. What they ask of a listener is unfashionably simple, and he aimed it at himself before he ever aimed it at us: remember everyone's kindness. Let no grief stay small. And when the knock comes, answer the door.
+
+Credits, spoken plainly, because this episode stands on other people's work. The four songs were rendered for this episode from their Tibetan texts as published by Lotsawa House, where translations by Adam Pearcey, the Song of Compassion and When Remembering My Mother, and by Rachel Pang, the Song of Nonsectarianism and The Sunlight of Pure Perception, served as the audit for our renderings; the Tibetan texts come to Lotsawa House courtesy of Alak Zenkar Rinpoche and from Shabkar's collected works. The life narrative follows Becky Best's essay on the autobiography, hosted by Columbia University, itself an account of Matthieu Ricard's translation of The Life of Shabkar, and the account of the nonsectarian activity follows Rachel Pang's published research. The episode's own commentary, and every error in the renderings, are ours.
+
+[END OF SCRIPT]
