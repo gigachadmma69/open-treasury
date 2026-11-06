@@ -1,0 +1,243 @@
+{
+  "master": "padma-master-repaired-r2.mp3",
+  "master_duration_s": 3639.5,
+  "master_bytes": 29118054,
+  "master_md5": "6253af5227a5ff589da65fb61fc8c9a7",
+  "master_sha256": "9f9f4615382bee4afc23a1fb91881acd269c9ffd309727ea9c4bc8f040d55734",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Someone is coming",
+      "start_s": 0.0,
+      "end_s": 182.448,
+      "dur_s": 182.448,
+      "pitch_hz": 189.0,
+      "in_band": true,
+      "units": [
+        1
+      ],
+      "words": 423
+    },
+    {
+      "chapter": 2,
+      "title": "A name in an old manuscript",
+      "start_s": 182.448,
+      "end_s": 381.432,
+      "dur_s": 198.984,
+      "pitch_hz": 187.2,
+      "in_band": true,
+      "units": [
+        2
+      ],
+      "words": 446
+    },
+    {
+      "chapter": 3,
+      "title": "When does a visitor become a world?",
+      "start_s": 381.432,
+      "end_s": 570.408,
+      "dur_s": 188.976,
+      "pitch_hz": 185.2,
+      "in_band": true,
+      "units": [
+        3
+      ],
+      "words": 435
+    },
+    {
+      "chapter": 4,
+      "title": "The lotus and the household",
+      "start_s": 570.408,
+      "end_s": 777.96,
+      "dur_s": 207.552,
+      "pitch_hz": 189.0,
+      "in_band": true,
+      "units": [
+        4
+      ],
+      "words": 457
+    },
+    {
+      "chapter": 5,
+      "title": "The prince who cannot remain a prince",
+      "start_s": 777.96,
+      "end_s": 1045.44,
+      "dur_s": 267.48,
+      "pitch_hz": 187.5,
+      "in_band": true,
+      "units": [
+        5
+      ],
+      "words": 603
+    },
+    {
+      "chapter": 6,
+      "title": "Power is not yet understanding",
+      "start_s": 1045.44,
+      "end_s": 1234.896,
+      "dur_s": 189.456,
+      "pitch_hz": 188.2,
+      "in_band": true,
+      "units": [
+        6
+      ],
+      "words": 414
+    },
+    {
+      "chapter": 7,
+      "title": "Fire, lake and the precision of a story",
+      "start_s": 1234.896,
+      "end_s": 1434.816,
+      "dur_s": 199.92,
+      "pitch_hz": 188.5,
+      "in_band": true,
+      "units": [
+        7
+      ],
+      "words": 437
+    },
+    {
+      "chapter": 8,
+      "title": "The women who carry the account",
+      "start_s": 1434.816,
+      "end_s": 1718.256,
+      "dur_s": 283.44,
+      "pitch_hz": 188.9,
+      "in_band": true,
+      "units": [
+        8
+      ],
+      "words": 610
+    },
+    {
+      "chapter": 9,
+      "title": "The abbot, the master and the king",
+      "start_s": 1718.256,
+      "end_s": 1945.128,
+      "dur_s": 226.872,
+      "pitch_hz": 188.8,
+      "in_band": true,
+      "units": [
+        9
+      ],
+      "words": 489
+    },
+    {
+      "chapter": 10,
+      "title": "A foundation needs more than a miracle",
+      "start_s": 1945.128,
+      "end_s": 2248.786,
+      "dur_s": 303.658,
+      "pitch_hz": 187.2,
+      "in_band": true,
+      "units": [
+        10
+      ],
+      "words": 646
+    },
+    {
+      "chapter": 11,
+      "title": "A place can remember",
+      "start_s": 2248.786,
+      "end_s": 2417.362,
+      "dur_s": 168.576,
+      "pitch_hz": 185.1,
+      "in_band": true,
+      "units": [
+        11
+      ],
+      "words": 391
+    },
+    {
+      "chapter": 12,
+      "title": "The teacher with eight names",
+      "start_s": 2417.362,
+      "end_s": 2628.802,
+      "dur_s": 211.44,
+      "pitch_hz": 186.8,
+      "in_band": true,
+      "units": [
+        12
+      ],
+      "words": 472
+    },
+    {
+      "chapter": 13,
+      "title": "The sky and the flour",
+      "start_s": 2628.802,
+      "end_s": 2842.196,
+      "dur_s": 213.394,
+      "pitch_hz": 185.8,
+      "in_band": true,
+      "units": [
+        13
+      ],
+      "words": 491
+    },
+    {
+      "chapter": 14,
+      "title": "What the highest view does not settle",
+      "start_s": 2842.196,
+      "end_s": 3064.988,
+      "dur_s": 222.792,
+      "pitch_hz": 187.1,
+      "in_band": true,
+      "units": [
+        14
+      ],
+      "words": 504
+    },
+    {
+      "chapter": 15,
+      "title": "A treasure is meant for someone later",
+      "start_s": 3064.988,
+      "end_s": 3278.636,
+      "dur_s": 213.648,
+      "pitch_hz": 185.5,
+      "in_band": true,
+      "units": [
+        15
+      ],
+      "words": 483
+    },
+    {
+      "chapter": 16,
+      "title": "The teacher leaves, and does not leave",
+      "start_s": 3278.636,
+      "end_s": 3463.652,
+      "dur_s": 185.016,
+      "pitch_hz": 187.9,
+      "in_band": true,
+      "units": [
+        16
+      ],
+      "words": 409
+    },
+    {
+      "chapter": 17,
+      "title": "The map we can stand behind",
+      "start_s": 3463.652,
+      "end_s": 3535.268,
+      "dur_s": 71.616,
+      "pitch_hz": 183.5,
+      "in_band": true,
+      "units": [
+        17
+      ],
+      "words": 160
+    },
+    {
+      "chapter": 18,
+      "title": "Someone is still arriving",
+      "start_s": 3535.268,
+      "end_s": 3639.5,
+      "dur_s": 104.232,
+      "pitch_hz": 188.3,
+      "in_band": true,
+      "units": [
+        18
+      ],
+      "words": 222
+    }
+  ]
+}
