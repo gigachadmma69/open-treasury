@@ -7,4 +7,4 @@ Original Dharma audio, narrated by Tara (AI), with Joseph Matten. All works CC0 
 
 ## Support solicitation rule
 
-Episodes that quote Lotsawa House or other CC BY-NC(-SA) material carry no support solicitation: no dana line and no donation button on the episode page or its notes. Non-commercial licenses forbid it. CC0-original episodes may carry the voluntary Buy Me a Coffee dana line and button.
+Episodes that quote Lotsawa House or other CC BY-NC(-SA) material carry no support solicitation: no dana line and no donation button on the episode page or its notes. Non-commercial licenses forbid it. This includes the Padma and Patrul episodes and the tantra series. Own-original no-quote episodes (e.g. Padampa, Machig, Third Karmapa) may carry the voluntary Buy Me a Coffee dana line and button.
