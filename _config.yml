@@ -1,0 +1,28 @@
+# Keep duplicate archive-backed MP3s out of the Pages artifact.
+# Repository originals remain intact. Current feed and page references are preserved.
+exclude:
+  - audio/drukpa-kunley-the-divine-madman.mp3
+  - audio/dudjom-lingpa-the-delusory-visionary.mp3
+  - audio/garab-dorje-the-first-human.mp3
+  - audio/gd-first-hand-definitive-course.mp3
+  - audio/knowing-and-seeing-complete-course.mp3
+  - audio/lotus-sutra-crash-course-46min.mp3
+  - audio/marpa-the-translator.mp3
+  - audio/milarepa-the-cotton-clad.mp3
+  - audio/nagarjuna-the-serpent-library.mp3
+  - audio/naropa-the-scholar-who-jumped.mp3
+  - audio/padmasambhava-the-second-buddha.mp3
+  - audio/rongzom-the-black-snake-discourse.mp3
+  - audio/saraha-the-arrow-maker.mp3
+  - audio/sri-singha-the-vault-keeper.mp3
+  - audio/tantra-01-redux-cuckoo-of-awareness.mp3
+  - audio/tantra-02-the-all-creating-king.mp3
+  - audio/tantra-03-the-reverberation-of-sound.mp3
+  - audio/tantra-04-union-of-the-sun-and-moon.mp3
+  - audio/tantra-05-blazing-lamp.mp3
+  - audio/tantra-06-self-arisen-awareness.mp3
+  - audio/tantra-whole-shelf-crash-course.mp3
+  - audio/tilopa-the-sesame-grinder.mp3
+  - audio/two-flames-full-course.mp3
+  - audio/unbound-full-course.mp3
+  - audio/yeshe-tsogyal-the-pen-in-the-cave.mp3
