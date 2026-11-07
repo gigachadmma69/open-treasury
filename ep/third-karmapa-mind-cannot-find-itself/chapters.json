@@ -1,0 +1,249 @@
+{
+  "master": "third-karmapa-master-repaired.mp3",
+  "as_read_version": "v3",
+  "total_duration_s": 3746.666,
+  "total_words": 8241,
+  "master_wpm": 132.0,
+  "as_read": "v3/as-read-v3.txt",
+  "as_read_sha256": "233492fb91cc58582dbdcd53ca2ba447bec08e146c3b94fba76b40821cad4c0c",
+  "master_md5": "a0536bf89fb8fe410ed9bade9ac213da",
+  "master_sha256": "b05bf431fe5281d2300a1c2126c4798da55b1f85fee7db2babbe8a072226f210",
+  "lite_md5": "d8af2e7d1fd4710d66f63616208b8232",
+  "lite_sha256": "b685955c104e81582a02f202ea8ccbe2aa2c79ef59829dbe15274e0dbda4cdbb",
+  "part_aa_md5": "4a843f12cf1d80b47c058723ce28f351",
+  "part_ab_md5": "48b601f98a808ffe899889523119c3f3",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "The emperor's guest.",
+      "start_s": 0.0,
+      "end_s": 184.224,
+      "dur_s": 184.224,
+      "words": 392,
+      "pitch_hz": 189.6,
+      "in_band": true
+    },
+    {
+      "chapter": 2,
+      "title": "A third life changes the story.",
+      "start_s": 184.224,
+      "end_s": 384.864,
+      "dur_s": 200.64,
+      "words": 444,
+      "pitch_hz": 185.0,
+      "in_band": true
+    },
+    {
+      "chapter": 3,
+      "title": "Recognition is not an education.",
+      "start_s": 384.864,
+      "end_s": 570.936,
+      "dur_s": 186.072,
+      "words": 403,
+      "pitch_hz": 186.1,
+      "in_band": true
+    },
+    {
+      "chapter": 4,
+      "title": "Retreats, bridges and communities.",
+      "start_s": 570.936,
+      "end_s": 731.952,
+      "dur_s": 161.016,
+      "words": 372,
+      "pitch_hz": 188.8,
+      "in_band": true
+    },
+    {
+      "chapter": 5,
+      "title": "At the court.",
+      "start_s": 731.952,
+      "end_s": 885.408,
+      "dur_s": 153.456,
+      "words": 333,
+      "pitch_hz": 186.5,
+      "in_band": true
+    },
+    {
+      "chapter": 6,
+      "title": "Why a prayer asks questions.",
+      "start_s": 885.408,
+      "end_s": 1037.496,
+      "dur_s": 152.088,
+      "words": 341,
+      "pitch_hz": 186.7,
+      "in_band": true
+    },
+    {
+      "chapter": 7,
+      "title": "Who owns a good action?.",
+      "start_s": 1037.496,
+      "end_s": 1188.408,
+      "dur_s": 150.912,
+      "words": 345,
+      "pitch_hz": 185.2,
+      "in_band": true
+    },
+    {
+      "chapter": 8,
+      "title": "Two truths without two worlds.",
+      "start_s": 1188.408,
+      "end_s": 1339.44,
+      "dur_s": 151.032,
+      "words": 351,
+      "pitch_hz": 187.2,
+      "in_band": true
+    },
+    {
+      "chapter": 9,
+      "title": "Clarity is not a hidden owner.",
+      "start_s": 1339.44,
+      "end_s": 1503.72,
+      "dur_s": 164.28,
+      "words": 343,
+      "pitch_hz": 188.3,
+      "in_band": true
+    },
+    {
+      "chapter": 10,
+      "title": "Mind does not escape its own question.",
+      "start_s": 1503.72,
+      "end_s": 1655.64,
+      "dur_s": 151.92,
+      "words": 346,
+      "pitch_hz": 185.3,
+      "in_band": true
+    },
+    {
+      "chapter": 11,
+      "title": "A world experienced, a world shared.",
+      "start_s": 1655.64,
+      "end_s": 1819.512,
+      "dur_s": 163.872,
+      "words": 343,
+      "pitch_hz": 188.1,
+      "in_band": true
+    },
+    {
+      "chapter": 12,
+      "title": "Neither a thing nor nothing.",
+      "start_s": 1819.512,
+      "end_s": 1981.44,
+      "dur_s": 161.928,
+      "words": 333,
+      "pitch_hz": 188.0,
+      "in_band": true
+    },
+    {
+      "chapter": 13,
+      "title": "Why purification is not manufacturing a soul.",
+      "start_s": 1981.44,
+      "end_s": 2130.672,
+      "dur_s": 149.232,
+      "words": 346,
+      "pitch_hz": 183.2,
+      "in_band": true
+    },
+    {
+      "chapter": 14,
+      "title": "When calm becomes an alibi.",
+      "start_s": 2130.672,
+      "end_s": 2283.288,
+      "dur_s": 152.616,
+      "words": 330,
+      "pitch_hz": 184.7,
+      "in_band": true
+    },
+    {
+      "chapter": 15,
+      "title": "Three great names, one difficult passage.",
+      "start_s": 2283.288,
+      "end_s": 2448.936,
+      "dur_s": 165.648,
+      "words": 361,
+      "pitch_hz": 185.2,
+      "in_band": true
+    },
+    {
+      "chapter": 16,
+      "title": "Pleasant experiences and the hunger to keep them.",
+      "start_s": 2448.936,
+      "end_s": 2610.264,
+      "dur_s": 161.328,
+      "words": 351,
+      "pitch_hz": 183.0,
+      "in_band": true
+    },
+    {
+      "chapter": 17,
+      "title": "Ordinary is not careless.",
+      "start_s": 2610.264,
+      "end_s": 2754.216,
+      "dur_s": 143.952,
+      "words": 322,
+      "pitch_hz": 184.9,
+      "in_band": true
+    },
+    {
+      "chapter": 18,
+      "title": "Compassion is inside the argument.",
+      "start_s": 2754.216,
+      "end_s": 2935.464,
+      "dur_s": 181.248,
+      "words": 366,
+      "pitch_hz": 187.3,
+      "in_band": true
+    },
+    {
+      "chapter": 19,
+      "title": "The poet shows the strings.",
+      "start_s": 2935.464,
+      "end_s": 3090.432,
+      "dur_s": 154.968,
+      "words": 373,
+      "pitch_hz": 182.9,
+      "in_band": true
+    },
+    {
+      "chapter": 20,
+      "title": "What a mountain does in a poem.",
+      "start_s": 3090.432,
+      "end_s": 3261.0,
+      "dur_s": 170.568,
+      "words": 373,
+      "pitch_hz": 188.4,
+      "in_band": true
+    },
+    {
+      "chapter": 21,
+      "title": "A later label is not an autograph.",
+      "start_s": 3261.0,
+      "end_s": 3413.856,
+      "dur_s": 152.856,
+      "words": 349,
+      "pitch_hz": 184.1,
+      "in_band": true
+    },
+    {
+      "chapter": 22,
+      "title": "What the life and the prayer ask of each other.",
+      "start_s": 3413.856,
+      "end_s": 3593.808,
+      "dur_s": 179.952,
+      "words": 386,
+      "pitch_hz": 186.6,
+      "in_band": true
+    },
+    {
+      "chapter": 23,
+      "title": "What this course read.",
+      "start_s": 3593.808,
+      "end_s": 3746.666,
+      "dur_s": 152.85800000000017,
+      "words": 330,
+      "pitch_hz": 183.0,
+      "in_band": true
+    }
+  ],
+  "boundary_method": "cumulative MP3 frame counts (576 samples/frame at 24 kHz) = actual encoded boundaries; final chapter ends 3746.544 s, master decodes to 3746.666 s (6 frames / 0.144 s concat padding)",
+  "note": "Frame-based starts verified by chapter-join transcription. Final end includes 0.122s master padding beyond cumulative chapter-frame end."
+}
