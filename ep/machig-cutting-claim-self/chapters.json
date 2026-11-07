@@ -1,0 +1,272 @@
+{
+  "master": "machig-master-repaired-r2.mp3",
+  "total_duration_s": 3537.85,
+  "total_words": 8303,
+  "master_wpm": 140.8,
+  "as_read_sha256": "84b02ee410e02de80f447c2dd5d89ccd3c8004dbd7a28cf22277dfa35b43d2dd",
+  "master_md5": "741280c1918169c6721af9b73c5f4c69",
+  "master_sha256": "2ab7e69a2d87ae06c26d9abc18d2664fa58efea5006bf9f72c8dec8bad26f475",
+  "lite_md5": "3b12a58a7f68a18a104c1a71a9fa080d",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "A woman who founded a tradition",
+      "start_s": 0.0,
+      "end_s": 137.472,
+      "dur_s": 137.472,
+      "words": 322,
+      "pitch_hz": 187.1,
+      "in_band": true
+    },
+    {
+      "chapter": 2,
+      "title": "Dates, places, and honest uncertainty",
+      "start_s": 137.472,
+      "end_s": 265.618,
+      "dur_s": 128.146,
+      "words": 329,
+      "pitch_hz": 186.9,
+      "in_band": true
+    },
+    {
+      "chapter": 3,
+      "title": "The world of the later spread",
+      "start_s": 265.618,
+      "end_s": 395.338,
+      "dur_s": 129.72,
+      "words": 309,
+      "pitch_hz": 190.0,
+      "in_band": true
+    },
+    {
+      "chapter": 4,
+      "title": "The professional reader and the meaning of wisdom",
+      "start_s": 395.338,
+      "end_s": 543.322,
+      "dur_s": 147.984,
+      "words": 327,
+      "pitch_hz": 185.5,
+      "in_band": true
+    },
+    {
+      "chapter": 5,
+      "title": "Teachers and the Padampa question",
+      "start_s": 543.322,
+      "end_s": 668.53,
+      "dur_s": 125.208,
+      "words": 314,
+      "pitch_hz": 187.3,
+      "in_band": true
+    },
+    {
+      "chapter": 6,
+      "title": "Family life without a ready-made moral",
+      "start_s": 668.53,
+      "end_s": 804.278,
+      "dur_s": 135.748,
+      "words": 328,
+      "pitch_hz": 188.8,
+      "in_band": true
+    },
+    {
+      "chapter": 7,
+      "title": "Zangri and the formation of a community",
+      "start_s": 804.278,
+      "end_s": 948.494,
+      "dur_s": 144.216,
+      "words": 313,
+      "pitch_hz": 188.5,
+      "in_band": true
+    },
+    {
+      "chapter": 8,
+      "title": "A text attributed to Machig",
+      "start_s": 948.494,
+      "end_s": 1070.606,
+      "dur_s": 122.112,
+      "words": 306,
+      "pitch_hz": 188.1,
+      "in_band": true
+    },
+    {
+      "chapter": 9,
+      "title": "What is being cut?",
+      "start_s": 1070.606,
+      "end_s": 1196.126,
+      "dur_s": 125.52,
+      "words": 323,
+      "pitch_hz": 187.6,
+      "in_band": true
+    },
+    {
+      "chapter": 10,
+      "title": "The Great Mother",
+      "start_s": 1196.126,
+      "end_s": 1324.958,
+      "dur_s": 128.832,
+      "words": 313,
+      "pitch_hz": 183.8,
+      "in_band": true
+    },
+    {
+      "chapter": 11,
+      "title": "The four obstructions, and why the list is not a monster catalogue",
+      "start_s": 1324.958,
+      "end_s": 1480.046,
+      "dur_s": 155.088,
+      "words": 323,
+      "pitch_hz": 189.9,
+      "in_band": true
+    },
+    {
+      "chapter": 12,
+      "title": "Objects and the work of reification",
+      "start_s": 1480.046,
+      "end_s": 1646.942,
+      "dur_s": 166.896,
+      "words": 331,
+      "pitch_hz": 189.0,
+      "in_band": true
+    },
+    {
+      "chapter": 13,
+      "title": "The invisible object",
+      "start_s": 1646.942,
+      "end_s": 1787.54,
+      "dur_s": 140.598,
+      "words": 331,
+      "pitch_hz": 186.2,
+      "in_band": true
+    },
+    {
+      "chapter": 14,
+      "title": "The obstruction of delight",
+      "start_s": 1787.54,
+      "end_s": 1933.436,
+      "dur_s": 145.896,
+      "words": 335,
+      "pitch_hz": 184.5,
+      "in_band": true
+    },
+    {
+      "chapter": 15,
+      "title": "Pride is more than boasting",
+      "start_s": 1933.436,
+      "end_s": 2057.956,
+      "dur_s": 124.52,
+      "words": 333,
+      "pitch_hz": 187.1,
+      "in_band": true
+    },
+    {
+      "chapter": 16,
+      "title": "Giving and the body, without a performance manual",
+      "start_s": 2057.956,
+      "end_s": 2203.474,
+      "dur_s": 145.518,
+      "words": 314,
+      "pitch_hz": 186.6,
+      "in_band": true
+    },
+    {
+      "chapter": 17,
+      "title": "Fear is not a credential",
+      "start_s": 2203.474,
+      "end_s": 2332.09,
+      "dur_s": 128.616,
+      "words": 330,
+      "pitch_hz": 185.5,
+      "in_band": true
+    },
+    {
+      "chapter": 18,
+      "title": "Not making emptiness into a refuge from responsibility",
+      "start_s": 2332.09,
+      "end_s": 2463.922,
+      "dur_s": 131.832,
+      "words": 307,
+      "pitch_hz": 184.5,
+      "in_band": true
+    },
+    {
+      "chapter": 19,
+      "title": "The teacher who can speak but cannot nourish",
+      "start_s": 2463.922,
+      "end_s": 2614.546,
+      "dur_s": 150.624,
+      "words": 332,
+      "pitch_hz": 189.5,
+      "in_band": true
+    },
+    {
+      "chapter": 20,
+      "title": "A lion without the need to be admired",
+      "start_s": 2614.546,
+      "end_s": 2740.354,
+      "dur_s": 125.808,
+      "words": 322,
+      "pitch_hz": 186.9,
+      "in_band": true
+    },
+    {
+      "chapter": 21,
+      "title": "Innovation and the claim of Indian recognition",
+      "start_s": 2740.354,
+      "end_s": 2868.682,
+      "dur_s": 128.328,
+      "words": 323,
+      "pitch_hz": 186.0,
+      "in_band": true
+    },
+    {
+      "chapter": 22,
+      "title": "The Third Karmapa and the life after the founder",
+      "start_s": 2868.682,
+      "end_s": 3005.434,
+      "dur_s": 136.752,
+      "words": 310,
+      "pitch_hz": 185.3,
+      "in_band": true
+    },
+    {
+      "chapter": 23,
+      "title": "The image of a dancing teacher",
+      "start_s": 3005.434,
+      "end_s": 3138.346,
+      "dur_s": 132.912,
+      "words": 309,
+      "pitch_hz": 188.4,
+      "in_band": true
+    },
+    {
+      "chapter": 24,
+      "title": "What can enter an ordinary day",
+      "start_s": 3138.346,
+      "end_s": 3279.658,
+      "dur_s": 141.312,
+      "words": 320,
+      "pitch_hz": 188.9,
+      "in_band": true
+    },
+    {
+      "chapter": 25,
+      "title": "A founder without possession",
+      "start_s": 3279.658,
+      "end_s": 3410.194,
+      "dur_s": 130.536,
+      "words": 297,
+      "pitch_hz": 187.0,
+      "in_band": true
+    },
+    {
+      "chapter": 26,
+      "title": "Source note, spoken",
+      "start_s": 3410.194,
+      "end_s": 3537.85,
+      "dur_s": 127.656,
+      "words": 302,
+      "pitch_hz": 187.5,
+      "in_band": true
+    }
+  ]
+}
