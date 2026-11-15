@@ -74,3 +74,8 @@ AI narration by Tara in the selected Aoede voice. Sanskrit, Tibetan and other na
 Selected Aoede voice; warm, playful, relaxed American English. The preserved source deliveries are 48 kHz mono Opus at about40 kbps. The public MP3 is a128 kbps listening copy derived from those lossy sources, not a recovered lossless original. No pitch, speed, EQ, music or general compression was applied. The public copy uses2.89 dB gain and a transparent oversampled peak limiter. Final measured loudness is-17.7 LUFS integrated,4.2 LU range and-1.7 dBTP. Duration47:27.
 
 A complete independent automatic transcription was compared with the frozen script. Short repairs replaced an incorrect ordinary word in chapter1, the aesthetician opening in chapter3 and the Pondicherry paragraph in chapter4, with the same frozen wording. A duplicated closing paragraph in chapter4 was removed. Repair words and edit joins were independently checked again. Name pronunciation can remain approximate; this is not a full human-ear listening certification.
+
+
+## Attribution clarification
+
+Attribution clarification (15 November 2026): the phrase "When his Sakti is unfolded, he becomes Siva Himself" is from Jaideva Singh's introductory explanation following his summary of Pratyabhijnahrdayam sutra 9, not the Sanskrit root sutra itself. The nearby discussion of contraction paraphrases sutra 9; the five acts concern sutra 10. The quotation is genuine; its passage-level attribution is clarified here. The existing audio remains online while an attribution-only audio correction is prepared.
