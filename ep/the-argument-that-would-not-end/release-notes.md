@@ -1,0 +1,15 @@
+# The Argument That Would Not End
+
+Samye, Sudden Awakening, and the Work After Recognition. An original 24-chapter course, 49 minutes 24 seconds, narrated by Tara for The Open Treasury.
+
+A moment of recognition can happen quickly. What follows may ask for a lifetime of honesty. This course uses the Samye controversy to examine thought and fixation, suddenness and cultivation, nonconceptual knowledge, the contribution of experience, compassion, power, and the work after recognition. Ordinary-life examples are original illustrations, not ancient quotations.
+
+The received Testimony of Ba is a layered narrative, not an eyewitness transcript. Biondo's textual arguments, Adam's philosophical interpretation and van Schaik's Chan research remain attributed. No independent complete reading of all three Bhavanakramas, Tillemans's 2013 essay, the Chinese debate record, Gomez's full chapter or Ding's lecture is claimed. A partial preview or event abstract is not treated as a full reading. The course avoids both blankness/antinomian caricatures and declaring both sides secretly identical.
+
+This is study and reflection, not initiation, a meditation technique manual, individualized spiritual direction or a claim to attainment. No listener is asked to surrender consent, judgment, outside support or the freedom to leave a relationship. Claims about ultimate reality do not excuse ordinary harm.
+
+All 48 original clips received automated wording and signal checks; 16 uncertain clips received independent second full recognition passes, with extra checks and complete retakes 10r1, 16r1 and 31r2 selected. All originals and four retakes are preserved. Script v2 changes only the book title in clip 31 from Dba' bzhed to its established English title, Testimony of Ba, after repeated pronunciation failures. Minor function-word and inflection variations may remain, including disagreement/disagreements in clip 46 and becomes/become in clip 47. Names use approximate English pronunciation. No full human-ear or native-pronunciation certification is claimed.
+
+The listening copy uses fixed +2.5 dB gain and transparent oversampled peak limiting only, with no EQ, other compression, word patches, speed or pitch changes. The final MP3 measures -17.6 LUFS and -1.9 dBTP. Untouched originals and an untouched lossless whole-take master are retained. MP3, M4A and video full decodes passed. All 24 actual encoded chapter designs and 24 motion pairs were visually inspected. Frame rounding places the final visual ending about 1.7 seconds after the audio, without slowing the narration.
+
+CC0 covers only original commentary, synthetic narration and original symbolic artwork insofar as the creator holds rights. Third-party translations, editions and scholarship retain their own rights. No source translation or academic PDF is recited or redistributed, and no source images are used. No support, donation or commercial solicitation accompanies this course. The companion gives exact source URLs, credits and reading limits.
