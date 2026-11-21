@@ -1,0 +1,855 @@
+{
+  "episode": {
+    "title": "Lila: The Play That Makes Worlds",
+    "audio_url": "https://archive.org/download/open-treasury-lila-play-that-makes-worlds-20261115/lila-play-that-makes-worlds.mp3",
+    "audio_bytes": 39655826,
+    "page": "https://gigachadmma69.github.io/open-treasury/ep/lila-play-that-makes-worlds/",
+    "guid": "lila-play-that-makes-worlds-v2-20261115",
+    "index": 4,
+    "slug": "lila-play-that-makes-worlds"
+  },
+  "auto_generated": true,
+  "pilot_not_listening_rank": true,
+  "method": "Open-source faster-whisper base.en CPU int8, with overlapping boundary-window checks and selected small.en rechecks. Names and terms checked against the prepared published script; original recognition preserved in the private production archive. Not a verbatim certified or native-speaker-reviewed transcript.",
+  "provenance": {
+    "episode": {
+      "title": "Lila: The Play That Makes Worlds",
+      "audio_url": "https://archive.org/download/open-treasury-lila-play-that-makes-worlds-20261115/lila-play-that-makes-worlds.mp3",
+      "audio_bytes": 39655826,
+      "page": "https://gigachadmma69.github.io/open-treasury/ep/lila-play-that-makes-worlds/",
+      "guid": "lila-play-that-makes-worlds-v2-20261115",
+      "index": 4,
+      "slug": "lila-play-that-makes-worlds"
+    },
+    "source_sha256": "91956dd45ed12e039184f6a78883f7b8ba9868b0bdb5260f256fd423747489f6",
+    "source_bytes": 39655826,
+    "duration": 2478.456,
+    "model": "faster-whisper base.en, CPU int8, beam1, word timestamps",
+    "auto_generated": true,
+    "selection": "Pilot, not listening-rank data"
+  },
+  "term_corrections": [
+    {
+      "start": 183.6,
+      "end": 183.76,
+      "asr": "text",
+      "corrected": "texts",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 188.46,
+      "end": 188.7,
+      "asr": "text",
+      "corrected": "texts",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 232.0,
+      "end": 232.66,
+      "asr": "Baderayana,",
+      "corrected": "Badarayana,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 261.14,
+      "end": 261.72,
+      "asr": "the Bald's",
+      "corrected": "Thibaut's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 271.58,
+      "end": 271.98,
+      "asr": "the Bald's",
+      "corrected": "Thibaut's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 327.74,
+      "end": 328.42,
+      "asr": "to Leela",
+      "corrected": "tu lila",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 330.2,
+      "end": 330.34,
+      "asr": "T -bot",
+      "corrected": "Thibaut",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 357.06,
+      "end": 357.62,
+      "asr": "Shagara,",
+      "corrected": "Shankara,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 373.9,
+      "end": 374.08,
+      "asr": "and",
+      "corrected": "in",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 433.12,
+      "end": 433.5,
+      "asr": "Shankara",
+      "corrected": "Shankara's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 456.74,
+      "end": 457.06,
+      "asr": "Leela",
+      "corrected": "Lila,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 514.88,
+      "end": 515.1800000000001,
+      "asr": "the most",
+      "corrected": "Thibaut's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 531.36,
+      "end": 531.52,
+      "asr": "an",
+      "corrected": "in",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 791.88,
+      "end": 792.26,
+      "asr": "Leela",
+      "corrected": "lila",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 857.42,
+      "end": 858.06,
+      "asr": "Jawett's",
+      "corrected": "Jowett's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 931.2,
+      "end": 931.36,
+      "asr": "four",
+      "corrected": "for",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1157.98,
+      "end": 1158.18,
+      "asr": "text",
+      "corrected": "texts",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1185.18,
+      "end": 1185.58,
+      "asr": "Raja.",
+      "corrected": "Vraja.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1204.56,
+      "end": 1205.5,
+      "asr": "as Subarayas",
+      "corrected": "S. Subba Rau's,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1316.46,
+      "end": 1316.76,
+      "asr": "and",
+      "corrected": "In",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1340.38,
+      "end": 1340.98,
+      "asr": "super -routhed",
+      "corrected": "Subba Rau's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1389.96,
+      "end": 1390.3600000000001,
+      "asr": "Prona,",
+      "corrected": "Purana,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1517.42,
+      "end": 1518.26,
+      "asr": "Kumaraswamy",
+      "corrected": "Coomaraswamy",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1520.3,
+      "end": 1520.54,
+      "asr": "Siba,",
+      "corrected": "Siva,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1546.5,
+      "end": 1548.08,
+      "asr": "shiva text, Kumaraswamy",
+      "corrected": "Shaiva texts Coomaraswamy",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1559.42,
+      "end": 1560.02,
+      "asr": "Kumaraswamy",
+      "corrected": "Coomaraswamy",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1563.12,
+      "end": 1563.84,
+      "asr": "Pranchakritya.",
+      "corrected": "panchakritya,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1567.82,
+      "end": 1568.16,
+      "asr": "safe word",
+      "corrected": "Safeword",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1574.92,
+      "end": 1575.3,
+      "asr": "Tirubava,",
+      "corrected": "tirobhava,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1582.48,
+      "end": 1582.9,
+      "asr": "Tirubava",
+      "corrected": "Tirobhava,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1583.32,
+      "end": 1584.18,
+      "asr": "Kumaraswamy's",
+      "corrected": "Coomaraswamy's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1603.28,
+      "end": 1603.72,
+      "asr": "Anu -Grahah,",
+      "corrected": "anugraha,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1610.68,
+      "end": 1611.74,
+      "asr": "Unma -Vila -Kam,",
+      "corrected": "Unmai Vilakkam",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1615.14,
+      "end": 1615.9,
+      "asr": "Kumaraswami's",
+      "corrected": "Coomaraswamy's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1649.32,
+      "end": 1650.52,
+      "asr": "Apasmaraprucha,",
+      "corrected": "apasmara purusha,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1652.74,
+      "end": 1653.44,
+      "asr": "Apasmarah,",
+      "corrected": "Apasmara.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1674.36,
+      "end": 1674.74,
+      "asr": "Kumaraswami,",
+      "corrected": "Coomaraswamy:",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1679.22,
+      "end": 1679.48,
+      "asr": "Leela,",
+      "corrected": "lila,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1681.12,
+      "end": 1681.42,
+      "asr": "Shiva",
+      "corrected": "Saiva",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1682.66,
+      "end": 1683.48,
+      "asr": "Tirumulah",
+      "corrected": "Tirumular",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1686.84,
+      "end": 1687.46,
+      "asr": "Kumaraswami",
+      "corrected": "Coomaraswamy",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1688.34,
+      "end": 1689.12,
+      "asr": "Scrabion's",
+      "corrected": "Scriabin's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1709.54,
+      "end": 1709.86,
+      "asr": "Leela,",
+      "corrected": "lila,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1711.96,
+      "end": 1712.92,
+      "asr": "Kumaraswami's",
+      "corrected": "Coomaraswamy's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1731.24,
+      "end": 1732.16,
+      "asr": "guru, Purah.",
+      "corrected": "Gurupara,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1739.74,
+      "end": 1740.08,
+      "asr": "Sern",
+      "corrected": "CERN",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1743.0,
+      "end": 1743.82,
+      "asr": "Kumaraswami's",
+      "corrected": "Coomaraswamy's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1873.68,
+      "end": 1873.74,
+      "asr": "and",
+      "corrected": "in",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1957.1399999999999,
+      "end": 1958.06,
+      "asr": "Spokes Arthustra,",
+      "corrected": "Spoke Zarathustra,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1958.78,
+      "end": 1959.06,
+      "asr": "comment's",
+      "corrected": "Common's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2003.1,
+      "end": 2004.52,
+      "asr": "yay. I,",
+      "corrected": "Yea. Aye,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2007.86,
+      "end": 2008.44,
+      "asr": "yay",
+      "corrected": "Yea",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2017.94,
+      "end": 2018.44,
+      "asr": "Leela",
+      "corrected": "lila",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2109.26,
+      "end": 2109.68,
+      "asr": "Leela",
+      "corrected": "lila",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2168.68,
+      "end": 2169.22,
+      "asr": "Christianist",
+      "corrected": "Krishna's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2187.32,
+      "end": 2187.6,
+      "asr": "Leela",
+      "corrected": "lila",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2294.98,
+      "end": 2295.34,
+      "asr": "safe -word",
+      "corrected": "Safeword",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2327.46,
+      "end": 2327.8,
+      "asr": "goppies",
+      "corrected": "Gopis'",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2333.72,
+      "end": 2334.02,
+      "asr": "safe -word",
+      "corrected": "Safeword",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2337.64,
+      "end": 2338.18,
+      "asr": "Simsara,",
+      "corrected": "samsara,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2346.42,
+      "end": 2346.8,
+      "asr": "safe ward.",
+      "corrected": "safeword,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2347.42,
+      "end": 2347.88,
+      "asr": "safe ward",
+      "corrected": "safeword",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2369.5,
+      "end": 2369.96,
+      "asr": "Play -do.",
+      "corrected": "Plato:",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2381.76,
+      "end": 2382.26,
+      "asr": "K\u1e5b\u1e63\u1e47a.",
+      "corrected": "Krishna.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2382.98,
+      "end": 2383.34,
+      "asr": "\u015b\u0101vas.",
+      "corrected": "Shaivas:",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2392.62,
+      "end": 2392.72,
+      "asr": "Shiller.",
+      "corrected": "Schiller:",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2400.12,
+      "end": 2400.6,
+      "asr": "N\u012bccha.",
+      "corrected": "Nietzsche:",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2409.36,
+      "end": 2409.76,
+      "asr": "\u015b\u0101kara.",
+      "corrected": "Shankara,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2444.44,
+      "end": 2444.74,
+      "asr": "s\u016btra",
+      "corrected": "sutra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2449.82,
+      "end": 2450.2,
+      "asr": "Pur\u0101\u1e47a",
+      "corrected": "Purana",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    }
+  ],
+  "uncertain_readings": [
+    {
+      "at": 105.7,
+      "asr": "plane",
+      "prepared_script_variant": "playing",
+      "word_index": 294,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 310.12,
+      "asr": "could not",
+      "prepared_script_variant": "cannot",
+      "word_index": 871,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 520.16,
+      "asr": "to his",
+      "prepared_script_variant": "who is",
+      "word_index": 1454,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 534.84,
+      "asr": "dweepas,",
+      "prepared_script_variant": "dvipas,\"",
+      "word_index": 1499,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 539.82,
+      "asr": "valor,",
+      "prepared_script_variant": "valour,",
+      "word_index": 1512,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 583.24,
+      "asr": "except",
+      "prepared_script_variant": "accept",
+      "word_index": 1649,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 625.9,
+      "asr": "2 .1 .34, intibos",
+      "prepared_script_variant": "two point one point thirty-four, in Thibaut's",
+      "word_index": 1774,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 665.28,
+      "asr": "illots",
+      "prepared_script_variant": "allots",
+      "word_index": 1869,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 684.96,
+      "asr": "equality",
+      "prepared_script_variant": "\"a quality",
+      "word_index": 1927,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 781.86,
+      "asr": "reign",
+      "prepared_script_variant": "rain",
+      "word_index": 2180,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 901.24,
+      "asr": "endeavors",
+      "prepared_script_variant": "endeavours,",
+      "word_index": 2501,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 918.34,
+      "asr": "here",
+      "prepared_script_variant": "hear",
+      "word_index": 2547,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 942.9,
+      "asr": "this turn",
+      "prepared_script_variant": "the stern",
+      "word_index": 2635,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 977.66,
+      "asr": "attention.",
+      "prepared_script_variant": "a tension",
+      "word_index": 2729,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1036.58,
+      "asr": "Aeon",
+      "prepared_script_variant": "\"Aion",
+      "word_index": 2871,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1037.74,
+      "asr": "plain, plain droughts.",
+      "prepared_script_variant": "playing, playing draughts;",
+      "word_index": 2875,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1040.9,
+      "asr": "child. Aeon,",
+      "prepared_script_variant": "child's.\" Aion:",
+      "word_index": 2882,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1125.3,
+      "asr": "plane",
+      "prepared_script_variant": "playing",
+      "word_index": 3113,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1134.14,
+      "asr": "He's",
+      "prepared_script_variant": "he is",
+      "word_index": 3138,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1236.82,
+      "asr": "rye",
+      "prepared_script_variant": "wry",
+      "word_index": 3440,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1267.14,
+      "asr": "realization",
+      "prepared_script_variant": "realisation",
+      "word_index": 3526,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1281.9,
+      "asr": "two -seat",
+      "prepared_script_variant": "two-seats",
+      "word_index": 3568,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1411.8600000000001,
+      "asr": "haven't",
+      "prepared_script_variant": "have it",
+      "word_index": 3943,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1479.72,
+      "asr": "plane",
+      "prepared_script_variant": "playing",
+      "word_index": 4144,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1499.52,
+      "asr": "forearms",
+      "prepared_script_variant": "four arms",
+      "word_index": 4203,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1554.22,
+      "asr": "defuses",
+      "prepared_script_variant": "diffuses",
+      "word_index": 4359,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1624.4,
+      "asr": "how the loft",
+      "prepared_script_variant": "held aloft",
+      "word_index": 4526,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1694.96,
+      "asr": "plain,",
+      "prepared_script_variant": "playing,",
+      "word_index": 4712,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1702.32,
+      "asr": "marvelous",
+      "prepared_script_variant": "marvellous",
+      "word_index": 4731,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1705.54,
+      "asr": "marvelous",
+      "prepared_script_variant": "marvellous",
+      "word_index": 4737,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1725.58,
+      "asr": "tingling",
+      "prepared_script_variant": "tinkling",
+      "word_index": 4798,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1757.8,
+      "asr": "In low,",
+      "prepared_script_variant": "and lo!",
+      "word_index": 4883,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1765.88,
+      "asr": "fullness",
+      "prepared_script_variant": "fulness",
+      "word_index": 4903,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1800.78,
+      "asr": "set",
+      "prepared_script_variant": "said",
+      "word_index": 4996,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1832.16,
+      "asr": "Here are",
+      "prepared_script_variant": "Hear",
+      "word_index": 5077,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1834.24,
+      "asr": "plays",
+      "prepared_script_variant": "play is",
+      "word_index": 5085,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1836.94,
+      "asr": "plays a",
+      "prepared_script_variant": "play is",
+      "word_index": 5092,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1917.74,
+      "asr": "he faced",
+      "prepared_script_variant": "effaced",
+      "word_index": 5302,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2080.38,
+      "asr": "rope dancer, strong",
+      "prepared_script_variant": "rope-dancer, strung",
+      "word_index": 5751,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2176.2,
+      "asr": "get",
+      "prepared_script_variant": "yet",
+      "word_index": 6022,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2216.8,
+      "asr": "piece of",
+      "prepared_script_variant": "piece's",
+      "word_index": 6155,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2219.22,
+      "asr": "child",
+      "prepared_script_variant": "child's",
+      "word_index": 6164,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2241.54,
+      "asr": "that drafts",
+      "prepared_script_variant": "at draughts",
+      "word_index": 6222,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2259.1,
+      "asr": "utilities",
+      "prepared_script_variant": "utility's",
+      "word_index": 6273,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2328.8,
+      "asr": "dance is",
+      "prepared_script_variant": "dance's",
+      "word_index": 6480,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2344.46,
+      "asr": "worn.",
+      "prepared_script_variant": "born;",
+      "word_index": 6537,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2355.74,
+      "asr": "bored",
+      "prepared_script_variant": "board",
+      "word_index": 6576,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    }
+  ],
+  "rights": "The episode source/translator credits and rights remain applicable. Not a blanket CC0 grant."
+}

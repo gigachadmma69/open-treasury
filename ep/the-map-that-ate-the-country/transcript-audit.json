@@ -1,0 +1,148 @@
+{
+  "episode": {
+    "title": "The Map That Ate the Country: Why a useful picture must leave something out",
+    "audio_url": "https://archive.org/download/open-treasury-the-map-that-ate-the-country-20261119/maps.mp3",
+    "audio_bytes": 28161165,
+    "page": "https://gigachadmma69.github.io/open-treasury/ep/the-map-that-ate-the-country/",
+    "guid": "open-treasury-the-map-that-ate-the-country-20261119",
+    "index": 8,
+    "slug": "the-map-that-ate-the-country"
+  },
+  "auto_generated": true,
+  "pilot_not_listening_rank": true,
+  "method": "Open-source faster-whisper base.en CPU int8, with overlapping boundary-window checks and selected small.en rechecks. Names and terms checked against the prepared published script; original recognition preserved in the private production archive. Not a verbatim certified or native-speaker-reviewed transcript.",
+  "provenance": {
+    "episode": {
+      "title": "The Map That Ate the Country: Why a useful picture must leave something out",
+      "audio_url": "https://archive.org/download/open-treasury-the-map-that-ate-the-country-20261119/maps.mp3",
+      "audio_bytes": 28161165,
+      "page": "https://gigachadmma69.github.io/open-treasury/ep/the-map-that-ate-the-country/",
+      "guid": "open-treasury-the-map-that-ate-the-country-20261119",
+      "index": 8,
+      "slug": "the-map-that-ate-the-country"
+    },
+    "source_sha256": "a7a47762883d0a573dabdd596a8c910d4612d906e37da04098f85888019c569f",
+    "source_bytes": 28161165,
+    "duration": 1408.032,
+    "model": "faster-whisper base.en, CPU int8, beam1, word timestamps",
+    "auto_generated": true,
+    "selection": "Pilot, not listening-rank data"
+  },
+  "term_corrections": [
+    {
+      "start": 228.28,
+      "end": 228.52,
+      "asr": "and",
+      "corrected": "in",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 411.46,
+      "end": 411.78,
+      "asr": "Carol's",
+      "corrected": "Carroll's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 545.52,
+      "end": 546.14,
+      "asr": "Steinhardt's",
+      "corrected": "Steinhart's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 571.8,
+      "end": 572.38,
+      "asr": "Carol's",
+      "corrected": "Carroll's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 577.54,
+      "end": 578.14,
+      "asr": "Carol",
+      "corrected": "Carroll",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 715.34,
+      "end": 715.78,
+      "asr": "Carol's",
+      "corrected": "Carroll's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1205.26,
+      "end": 1205.56,
+      "asr": "Carol",
+      "corrected": "Carroll",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1343.36,
+      "end": 1343.56,
+      "asr": "Carol's",
+      "corrected": "Carroll's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    }
+  ],
+  "uncertain_readings": [
+    {
+      "at": 517.04,
+      "asr": "hole",
+      "prepared_script_variant": "whole",
+      "word_index": 1475,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 525.48,
+      "asr": "hole",
+      "prepared_script_variant": "whole",
+      "word_index": 1496,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 538.8,
+      "asr": "imagine",
+      "prepared_script_variant": "imagined",
+      "word_index": 1532,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 579.86,
+      "asr": "inflate, and",
+      "prepared_script_variant": "inflated",
+      "word_index": 1645,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 687.08,
+      "asr": "root",
+      "prepared_script_variant": "route",
+      "word_index": 1936,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1229.24,
+      "asr": "model",
+      "prepared_script_variant": "models",
+      "word_index": 3481,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1242.52,
+      "asr": "root",
+      "prepared_script_variant": "route",
+      "word_index": 3513,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1363.66,
+      "asr": "fold and",
+      "prepared_script_variant": "folded",
+      "word_index": 3883,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    }
+  ],
+  "rights": "The episode source/translator credits and rights remain applicable. Not a blanket CC0 grant."
+}

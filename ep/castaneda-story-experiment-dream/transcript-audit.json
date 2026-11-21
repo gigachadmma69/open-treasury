@@ -1,0 +1,253 @@
+{
+  "episode": {
+    "title": "Castaneda: The Story, the Experiment, the Dream",
+    "audio_url": "https://gigachadmma69.github.io/open-treasury/audio/castaneda-story-experiment-dream.mp3",
+    "audio_bytes": 27658496,
+    "page": "https://gigachadmma69.github.io/open-treasury/ep/castaneda-story-experiment-dream/",
+    "guid": "castaneda-story-experiment-dream-public-v2",
+    "index": 3,
+    "slug": "castaneda-story-experiment-dream"
+  },
+  "auto_generated": true,
+  "pilot_not_listening_rank": true,
+  "method": "Open-source faster-whisper base.en CPU int8, with overlapping boundary-window checks and selected small.en rechecks. Names and terms checked against the prepared published script; original recognition preserved in the private production archive. Not a verbatim certified or native-speaker-reviewed transcript.",
+  "provenance": {
+    "episode": {
+      "title": "Castaneda: The Story, the Experiment, the Dream",
+      "audio_url": "https://gigachadmma69.github.io/open-treasury/audio/castaneda-story-experiment-dream.mp3",
+      "audio_bytes": 27658496,
+      "page": "https://gigachadmma69.github.io/open-treasury/ep/castaneda-story-experiment-dream/",
+      "guid": "castaneda-story-experiment-dream-public-v2",
+      "index": 3,
+      "slug": "castaneda-story-experiment-dream"
+    },
+    "source_sha256": "574b3b9db607adadac4119e83f92499d7279161c55ef3251676b2ea4c46c5f4b",
+    "source_bytes": 27658496,
+    "duration": 2304.757551,
+    "model": "faster-whisper base.en, CPU int8, beam1, word timestamps",
+    "auto_generated": true,
+    "selection": "Pilot, not listening-rank data"
+  },
+  "term_corrections": [
+    {
+      "start": 256.78,
+      "end": 257.24,
+      "asr": "DeMille's",
+      "corrected": "de Mille's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 267.18,
+      "end": 267.64,
+      "asr": "Govere",
+      "corrected": "Gover",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 269.86,
+      "end": 270.3,
+      "asr": "Govere",
+      "corrected": "Gover",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 277.38,
+      "end": 277.96,
+      "asr": "DeMille's",
+      "corrected": "de Mille's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 295.18,
+      "end": 295.88,
+      "asr": "J. Feick's",
+      "corrected": "Jay Fikes's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1248.94,
+      "end": 1249.34,
+      "asr": "Ixland.",
+      "corrected": "Ixtlan.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1363.7,
+      "end": 1363.94,
+      "asr": "an",
+      "corrected": "in",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1419.9,
+      "end": 1420.18,
+      "asr": "and",
+      "corrected": "in",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1773.26,
+      "end": 1773.68,
+      "asr": "Vellat",
+      "corrected": "Vallat",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1824.64,
+      "end": 1825.48,
+      "asr": "into betting",
+      "corrected": "in Tibetan",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1835.18,
+      "end": 1835.98,
+      "asr": "Rimpoech's",
+      "corrected": "Rinpoche's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1841.14,
+      "end": 1841.4,
+      "asr": "bone",
+      "corrected": "B\u00f6n",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1849.68,
+      "end": 1850.36,
+      "asr": "Leberge's",
+      "corrected": "LaBerge's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2115.64,
+      "end": 2116.2,
+      "asr": "DeMille's",
+      "corrected": "de Mille's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    }
+  ],
+  "uncertain_readings": [
+    {
+      "at": 96.24,
+      "asr": "Juan",
+      "prepared_script_variant": "one",
+      "word_index": 229,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 227.78,
+      "asr": "",
+      "prepared_script_variant": "that",
+      "word_index": 530,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 448.28,
+      "asr": "your",
+      "prepared_script_variant": "you are",
+      "word_index": 1005,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 488.53999999999996,
+      "asr": "mourning",
+      "prepared_script_variant": "morning",
+      "word_index": 1099,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 492.91999999999996,
+      "asr": "Motorollum,",
+      "prepared_script_variant": "Mota-Rolim",
+      "word_index": 1107,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 499.44,
+      "asr": "polysemonography verified",
+      "prepared_script_variant": "polysomnography-verified",
+      "word_index": 1119,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 517.12,
+      "asr": "time",
+      "prepared_script_variant": "timed",
+      "word_index": 1153,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 554.12,
+      "asr": "check.",
+      "prepared_script_variant": "cheque.",
+      "word_index": 1253,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 705.9,
+      "asr": "reconstructed",
+      "prepared_script_variant": "reconstruct it",
+      "word_index": 1615,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 921.3000000000001,
+      "asr": "revisible.",
+      "prepared_script_variant": "revisable.",
+      "word_index": 2133,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1037.32,
+      "asr": "casual",
+      "prepared_script_variant": "causal",
+      "word_index": 2415,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1149.78,
+      "asr": "census -based",
+      "prepared_script_variant": "senses-based",
+      "word_index": 2685,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1200.18,
+      "asr": "census -based",
+      "prepared_script_variant": "senses-based",
+      "word_index": 2805,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1409.08,
+      "asr": "recognize",
+      "prepared_script_variant": "recognized",
+      "word_index": 3298,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1490.06,
+      "asr": "overlap. Some may",
+      "prepared_script_variant": "",
+      "word_index": 3478,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1679.18,
+      "asr": "intentional",
+      "prepared_script_variant": "attentional",
+      "word_index": 3921,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2220.08,
+      "asr": "intentional",
+      "prepared_script_variant": "attentional",
+      "word_index": 5191,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    }
+  ],
+  "rights": "The episode source/translator credits and rights remain applicable. Not a blanket CC0 grant."
+}

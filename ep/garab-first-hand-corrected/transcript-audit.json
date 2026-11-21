@@ -1,0 +1,1296 @@
+{
+  "episode": {
+    "title": "Garab Dorje: The First Hand (Corrected Source-Stacked Release)",
+    "audio_url": "https://gigachadmma69.github.io/open-treasury/audio/garab-first-hand-corrected.mp3",
+    "audio_bytes": 40926912,
+    "page": "https://gigachadmma69.github.io/open-treasury/ep/garab-first-hand-corrected/",
+    "guid": "garab-first-hand-corrected-v3-public",
+    "index": 1,
+    "slug": "garab-first-hand-corrected"
+  },
+  "auto_generated": true,
+  "pilot_not_listening_rank": true,
+  "method": "Open-source faster-whisper base.en CPU int8, with overlapping boundary-window checks and selected small.en rechecks. Names and terms checked against the prepared published script; original recognition preserved in the private production archive. Not a verbatim certified or native-speaker-reviewed transcript.",
+  "provenance": {
+    "episode": {
+      "title": "Garab Dorje: The First Hand (Corrected Source-Stacked Release)",
+      "audio_url": "https://gigachadmma69.github.io/open-treasury/audio/garab-first-hand-corrected.mp3",
+      "audio_bytes": 40926912,
+      "page": "https://gigachadmma69.github.io/open-treasury/ep/garab-first-hand-corrected/",
+      "guid": "garab-first-hand-corrected-v3-public",
+      "index": 1,
+      "slug": "garab-first-hand-corrected"
+    },
+    "source_sha256": "e85fde9febd2043bba84b128d105571b0df06b6ddd900414863ca26628df93e3",
+    "source_bytes": 40926912,
+    "duration": 3410.416327,
+    "model": "faster-whisper base.en, CPU int8, beam1, word timestamps",
+    "auto_generated": true,
+    "selection": "Pilot, not listening-rank data"
+  },
+  "term_corrections": [
+    {
+      "start": 32.94,
+      "end": 33.28,
+      "asr": "Dorge.",
+      "corrected": "Dorje.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 71.26,
+      "end": 71.64,
+      "asr": "Dorge,",
+      "corrected": "Dorje:",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 74.2,
+      "end": 74.78,
+      "asr": "dog -chan",
+      "corrected": "Dzogchen",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 99.18,
+      "end": 102.08,
+      "asr": "Long Champa, Meepam, Dujam Rinpok,",
+      "corrected": "Longchenpa, Mipham, Dudjom Rinpoche",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 102.44,
+      "end": 103.42,
+      "asr": "Patul Rinpok",
+      "corrected": "Patrul Rinpoche",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 172.14,
+      "end": 172.66,
+      "asr": "Patul",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 179.12,
+      "end": 180.0,
+      "asr": "Longchampa's",
+      "corrected": "Longchenpa's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 185.34,
+      "end": 186.28,
+      "asr": "Vijadharas,",
+      "corrected": "vidyadharas,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 190.02,
+      "end": 190.54,
+      "asr": "Dorgi",
+      "corrected": "Dorje",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 198.56,
+      "end": 199.32,
+      "asr": "Pearsy's,",
+      "corrected": "Pearcey's,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 200.42000000000002,
+      "end": 200.9,
+      "asr": "Latsawa",
+      "corrected": "Lotsawa",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 211.86,
+      "end": 212.62,
+      "asr": "Long Champa's",
+      "corrected": "Longchenpa's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 218.34,
+      "end": 219.02,
+      "asr": "Badrapani",
+      "corrected": "Vajrapani",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 223.26,
+      "end": 224.14,
+      "asr": "Vidjadharas.",
+      "corrected": "vidyadharas.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 227.66,
+      "end": 228.14,
+      "asr": "Sudarma,",
+      "corrected": "Sudharma,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 231.02,
+      "end": 231.57999999999998,
+      "asr": "Adhyana.",
+      "corrected": "Oddiyana.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 253.88,
+      "end": 255.95999999999998,
+      "asr": "Betta Labava, Bava",
+      "corrected": "Vetalabhava, Bhava",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 303.35,
+      "end": 303.85,
+      "asr": "Longchampa",
+      "corrected": "Longchenpa",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 322.77,
+      "end": 323.75,
+      "asr": "Prajna Bava",
+      "corrected": "Prajnabhava",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 325.93,
+      "end": 326.71000000000004,
+      "asr": "Pravhevedra",
+      "corrected": "Prahevajra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 358.02,
+      "end": 358.46,
+      "asr": "D 'Orje.",
+      "corrected": "Dorje.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 382.74,
+      "end": 383.24,
+      "asr": "Longchimpa's",
+      "corrected": "Longchenpa's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 384.82,
+      "end": 385.9,
+      "asr": "Suriya Prakasha,",
+      "corrected": "Suryaprakasha,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 387.24,
+      "end": 387.68,
+      "asr": "Chanel",
+      "corrected": "charnel",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 400.14,
+      "end": 400.74,
+      "asr": "Dakhanis.",
+      "corrected": "dakinis.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 403.12,
+      "end": 403.58,
+      "asr": "Chanel",
+      "corrected": "charnel",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 404.24,
+      "end": 404.76,
+      "asr": "Sittavana.",
+      "corrected": "Sitavana.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 437.7,
+      "end": 438.22,
+      "asr": "Manjumitra",
+      "corrected": "Manjushrimitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 441.9,
+      "end": 442.4,
+      "asr": "Manjusri",
+      "corrected": "Manjushri",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 443.28,
+      "end": 443.82,
+      "asr": "Sittavana",
+      "corrected": "Sitavana",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 448.94,
+      "end": 449.42,
+      "asr": "Dorgi,",
+      "corrected": "Dorje",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 452.26,
+      "end": 452.74,
+      "asr": "Dorgi",
+      "corrected": "Dorje",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 469.24,
+      "end": 470.2,
+      "asr": "Manjusri Mitra",
+      "corrected": "Manjushrimitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 501.64,
+      "end": 502.22,
+      "asr": "Longchampa",
+      "corrected": "Longchenpa",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 502.53999999999996,
+      "end": 503.56,
+      "asr": "Manjusri Mitra",
+      "corrected": "Manjushrimitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 515.64,
+      "end": 515.86,
+      "asr": "channel",
+      "corrected": "charnel",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 518.14,
+      "end": 518.62,
+      "asr": "Dorgi",
+      "corrected": "Dorje",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 526.84,
+      "end": 527.06,
+      "asr": "channel",
+      "corrected": "charnel",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 543.54,
+      "end": 544.14,
+      "asr": "Longchimpa's",
+      "corrected": "Longchenpa's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 614.94,
+      "end": 615.5,
+      "asr": "Long Champa",
+      "corrected": "Longchenpa",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 693.38,
+      "end": 693.88,
+      "asr": "Ningtik",
+      "corrected": "Nyingtik",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 740.1,
+      "end": 740.36,
+      "asr": "Dorge,",
+      "corrected": "Dorje,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 747.92,
+      "end": 748.42,
+      "asr": "Latawa",
+      "corrected": "Lotsawa",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 785.42,
+      "end": 785.96,
+      "asr": "Patrell's",
+      "corrected": "Patrul's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 799.38,
+      "end": 799.92,
+      "asr": "Patrell's",
+      "corrected": "Patrul's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 860.2,
+      "end": 860.88,
+      "asr": "Patrell's",
+      "corrected": "Patrul's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 893.16,
+      "end": 893.42,
+      "asr": "Mipam",
+      "corrected": "Mipham",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 970.46,
+      "end": 971.12,
+      "asr": "soggyon.",
+      "corrected": "Dzogchen.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1007.08,
+      "end": 1007.76,
+      "asr": "Perpatrol,",
+      "corrected": "For Patrul,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1033.22,
+      "end": 1033.8600000000001,
+      "asr": "Dujam",
+      "corrected": "Dudjom",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1066.6,
+      "end": 1067.3600000000001,
+      "asr": "Long Champa's",
+      "corrected": "Longchenpa's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1070.12,
+      "end": 1070.48,
+      "asr": "Patrol",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1077.1,
+      "end": 1077.5,
+      "asr": "Dujam",
+      "corrected": "Dudjom",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1106.74,
+      "end": 1107.32,
+      "asr": "Dujum's",
+      "corrected": "Dudjom's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1154.12,
+      "end": 1154.62,
+      "asr": "Doo -Jim's",
+      "corrected": "Dudjom's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1160.42,
+      "end": 1160.76,
+      "asr": "Patrol",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1202.56,
+      "end": 1203.06,
+      "asr": "Patrol",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1255.96,
+      "end": 1256.52,
+      "asr": "Patrell's",
+      "corrected": "Patrul's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1330.8,
+      "end": 1331.36,
+      "asr": "Patrell's",
+      "corrected": "Patrul's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1343.28,
+      "end": 1343.92,
+      "asr": "Doodjum's",
+      "corrected": "Dudjom's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1349.9,
+      "end": 1350.38,
+      "asr": "Mipam",
+      "corrected": "Mipham",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1398.06,
+      "end": 1398.54,
+      "asr": "Patrell",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1411.32,
+      "end": 1411.92,
+      "asr": "Patrell's",
+      "corrected": "Patrul's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1446.14,
+      "end": 1446.36,
+      "asr": "text",
+      "corrected": "texts",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1530.96,
+      "end": 1532.36,
+      "asr": "Meepam, Doojim",
+      "corrected": "Mipham, Dudjom",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1532.64,
+      "end": 1533.16,
+      "asr": "Patrol",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1536.66,
+      "end": 1537.18,
+      "asr": "Meepam's",
+      "corrected": "Mipham's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1543.62,
+      "end": 1544.24,
+      "asr": "Doojim's",
+      "corrected": "Dudjom's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1549.32,
+      "end": 1550.0,
+      "asr": "Patrol",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1572.08,
+      "end": 1572.44,
+      "asr": "Meepam's",
+      "corrected": "Mipham's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1616.96,
+      "end": 1617.44,
+      "asr": "Du Jams",
+      "corrected": "Dudjom's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1641.24,
+      "end": 1641.54,
+      "asr": "Patrol",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1672.24,
+      "end": 1673.18,
+      "asr": "Long Champa's",
+      "corrected": "Longchenpa's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1677.96,
+      "end": 1678.38,
+      "asr": "Mipam",
+      "corrected": "Mipham",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1681.16,
+      "end": 1681.56,
+      "asr": "Dhujum",
+      "corrected": "Dudjom",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1684.2,
+      "end": 1684.68,
+      "asr": "Patrual",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1749.2,
+      "end": 1749.54,
+      "asr": "Mipam's",
+      "corrected": "Mipham's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1769.12,
+      "end": 1769.66,
+      "asr": "Lotzawa",
+      "corrected": "Lotsawa",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1772.68,
+      "end": 1773.24,
+      "asr": "Pirsi's",
+      "corrected": "Pearcey's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1788.72,
+      "end": 1789.24,
+      "asr": "Pirsi's",
+      "corrected": "Pearcey's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1838.38,
+      "end": 1838.96,
+      "asr": "Nipm's",
+      "corrected": "Mipham's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1863.88,
+      "end": 1864.16,
+      "asr": "Nipm",
+      "corrected": "Mipham",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1880.5,
+      "end": 1880.92,
+      "asr": "Dujam",
+      "corrected": "Dudjom",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1883.38,
+      "end": 1884.04,
+      "asr": "into Benton",
+      "corrected": "in Tibetan",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1919.84,
+      "end": 1920.42,
+      "asr": "Dharm",
+      "corrected": "Dudjom",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1920.88,
+      "end": 1921.34,
+      "asr": "Mipum",
+      "corrected": "Mipham",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1924.02,
+      "end": 1924.6,
+      "asr": "Mipum's",
+      "corrected": "Mipham's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1930.38,
+      "end": 1931.0,
+      "asr": "Dharm's",
+      "corrected": "Dudjom's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1944.66,
+      "end": 1945.32,
+      "asr": "Dharm's",
+      "corrected": "Dudjom's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2014.94,
+      "end": 2015.58,
+      "asr": "Dujam's",
+      "corrected": "Dudjom's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2030.36,
+      "end": 2031.0,
+      "asr": "Rinpoce's",
+      "corrected": "Rinpoche's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2042.98,
+      "end": 2043.4,
+      "asr": "Long Chen",
+      "corrected": "Longchen",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2044.3,
+      "end": 2047.18,
+      "asr": "Kyanse Ozur, Galway Nigu,",
+      "corrected": "Khyentse Ozer, Gyalwe Nyugu.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2057.3,
+      "end": 2057.74,
+      "asr": "Long Chen",
+      "corrected": "Longchen",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2063.46,
+      "end": 2064.22,
+      "asr": "Kyan",
+      "corrected": "Khyen",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2066.52,
+      "end": 2066.88,
+      "asr": "tise",
+      "corrected": "tse",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2069.1,
+      "end": 2070.2,
+      "asr": "Galway Nigu",
+      "corrected": "Gyalwe nyugu",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2073.92,
+      "end": 2074.9,
+      "asr": "bow -tai satvas.",
+      "corrected": "bodhisattvas.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2087.76,
+      "end": 2088.86,
+      "asr": "bow -tai satvas.",
+      "corrected": "bodhisattvas.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2210.14,
+      "end": 2210.82,
+      "asr": "Patrol",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2270.54,
+      "end": 2270.82,
+      "asr": "Patrol",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2311.74,
+      "end": 2312.1,
+      "asr": "patrols",
+      "corrected": "Patrul's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2317.62,
+      "end": 2318.1,
+      "asr": "Dorj's",
+      "corrected": "Dorje's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2319.26,
+      "end": 2319.94,
+      "asr": "Patrell's",
+      "corrected": "Patrul's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2325.44,
+      "end": 2325.86,
+      "asr": "Patrell",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2346.04,
+      "end": 2346.62,
+      "asr": "Patrell's",
+      "corrected": "Patrul's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2384.6,
+      "end": 2385.1,
+      "asr": "Patrell",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2395.6,
+      "end": 2396.02,
+      "asr": "dog -chin",
+      "corrected": "Dzogchen",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2421.98,
+      "end": 2422.74,
+      "asr": "Patrell's",
+      "corrected": "Patrul's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2448.66,
+      "end": 2449.1,
+      "asr": "Patril",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2497.82,
+      "end": 2498.32,
+      "asr": "Patrell's",
+      "corrected": "Patrul's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2574.22,
+      "end": 2575.7,
+      "asr": "Jigmi Gjalwe Njagu",
+      "corrected": "Jigme Gyalwe Nyugu",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2592.32,
+      "end": 2592.92,
+      "asr": "Long Chen",
+      "corrected": "Longchen",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2594.16,
+      "end": 2594.68,
+      "asr": "Jigmi",
+      "corrected": "Jigme",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2782.26,
+      "end": 2783.1,
+      "asr": "Longchempa",
+      "corrected": "Longchenpa",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2791.2,
+      "end": 2791.62,
+      "asr": "Mipam",
+      "corrected": "Mipham",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2797.12,
+      "end": 2797.6,
+      "asr": "Doodjim",
+      "corrected": "Dudjom",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2814.2,
+      "end": 2814.84,
+      "asr": "Longchempa's",
+      "corrected": "Longchenpa's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2816.74,
+      "end": 2817.48,
+      "asr": "Dordge",
+      "corrected": "Dorje",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2824.94,
+      "end": 2825.58,
+      "asr": "Manjurishmitra",
+      "corrected": "Manjushrimitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2850.82,
+      "end": 2851.74,
+      "asr": "Jana Sutra's",
+      "corrected": "Jnanasutra's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2896.56,
+      "end": 2897.26,
+      "asr": "Longchimpa's",
+      "corrected": "Longchenpa's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2965.02,
+      "end": 2965.24,
+      "asr": "text",
+      "corrected": "texts",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2971.72,
+      "end": 2972.36,
+      "asr": "Longchimpa",
+      "corrected": "Longchenpa",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2975.96,
+      "end": 2976.64,
+      "asr": "Bimalamitra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2977.18,
+      "end": 2977.98,
+      "asr": "Janana -Sutra",
+      "corrected": "Jnanasutra,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2981.66,
+      "end": 2982.34,
+      "asr": "Vajrasit",
+      "corrected": "Vajra Seat",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2995.46,
+      "end": 2996.12,
+      "asr": "The m\u0101l\u0101m\u012btra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2997.06,
+      "end": 2997.5,
+      "asr": "S\u012bm\u0101.",
+      "corrected": "Simha.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3002.6,
+      "end": 3003.18,
+      "asr": "Janana -Sutra",
+      "corrected": "Jnanasutra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3009.56,
+      "end": 3010.16,
+      "asr": "Janana -Sutra",
+      "corrected": "Jnanasutra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3014.78,
+      "end": 3015.48,
+      "asr": "The m\u0101l\u0101m\u012btra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3019.78,
+      "end": 3020.42,
+      "asr": "Janana -Sutra",
+      "corrected": "Jnanasutra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3026.4,
+      "end": 3027.8,
+      "asr": "Vimal\u0101m\u012btra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3028.16,
+      "end": 3028.86,
+      "asr": "Janana -Sutra",
+      "corrected": "Jnanasutra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3060.64,
+      "end": 3061.14,
+      "asr": "Longchampa",
+      "corrected": "Longchenpa",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3076.34,
+      "end": 3077.02,
+      "asr": "Mandrashrimatra",
+      "corrected": "Manjushrimitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3080.84,
+      "end": 3082.7,
+      "asr": "Janasutra. Jananasutra",
+      "corrected": "Jnanasutra. Jnanasutra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3093.02,
+      "end": 3093.5,
+      "asr": "Dordje",
+      "corrected": "Dorje",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3112.26,
+      "end": 3113.6,
+      "asr": "Longchampa's",
+      "corrected": "Longchenpa's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3166.76,
+      "end": 3167.52,
+      "asr": "Longchampa's",
+      "corrected": "Longchenpa's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3169.0,
+      "end": 3169.82,
+      "asr": "Vidya Dharas",
+      "corrected": "Vidyadharas",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3172.04,
+      "end": 3172.64,
+      "asr": "Pearsy's",
+      "corrected": "Pearcey's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3184.92,
+      "end": 3185.24,
+      "asr": "Dorge",
+      "corrected": "Dorje",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3186.16,
+      "end": 3186.68,
+      "asr": "Nintik,",
+      "corrected": "Nyingtik,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3188.2,
+      "end": 3188.68,
+      "asr": "Pearsy",
+      "corrected": "Pearcey",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3198.28,
+      "end": 3198.66,
+      "asr": "Mipam,",
+      "corrected": "Mipham,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3202.24,
+      "end": 3202.76,
+      "asr": "Pearsy's",
+      "corrected": "Pearcey's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3209.34,
+      "end": 3209.78,
+      "asr": "Dujum",
+      "corrected": "Dudjom",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3225.48,
+      "end": 3225.94,
+      "asr": "Pratral,",
+      "corrected": "Patrul,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3263.18,
+      "end": 3263.66,
+      "asr": "Dorgi,",
+      "corrected": "Dorje,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3360.3,
+      "end": 3361.04,
+      "asr": "Long Chenpa",
+      "corrected": "Longchenpa",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3362.88,
+      "end": 3363.18,
+      "asr": "Meepum",
+      "corrected": "Mipham",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3365.54,
+      "end": 3365.84,
+      "asr": "Dujam",
+      "corrected": "Dudjom",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3367.06,
+      "end": 3367.54,
+      "asr": "Patrol",
+      "corrected": "Patrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3407.44,
+      "end": 3408.06,
+      "asr": "Patrol's",
+      "corrected": "Patrul's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    }
+  ],
+  "uncertain_readings": [
+    {
+      "at": 29.68,
+      "asr": "That's",
+      "prepared_script_variant": "That is",
+      "word_index": 65,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 41.52,
+      "asr": "count",
+      "prepared_script_variant": "account",
+      "word_index": 92,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 203.16,
+      "asr": "Its",
+      "prepared_script_variant": "That",
+      "word_index": 462,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 244.24,
+      "asr": "Assamed,",
+      "prepared_script_variant": "Ashamed,",
+      "word_index": 555,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 351.85,
+      "asr": "attempting",
+      "prepared_script_variant": "a tempting",
+      "word_index": 813,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 367.32,
+      "asr": "competent",
+      "prepared_script_variant": "confident",
+      "word_index": 851,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 373.92,
+      "asr": "text",
+      "prepared_script_variant": "text's",
+      "word_index": 868,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 721.4,
+      "asr": "datable",
+      "prepared_script_variant": "dateable",
+      "word_index": 1726,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 773.34,
+      "asr": "placed",
+      "prepared_script_variant": "place",
+      "word_index": 1860,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1111.2,
+      "asr": "uncertainty.",
+      "prepared_script_variant": "in certainty.",
+      "word_index": 2661,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1131.88,
+      "asr": "Czech",
+      "prepared_script_variant": "checked",
+      "word_index": 2707,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1515.26,
+      "asr": "results.",
+      "prepared_script_variant": "result.",
+      "word_index": 3623,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1782.02,
+      "asr": "addition,",
+      "prepared_script_variant": "edition",
+      "word_index": 4234,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1922.18,
+      "asr": "emphasis",
+      "prepared_script_variant": "emphases",
+      "word_index": 4556,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2232.26,
+      "asr": "contrast",
+      "prepared_script_variant": "contrasts",
+      "word_index": 5249,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2400.28,
+      "asr": "attendance.",
+      "prepared_script_variant": "attendants.",
+      "word_index": 5636,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2717.5,
+      "asr": "contrast",
+      "prepared_script_variant": "contrasts",
+      "word_index": 6396,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2965.66,
+      "asr": "tells",
+      "prepared_script_variant": "tell",
+      "word_index": 6931,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 3031.16,
+      "asr": "traveled",
+      "prepared_script_variant": "travelled",
+      "word_index": 7088,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 3035.44,
+      "asr": "traveled",
+      "prepared_script_variant": "travelled",
+      "word_index": 7103,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 3055.28,
+      "asr": "narrative",
+      "prepared_script_variant": "narrative's",
+      "word_index": 7157,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 3143.42,
+      "asr": "traveler",
+      "prepared_script_variant": "traveller",
+      "word_index": 7365,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 3190.42,
+      "asr": "addition",
+      "prepared_script_variant": "edition",
+      "word_index": 7485,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 3335.78,
+      "asr": "entrusted",
+      "prepared_script_variant": "entrust it",
+      "word_index": 7831,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    }
+  ],
+  "rights": "The episode source/translator credits and rights remain applicable. Not a blanket CC0 grant."
+}

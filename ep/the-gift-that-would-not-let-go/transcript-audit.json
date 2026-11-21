@@ -1,0 +1,162 @@
+{
+  "episode": {
+    "title": "The Gift That Would Not Let Go: Generosity, gratitude, and the price of being helped",
+    "audio_url": "https://archive.org/download/open-treasury-the-gift-that-would-not-let-go-20261119/gift.mp3",
+    "audio_bytes": 30062925,
+    "page": "https://gigachadmma69.github.io/open-treasury/ep/the-gift-that-would-not-let-go/",
+    "guid": "open-treasury-the-gift-that-would-not-let-go-20261119",
+    "index": 7,
+    "slug": "the-gift-that-would-not-let-go"
+  },
+  "auto_generated": true,
+  "pilot_not_listening_rank": true,
+  "method": "Open-source faster-whisper base.en CPU int8, with overlapping boundary-window checks and selected small.en rechecks. Names and terms checked against the prepared published script; original recognition preserved in the private production archive. Not a verbatim certified or native-speaker-reviewed transcript.",
+  "provenance": {
+    "episode": {
+      "title": "The Gift That Would Not Let Go: Generosity, gratitude, and the price of being helped",
+      "audio_url": "https://archive.org/download/open-treasury-the-gift-that-would-not-let-go-20261119/gift.mp3",
+      "audio_bytes": 30062925,
+      "page": "https://gigachadmma69.github.io/open-treasury/ep/the-gift-that-would-not-let-go/",
+      "guid": "open-treasury-the-gift-that-would-not-let-go-20261119",
+      "index": 7,
+      "slug": "the-gift-that-would-not-let-go"
+    },
+    "source_sha256": "391025ec574ff634aaf992680386d2aff4272946037c9f1a3d3e371990d33b26",
+    "source_bytes": 30062925,
+    "duration": 1503.12,
+    "model": "faster-whisper base.en, CPU int8, beam1, word timestamps",
+    "auto_generated": true,
+    "selection": "Pilot, not listening-rank data"
+  },
+  "term_corrections": [
+    {
+      "start": 375.28,
+      "end": 375.92,
+      "asr": "Eskenes",
+      "corrected": "Aeschines",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 564.3,
+      "end": 564.86,
+      "asr": "Everson",
+      "corrected": "Emerson",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 635.36,
+      "end": 636.36,
+      "asr": "Thane Sarobiku,",
+      "corrected": "Thanissaro Bhikkhu,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 637.24,
+      "end": 638.0,
+      "asr": "Angutara",
+      "corrected": "Anguttara",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 772.74,
+      "end": 773.6,
+      "asr": "on Guttara",
+      "corrected": "Anguttara",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 867.0,
+      "end": 867.6,
+      "asr": "Thonasaro's",
+      "corrected": "Thanissaro's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1091.44,
+      "end": 1091.9,
+      "asr": "Stuart's",
+      "corrected": "Stewart's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    }
+  ],
+  "uncertain_readings": [
+    {
+      "at": 13.22,
+      "asr": "think",
+      "prepared_script_variant": "thank",
+      "word_index": 29,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 72.4,
+      "asr": "oh,",
+      "prepared_script_variant": "owe",
+      "word_index": 198,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 181.52,
+      "asr": "gave",
+      "prepared_script_variant": "give",
+      "word_index": 496,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 225.24,
+      "asr": "helps",
+      "prepared_script_variant": "help",
+      "word_index": 618,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 680.92,
+      "asr": "a green",
+      "prepared_script_variant": "agreeing",
+      "word_index": 1815,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 997.8199999999999,
+      "asr": "acknowledgement's",
+      "prepared_script_variant": "acknowledgement",
+      "word_index": 2662,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1027.6,
+      "asr": "presence",
+      "prepared_script_variant": "presents",
+      "word_index": 2742,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1052.24,
+      "asr": "alone",
+      "prepared_script_variant": "a loan",
+      "word_index": 2808,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1054.1399999999999,
+      "asr": "Alone",
+      "prepared_script_variant": "A loan",
+      "word_index": 2812,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1180.68,
+      "asr": "seem",
+      "prepared_script_variant": "scene",
+      "word_index": 3165,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1321.72,
+      "asr": "advised",
+      "prepared_script_variant": "advice",
+      "word_index": 3561,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    }
+  ],
+  "rights": "The episode source/translator credits and rights remain applicable. Not a blanket CC0 grant."
+}

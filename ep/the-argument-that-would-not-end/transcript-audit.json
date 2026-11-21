@@ -1,0 +1,477 @@
+{
+  "episode": {
+    "title": "The Argument That Would Not End: Samye, Sudden Awakening, and the Work After Recognition",
+    "audio_url": "https://archive.org/download/open-treasury-the-argument-that-would-not-end-20261119/samye.mp3",
+    "audio_bytes": 59279565,
+    "page": "https://gigachadmma69.github.io/open-treasury/ep/the-argument-that-would-not-end/",
+    "guid": "open-treasury-the-argument-that-would-not-end-20261119",
+    "index": 10,
+    "slug": "the-argument-that-would-not-end"
+  },
+  "auto_generated": true,
+  "pilot_not_listening_rank": true,
+  "method": "Open-source faster-whisper base.en CPU int8, with overlapping boundary-window checks and selected small.en rechecks. Names and terms checked against the prepared published script; original recognition preserved in the private production archive. Not a verbatim certified or native-speaker-reviewed transcript.",
+  "provenance": {
+    "episode": {
+      "title": "The Argument That Would Not End: Samye, Sudden Awakening, and the Work After Recognition",
+      "audio_url": "https://archive.org/download/open-treasury-the-argument-that-would-not-end-20261119/samye.mp3",
+      "audio_bytes": 59279565,
+      "page": "https://gigachadmma69.github.io/open-treasury/ep/the-argument-that-would-not-end/",
+      "guid": "open-treasury-the-argument-that-would-not-end-20261119",
+      "index": 10,
+      "slug": "the-argument-that-would-not-end"
+    },
+    "source_sha256": "83d6e9ea07bec5c9a8f369e6fa9b4609ba1a943301c78fd7d512af9523d42114",
+    "source_bytes": 59279565,
+    "duration": 2963.952,
+    "model": "faster-whisper base.en, CPU int8, beam1, word timestamps",
+    "auto_generated": true,
+    "selection": "Pilot, not listening-rank data"
+  },
+  "term_corrections": [
+    {
+      "start": 2.58,
+      "end": 3.14,
+      "asr": "Sameh,",
+      "corrected": "Samye,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 76.86,
+      "end": 77.32,
+      "asr": "Sameh",
+      "corrected": "Samye",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 134.62,
+      "end": 135.22,
+      "asr": "Simee",
+      "corrected": "Samye",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 140.08,
+      "end": 141.06,
+      "asr": "Trisongdetsen,",
+      "corrected": "Trisong Detsen",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 144.76,
+      "end": 145.28,
+      "asr": "Simee",
+      "corrected": "Samye",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 257.58,
+      "end": 258.86,
+      "asr": "Dabha Jett.",
+      "corrected": "Dba' bzhed.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 261.78,
+      "end": 263.1,
+      "asr": "Sering Gong -Khat -Song",
+      "corrected": "Tsering Gonkatsang",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 376.7,
+      "end": 377.44,
+      "asr": "Kamala Shila.",
+      "corrected": "Kamalashila.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 379.08,
+      "end": 380.08,
+      "asr": "Shantarakshi -Dha's",
+      "corrected": "Shantarakshita's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 384.12,
+      "end": 384.74,
+      "asr": "Bhavana -Krama.",
+      "corrected": "Bhavanakrama.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 406.65999999999997,
+      "end": 407.26,
+      "asr": "Moheon.",
+      "corrected": "Moheyan.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 409.68,
+      "end": 410.08,
+      "asr": "Hachang,",
+      "corrected": "Heshang,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 415.68,
+      "end": 416.0,
+      "asr": "Chaun.",
+      "corrected": "Chan.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 424.32,
+      "end": 424.72,
+      "asr": "Chaun",
+      "corrected": "Chan",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 431.9,
+      "end": 432.4,
+      "asr": "Shake's",
+      "corrected": "Schaik's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 449.54,
+      "end": 450.22,
+      "asr": "Moheon's",
+      "corrected": "Moheyan's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 464.74,
+      "end": 465.12,
+      "asr": "Kamala Sheila",
+      "corrected": "Kamalashila",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 467.12,
+      "end": 467.76,
+      "asr": "Oh, hey, Yaun",
+      "corrected": "Moheyan",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 533.5,
+      "end": 533.72,
+      "asr": "child",
+      "corrected": "Chan",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 541.82,
+      "end": 542.12,
+      "asr": "Shank",
+      "corrected": "Schaik,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 628.58,
+      "end": 629.26,
+      "asr": "Kamalishila's",
+      "corrected": "Kamalashila's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 705.88,
+      "end": 706.3,
+      "asr": "Kamalishila",
+      "corrected": "Kamalashila",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 783.88,
+      "end": 785.6800000000001,
+      "asr": "Mohian. Beyondo's",
+      "corrected": "Moheyan. Biondo's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 830.14,
+      "end": 830.9,
+      "asr": "Kamala Shila's",
+      "corrected": "Kamalashila's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 862.24,
+      "end": 863.02,
+      "asr": "Kamala Shila's",
+      "corrected": "Kamalashila's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 920.98,
+      "end": 923.7,
+      "asr": "Kamalishila Kamalishila's",
+      "corrected": "Kamalashila. Kamalashila's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 986.42,
+      "end": 986.94,
+      "asr": "Mohayan",
+      "corrected": "Moheyan",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 998.04,
+      "end": 998.74,
+      "asr": "Kamalishila's",
+      "corrected": "Kamalashila's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1070.44,
+      "end": 1070.7,
+      "asr": "Schike",
+      "corrected": "Schaik",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1183.62,
+      "end": 1184.34,
+      "asr": "Kamala Shila",
+      "corrected": "Kamalashila",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1401.84,
+      "end": 1402.34,
+      "asr": "Tillamans.",
+      "corrected": "Tillemans.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1405.54,
+      "end": 1405.98,
+      "asr": "Tillamans",
+      "corrected": "Tillemans",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1410.72,
+      "end": 1411.0,
+      "asr": "Tillamans",
+      "corrected": "Tillemans",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1559.2,
+      "end": 1559.64,
+      "asr": "Scheig's",
+      "corrected": "Schaik's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1561.7,
+      "end": 1562.12,
+      "asr": "Mohayan",
+      "corrected": "Moheyan",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1579.1,
+      "end": 1579.54,
+      "asr": "Mohayan",
+      "corrected": "Moheyan",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1580.76,
+      "end": 1581.08,
+      "asr": "Scheig",
+      "corrected": "Schaik",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1608.92,
+      "end": 1609.74,
+      "asr": "Kamala Sheila's",
+      "corrected": "Kamalashila's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1688.58,
+      "end": 1689.04,
+      "asr": "Mohayan",
+      "corrected": "Moheyan",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1912.94,
+      "end": 1913.5,
+      "asr": "Beyondo",
+      "corrected": "Biondo",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1918.86,
+      "end": 1919.28,
+      "asr": "Sanxi",
+      "corrected": "Sangshi",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1988.46,
+      "end": 1988.78,
+      "asr": "Mjando",
+      "corrected": "Biondo",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2040.9,
+      "end": 2041.2,
+      "asr": "Sheik",
+      "corrected": "Schaik",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2173.78,
+      "end": 2174.2,
+      "asr": "Allen",
+      "corrected": "Allan",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2385.22,
+      "end": 2385.74,
+      "asr": "Mohayan",
+      "corrected": "Moheyan",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2386.12,
+      "end": 2386.88,
+      "asr": "Kamala Shila.",
+      "corrected": "Kamalashila.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2875.2,
+      "end": 2875.92,
+      "asr": "Sommelier.",
+      "corrected": "Samye.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2909.04,
+      "end": 2909.58,
+      "asr": "mohian",
+      "corrected": "Moheyan",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2909.94,
+      "end": 2910.58,
+      "asr": "Kamala Sheila",
+      "corrected": "Kamalashila",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    }
+  ],
+  "uncertain_readings": [
+    {
+      "at": 271.4,
+      "asr": "book",
+      "prepared_script_variant": "book's",
+      "word_index": 724,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 299.18,
+      "asr": "evidenced",
+      "prepared_script_variant": "evidence",
+      "word_index": 796,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 603.68,
+      "asr": "check.",
+      "prepared_script_variant": "cheque.",
+      "word_index": 1619,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1072.66,
+      "asr": "accrued",
+      "prepared_script_variant": "a crude",
+      "word_index": 2828,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1616.3,
+      "asr": "earn",
+      "prepared_script_variant": "earns",
+      "word_index": 4258,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1814.04,
+      "asr": "learned",
+      "prepared_script_variant": "learn",
+      "word_index": 4781,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2225.46,
+      "asr": "council",
+      "prepared_script_variant": "counsel",
+      "word_index": 5879,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2307.54,
+      "asr": "root,",
+      "prepared_script_variant": "route,",
+      "word_index": 6097,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2354.7,
+      "asr": "suddenest",
+      "prepared_script_variant": "suddenist",
+      "word_index": 6217,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2374.62,
+      "asr": "answers",
+      "prepared_script_variant": "answer",
+      "word_index": 6273,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2375.3,
+      "asr": "need",
+      "prepared_script_variant": "needs",
+      "word_index": 6275,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2528.06,
+      "asr": "own",
+      "prepared_script_variant": "owe an",
+      "word_index": 6651,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2794.32,
+      "asr": "disagreements",
+      "prepared_script_variant": "disagreement",
+      "word_index": 7371,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2905.1,
+      "asr": "become",
+      "prepared_script_variant": "becomes",
+      "word_index": 7664,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    }
+  ],
+  "rights": "The episode source/translator credits and rights remain applicable. Not a blanket CC0 grant."
+}

@@ -1,0 +1,323 @@
+{
+  "episode": {
+    "title": "The Sky Does Not Need Your Help: Namkha Che, the effort to become free, and the life that still needs care",
+    "audio_url": "https://archive.org/download/open-treasury-the-sky-does-not-need-your-help-20261121/sky.mp3",
+    "audio_bytes": 48502605,
+    "page": "https://gigachadmma69.github.io/open-treasury/ep/the-sky-does-not-need-your-help/",
+    "guid": "open-treasury-the-sky-does-not-need-your-help-20261121",
+    "index": 6,
+    "slug": "the-sky-does-not-need-your-help"
+  },
+  "auto_generated": true,
+  "pilot_not_listening_rank": true,
+  "method": "Open-source faster-whisper base.en CPU int8, with overlapping boundary-window checks and selected small.en rechecks. Names and terms checked against the prepared published script; original recognition preserved in the private production archive. Not a verbatim certified or native-speaker-reviewed transcript.",
+  "provenance": {
+    "episode": {
+      "title": "The Sky Does Not Need Your Help: Namkha Che, the effort to become free, and the life that still needs care",
+      "audio_url": "https://archive.org/download/open-treasury-the-sky-does-not-need-your-help-20261121/sky.mp3",
+      "audio_bytes": 48502605,
+      "page": "https://gigachadmma69.github.io/open-treasury/ep/the-sky-does-not-need-your-help/",
+      "guid": "open-treasury-the-sky-does-not-need-your-help-20261121",
+      "index": 6,
+      "slug": "the-sky-does-not-need-your-help"
+    },
+    "source_sha256": "19cd3f29f5ad938b986f36551a22207390ec55f03f95c305c77eb7bff455e210",
+    "source_bytes": 48502605,
+    "duration": 2425.104,
+    "model": "faster-whisper base.en, CPU int8, beam1, word timestamps",
+    "auto_generated": true,
+    "selection": "Pilot, not listening-rank data"
+  },
+  "term_corrections": [
+    {
+      "start": 34.28,
+      "end": 34.94,
+      "asr": "Namkach\u00e9",
+      "corrected": "Namkha Che",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 71.94,
+      "end": 72.34,
+      "asr": "Adriana",
+      "corrected": "Adriano",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 73.94,
+      "end": 75.36,
+      "asr": "Revu De Tudes Tibiten",
+      "corrected": "Revue d'Etudes Tibetaines",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 80.76,
+      "end": 81.52,
+      "asr": "Samantha Bodra",
+      "corrected": "Samantabhadra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 83.42,
+      "end": 84.0,
+      "asr": "Namkach\u00e9",
+      "corrected": "Namkha Che",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 147.3,
+      "end": 147.88,
+      "asr": "Namkach\u00e9",
+      "corrected": "Namkha Che",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 194.84,
+      "end": 195.32,
+      "asr": "Tzomdrach",
+      "corrected": "Tsamdrak",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 198.57999999999998,
+      "end": 199.48,
+      "asr": "Samantha Badra,",
+      "corrected": "Samantabhadra,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 202.98,
+      "end": 203.84,
+      "asr": "Vadrasatva",
+      "corrected": "Vajrasattva",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 215.1,
+      "end": 215.5,
+      "asr": "Garib",
+      "corrected": "Garab",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 218.2,
+      "end": 218.9,
+      "asr": "Virotzana.",
+      "corrected": "Vairotsana.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 221.3,
+      "end": 221.57999999999998,
+      "asr": "Garib",
+      "corrected": "Garab",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 706.84,
+      "end": 707.3199999999999,
+      "asr": "aut yoga",
+      "corrected": "Atiyoga",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1199.8,
+      "end": 1200.42,
+      "asr": "dog -tend",
+      "corrected": "Dzogchen",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1607.32,
+      "end": 1608.26,
+      "asr": "Patra Rincipay's",
+      "corrected": "Patrul Rinpoche's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1623.28,
+      "end": 1623.5,
+      "asr": "and",
+      "corrected": "in",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1624.7,
+      "end": 1625.1,
+      "asr": "Niyangma",
+      "corrected": "Nyingma",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1903.9,
+      "end": 1904.2,
+      "asr": "Eslur",
+      "corrected": "Esler,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2076.8,
+      "end": 2076.96,
+      "asr": "and",
+      "corrected": "in",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2151.68,
+      "end": 2151.84,
+      "asr": "or",
+      "corrected": "for",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2265.46,
+      "end": 2266.16,
+      "asr": "Namkachay",
+      "corrected": "Namkha Che",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    }
+  ],
+  "uncertain_readings": [
+    {
+      "at": 97.56,
+      "asr": "shall wear",
+      "prepared_script_variant": "show where",
+      "word_index": 254,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 232.57999999999998,
+      "asr": "There's",
+      "prepared_script_variant": "There is",
+      "word_index": 614,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 314.06,
+      "asr": "bodies",
+      "prepared_script_variant": "body's",
+      "word_index": 829,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 351.18,
+      "asr": "Practicing",
+      "prepared_script_variant": "Practising",
+      "word_index": 937,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 379.3,
+      "asr": "Mondola",
+      "prepared_script_variant": "mandala",
+      "word_index": 1012,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 545.18,
+      "asr": "text",
+      "prepared_script_variant": "text's",
+      "word_index": 1429,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 614.66,
+      "asr": "",
+      "prepared_script_variant": "end",
+      "word_index": 1618,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1026.66,
+      "asr": "awake in",
+      "prepared_script_variant": "awakened",
+      "word_index": 2727,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1072.96,
+      "asr": "Well,",
+      "prepared_script_variant": "while",
+      "word_index": 2849,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1129.9,
+      "asr": "you're",
+      "prepared_script_variant": "your",
+      "word_index": 3011,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1411.18,
+      "asr": "commentary",
+      "prepared_script_variant": "commentarial",
+      "word_index": 3794,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1561.58,
+      "asr": "grasp being",
+      "prepared_script_variant": "grasping",
+      "word_index": 4202,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1956.68,
+      "asr": "reasoning",
+      "prepared_script_variant": "reason",
+      "word_index": 5299,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1970.1,
+      "asr": "carried",
+      "prepared_script_variant": "careful",
+      "word_index": 5335,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1986.12,
+      "asr": "yogans.",
+      "prepared_script_variant": "yogins.",
+      "word_index": 5372,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2034.56,
+      "asr": "",
+      "prepared_script_variant": "and still",
+      "word_index": 5505,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2269.84,
+      "asr": "things",
+      "prepared_script_variant": "thing",
+      "word_index": 6194,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2322.22,
+      "asr": "variance",
+      "prepared_script_variant": "variants",
+      "word_index": 6315,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2322.78,
+      "asr": "emissions,",
+      "prepared_script_variant": "omissions,",
+      "word_index": 6317,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2408.84,
+      "asr": "might",
+      "prepared_script_variant": "may",
+      "word_index": 6559,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    }
+  ],
+  "rights": "The episode source/translator credits and rights remain applicable. Not a blanket CC0 grant."
+}

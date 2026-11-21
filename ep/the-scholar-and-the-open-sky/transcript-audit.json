@@ -1,0 +1,771 @@
+{
+  "episode": {
+    "title": "The Scholar and the Open Sky: Vimalamitra and the Art of Not Grasping",
+    "audio_url": "https://archive.org/download/open-treasury-the-scholar-and-the-open-sky-20261119/vimalamitra.mp3",
+    "audio_bytes": 53079213,
+    "page": "https://gigachadmma69.github.io/open-treasury/ep/the-scholar-and-the-open-sky/",
+    "guid": "open-treasury-the-scholar-and-the-open-sky-20261119",
+    "index": 5,
+    "slug": "the-scholar-and-the-open-sky"
+  },
+  "auto_generated": true,
+  "pilot_not_listening_rank": true,
+  "method": "Open-source faster-whisper base.en CPU int8, with overlapping boundary-window checks and selected small.en rechecks. Names and terms checked against the prepared published script; original recognition preserved in the private production archive. Not a verbatim certified or native-speaker-reviewed transcript.",
+  "provenance": {
+    "episode": {
+      "title": "The Scholar and the Open Sky: Vimalamitra and the Art of Not Grasping",
+      "audio_url": "https://archive.org/download/open-treasury-the-scholar-and-the-open-sky-20261119/vimalamitra.mp3",
+      "audio_bytes": 53079213,
+      "page": "https://gigachadmma69.github.io/open-treasury/ep/the-scholar-and-the-open-sky/",
+      "guid": "open-treasury-the-scholar-and-the-open-sky-20261119",
+      "index": 5,
+      "slug": "the-scholar-and-the-open-sky"
+    },
+    "source_sha256": "4f6bde59ed1b2ebe6ac099ae5b328831e13abfc5ca0a3aa60b11b85de153e65e",
+    "source_bytes": 53079213,
+    "duration": 3317.424,
+    "model": "faster-whisper base.en, CPU int8, beam1, word timestamps",
+    "auto_generated": true,
+    "selection": "Pilot, not listening-rank data"
+  },
+  "term_corrections": [
+    {
+      "start": 3.34,
+      "end": 3.98,
+      "asr": "Vamalamitra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 45.72,
+      "end": 47.52,
+      "asr": "Long Chenpa, Vamalamitra",
+      "corrected": "Longchenpa, Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 52.92,
+      "end": 53.32,
+      "asr": "Nyanasutra,",
+      "corrected": "Jnanasutra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 73.84,
+      "end": 74.62,
+      "asr": "Vamalamitra.",
+      "corrected": "Vimalamitra.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 150.38,
+      "end": 151.1,
+      "asr": "Vimala Mitra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 151.44,
+      "end": 151.86,
+      "asr": "into",
+      "corrected": "in",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 193.26,
+      "end": 193.98,
+      "asr": "Vimala Mitra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 196.52,
+      "end": 196.8,
+      "asr": "Ningma",
+      "corrected": "Nyingma",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 199.48,
+      "end": 199.92000000000002,
+      "asr": "Ningtik,",
+      "corrected": "Nyingtik,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 201.3,
+      "end": 201.96,
+      "asr": "Vimala Mitra.",
+      "corrected": "Vimalamitra.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 265.76,
+      "end": 266.46,
+      "asr": "Vimala Mitra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 307.12,
+      "end": 307.72,
+      "asr": "Vimala Mitra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 320.0,
+      "end": 320.56,
+      "asr": "Colofans",
+      "corrected": "Colophons",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 357.28,
+      "end": 358.5,
+      "asr": "hearts who tri -cometeries.",
+      "corrected": "Heart Sutra commentaries.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 466.38,
+      "end": 466.94,
+      "asr": "Avalokiteshva",
+      "corrected": "Avalokiteshvara",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 467.64,
+      "end": 468.28,
+      "asr": "Shari Putra,",
+      "corrected": "Shariputra,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 570.92,
+      "end": 571.4,
+      "asr": "Horyuchi",
+      "corrected": "Horiuchi's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 616.04,
+      "end": 616.76,
+      "asr": "Vimala Mitra's",
+      "corrected": "Vimalamitra's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 725.2,
+      "end": 725.52,
+      "asr": "Horiyuchi",
+      "corrected": "Horiuchi",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 734.72,
+      "end": 735.42,
+      "asr": "Vamalamitra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 749.58,
+      "end": 749.76,
+      "asr": "text",
+      "corrected": "texts",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 797.48,
+      "end": 798.04,
+      "asr": "Vamalamitra's",
+      "corrected": "Vimalamitra's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 804.08,
+      "end": 804.54,
+      "asr": "joke -chan",
+      "corrected": "Dzogchen",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 856.14,
+      "end": 856.74,
+      "asr": "Vamalamitra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 988.88,
+      "end": 989.72,
+      "asr": "The mala mitra's",
+      "corrected": "Vimalamitra's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1117.7,
+      "end": 1118.36,
+      "asr": "Vimalometra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1121.34,
+      "end": 1121.66,
+      "asr": "Horyuchi",
+      "corrected": "Horiuchi",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1138.86,
+      "end": 1139.56,
+      "asr": "Vimalometra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1144.8,
+      "end": 1145.34,
+      "asr": "sinlessness,",
+      "corrected": "signlessness,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1150.68,
+      "end": 1151.34,
+      "asr": "sinlessness.",
+      "corrected": "signlessness.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1164.38,
+      "end": 1165.0,
+      "asr": "Sinlessness",
+      "corrected": "Signlessness",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1252.84,
+      "end": 1253.44,
+      "asr": "Vimala Mitra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1344.42,
+      "end": 1344.94,
+      "asr": "zochs and",
+      "corrected": "Dzogchen",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1403.6399999999999,
+      "end": 1404.16,
+      "asr": "Monjushri",
+      "corrected": "Manjushri",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1613.6399999999999,
+      "end": 1614.32,
+      "asr": "Vimlamitra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1662.36,
+      "end": 1663.1,
+      "asr": "Vimala Mitra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1663.36,
+      "end": 1663.84,
+      "asr": "Gyanasutra.",
+      "corrected": "Jnanasutra.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1675.04,
+      "end": 1675.3,
+      "asr": "Sri",
+      "corrected": "Shri",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1793.72,
+      "end": 1794.32,
+      "asr": "Sri Sima,",
+      "corrected": "Shri Simha,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1797.08,
+      "end": 1797.66,
+      "asr": "Jianasutra",
+      "corrected": "Jnanasutra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1804.02,
+      "end": 1804.54,
+      "asr": "Jianasutra",
+      "corrected": "Jnanasutra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1900.14,
+      "end": 1900.94,
+      "asr": "John A. Sutra's",
+      "corrected": "Jnanasutra's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 1926.04,
+      "end": 1926.7,
+      "asr": "Long Chen Pa's",
+      "corrected": "Longchenpa's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2055.14,
+      "end": 2056.06,
+      "asr": "Long -Chimpa's",
+      "corrected": "Longchenpa's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2057.12,
+      "end": 2057.96,
+      "asr": "Vimala Mitra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2073.48,
+      "end": 2074.04,
+      "asr": "Long -Chimpa",
+      "corrected": "Longchenpa",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2197.94,
+      "end": 2198.98,
+      "asr": "Nyong -ting -zing",
+      "corrected": "Nyang Tingdzin",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2217.12,
+      "end": 2217.52,
+      "asr": "Nyong's",
+      "corrected": "Nyang's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2232.36,
+      "end": 2232.72,
+      "asr": "Chake's",
+      "corrected": "Schaik's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2273.42,
+      "end": 2275.04,
+      "asr": "Nyong, Vimala Mitra,",
+      "corrected": "Nyang, Vimalamitra,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2323.72,
+      "end": 2324.16,
+      "asr": "Nintik",
+      "corrected": "Nyingtik",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2357.96,
+      "end": 2358.62,
+      "asr": "Vee -Mun Yink -Tik.",
+      "corrected": "Vima Nyingtik.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2401.02,
+      "end": 2401.92,
+      "asr": "Vimalometra.",
+      "corrected": "Vimalamitra.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2470.68,
+      "end": 2471.24,
+      "asr": "Nemaboom,",
+      "corrected": "Nyima Bum,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2477.18,
+      "end": 2477.76,
+      "asr": "ning -teak",
+      "corrected": "Nyingtik",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2483.5,
+      "end": 2483.84,
+      "asr": "Ken Po",
+      "corrected": "Khenpo",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2487.38,
+      "end": 2488.02,
+      "asr": "Long Chenpa",
+      "corrected": "Longchenpa",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2488.26,
+      "end": 2489.02,
+      "asr": "Reek Sin Godam.",
+      "corrected": "Rikzin Godem.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2490.72,
+      "end": 2491.4,
+      "asr": "Nemaboom's",
+      "corrected": "Nyima Bum's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2511.7,
+      "end": 2512.54,
+      "asr": "v. maning -teak",
+      "corrected": "Vima Nyingtik",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2512.76,
+      "end": 2513.48,
+      "asr": "Nemaboom",
+      "corrected": "Nyima Bum",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2523.6,
+      "end": 2524.38,
+      "asr": "Long Chenpa's",
+      "corrected": "Longchenpa's",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2525.78,
+      "end": 2526.32,
+      "asr": "long Chenpa",
+      "corrected": "Longchenpa",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2535.08,
+      "end": 2536.12,
+      "asr": "Chechen Entrol",
+      "corrected": "Shechen Ontrul",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2539.44,
+      "end": 2539.88,
+      "asr": "Nintik.",
+      "corrected": "Nyingtik.",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2601.52,
+      "end": 2602.14,
+      "asr": "Zok -chan,",
+      "corrected": "Dzogchen,",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2619.48,
+      "end": 2619.96,
+      "asr": "Nying -Tik",
+      "corrected": "Nyingtik",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 2787.37,
+      "end": 2787.66,
+      "asr": "could",
+      "corrected": "can",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3047.32,
+      "end": 3048.26,
+      "asr": "Vimalamitrai",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3048.98,
+      "end": 3049.38,
+      "asr": "Wu Tai",
+      "corrected": "Wutai",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3116.38,
+      "end": 3117.5,
+      "asr": "Vamalamitra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    },
+    {
+      "start": 3182.48,
+      "end": 3183.16,
+      "asr": "Vamalamitra",
+      "corrected": "Vimalamitra",
+      "basis": "Name or term spelling checked against the published prepared script; not native-speaker pronunciation certification."
+    }
+  ],
+  "uncertain_readings": [
+    {
+      "at": 17.82,
+      "asr": "traveled,",
+      "prepared_script_variant": "travelled.",
+      "word_index": 42,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 270.76,
+      "asr": "whole",
+      "prepared_script_variant": "hole",
+      "word_index": 694,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 320.76,
+      "asr": "catalogs",
+      "prepared_script_variant": "catalogues",
+      "word_index": 824,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 321.76,
+      "asr": "grimses",
+      "prepared_script_variant": "glimpses",
+      "word_index": 827,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 387.9,
+      "asr": "addition.",
+      "prepared_script_variant": "edition.",
+      "word_index": 1000,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 731.4,
+      "asr": "at his",
+      "prepared_script_variant": "read as",
+      "word_index": 1858,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 740.2,
+      "asr": "imagine",
+      "prepared_script_variant": "imagined",
+      "word_index": 1879,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 833.8,
+      "asr": "traveler",
+      "prepared_script_variant": "traveller",
+      "word_index": 2118,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 838.1800000000001,
+      "asr": "traveler",
+      "prepared_script_variant": "traveller",
+      "word_index": 2127,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 897.52,
+      "asr": "you've",
+      "prepared_script_variant": "You have",
+      "word_index": 2292,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1194.3,
+      "asr": "exhausted.",
+      "prepared_script_variant": "exhaust it.",
+      "word_index": 3036,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1288.62,
+      "asr": "into filement,",
+      "prepared_script_variant": "in defilement",
+      "word_index": 3280,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1456.0,
+      "asr": "text",
+      "prepared_script_variant": "text's",
+      "word_index": 3711,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1598.44,
+      "asr": "Vimlamitra concerned",
+      "prepared_script_variant": "Vimalamitra concern",
+      "word_index": 4103,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1855.36,
+      "asr": "judgments.",
+      "prepared_script_variant": "judgment.",
+      "word_index": 4763,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 1888.02,
+      "asr": "There's",
+      "prepared_script_variant": "There is",
+      "word_index": 4850,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2047.18,
+      "asr": "vacuizations.",
+      "prepared_script_variant": "accusations.",
+      "word_index": 5283,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2093.86,
+      "asr": "He's",
+      "prepared_script_variant": "He is",
+      "word_index": 5397,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2141.14,
+      "asr": "confirm",
+      "prepared_script_variant": "confer",
+      "word_index": 5526,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2201.28,
+      "asr": "Vimala Mitralinians",
+      "prepared_script_variant": "Vimalamitra lineage",
+      "word_index": 5686,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2307.98,
+      "asr": "uncertainty,",
+      "prepared_script_variant": "on certainty,",
+      "word_index": 5978,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2325.64,
+      "asr": "concealed",
+      "prepared_script_variant": "",
+      "word_index": 6025,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2356.68,
+      "asr": "settled",
+      "prepared_script_variant": "settle",
+      "word_index": 6120,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2436.46,
+      "asr": "question concerns",
+      "prepared_script_variant": "questions concern",
+      "word_index": 6323,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2454.64,
+      "asr": "KEPED",
+      "prepared_script_variant": "Kept",
+      "word_index": 6370,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2534.36,
+      "asr": "catalog",
+      "prepared_script_variant": "catalogue",
+      "word_index": 6571,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2586.9,
+      "asr": "tradition",
+      "prepared_script_variant": "tradition's",
+      "word_index": 6715,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 2698.34,
+      "asr": "Doleness",
+      "prepared_script_variant": "Dullness",
+      "word_index": 6982,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 3017.6,
+      "asr": "supports.",
+      "prepared_script_variant": "support.",
+      "word_index": 7812,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 3053.56,
+      "asr": "eon.",
+      "prepared_script_variant": "aeon.",
+      "word_index": 7907,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 3087.62,
+      "asr": "There's",
+      "prepared_script_variant": "There is",
+      "word_index": 7995,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 3180.38,
+      "asr": "catalog supported",
+      "prepared_script_variant": "catalogue-supported",
+      "word_index": 8256,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    },
+    {
+      "at": 3268.5,
+      "asr": "alright.",
+      "prepared_script_variant": "all right.",
+      "word_index": 8499,
+      "note": "Recognition differs from the prepared script. Check the audio before quoting."
+    }
+  ],
+  "rights": "The episode source/translator credits and rights remain applicable. Not a blanket CC0 grant."
+}
