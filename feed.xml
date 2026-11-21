@@ -4,11 +4,11 @@
     <title>The Open Treasury: Narrated by Tara</title>
     <link>https://gigachadmma69.github.io/open-treasury/</link>
     <atom:link href="https://archive.org/download/open-treasury-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
-    <description>The Open Treasury is free Dharma audio for everyone, forever. Original courses and readings across the Buddhist tradition - the Lotus Sutra chapter by chapter, the great Dzogchen tantras, Mahamudra, the Visuddhimagga path of purification, and the masters from Garab Dorje to Tilopa - narrated by Tara, an AI voice, produced with Joseph Matten. Episodes are CC0 unless an episode page states otherwise. Check episode notes before reusing source-derived material. Courses are provisional renderings - original AI-voiced works, not authoritative translations. Personalized editions follow in 2027. Support is never expected; if you enjoy the Treasury, a voluntary dana at buymeacoffee.com/joematten helps keep it going.</description>
-    <itunes:summary>The Open Treasury is free Dharma audio for everyone, forever. Original courses and readings across the Buddhist tradition - the Lotus Sutra chapter by chapter, the great Dzogchen tantras, Mahamudra, the Visuddhimagga path of purification, and the masters from Garab Dorje to Tilopa - narrated by Tara, an AI voice, produced with Joseph Matten. Episodes are CC0 unless an episode page states otherwise. Check episode notes before reusing source-derived material. Courses are provisional renderings - original AI-voiced works, not authoritative translations. Personalized editions follow in 2027.
+    <description>The Open Treasury is free Dharma audio for everyone, forever. Original courses and readings across the Buddhist tradition - the Lotus Sutra chapter by chapter, the great Dzogchen tantras, Mahamudra, the Visuddhimagga path of purification, and the masters from Garab Dorje to Tilopa - narrated by Tara, an AI voice, produced with Joseph Matten. Rights vary by episode. Check episode notes before reusing source-derived material. Courses are provisional renderings - original AI-voiced works, not authoritative translations. Personalized editions follow in 2027. Support is never expected; if you enjoy the Treasury, a voluntary dana at buymeacoffee.com/joematten helps keep it going.</description>
+    <itunes:summary>The Open Treasury is free Dharma audio for everyone, forever. Original courses and readings across the Buddhist tradition - the Lotus Sutra chapter by chapter, the great Dzogchen tantras, Mahamudra, the Visuddhimagga path of purification, and the masters from Garab Dorje to Tilopa - narrated by Tara, an AI voice, produced with Joseph Matten. Rights vary by episode. Check episode notes before reusing source-derived material. Courses are provisional renderings - original AI-voiced works, not authoritative translations. Personalized editions follow in 2027.
 
 Support is never expected; if you enjoy the Treasury, a voluntary dana at buymeacoffee.com/joematten helps keep it going.</itunes:summary>
-    <itunes:subtitle>Free Dharma audio, forever - the Lotus Sutra, the Dzogchen tantras, Mahamudra and the Visuddhimagga, narrated by Tara. Episodes are CC0 unless an episode page states otherwise.</itunes:subtitle>
+    <itunes:subtitle>Free Dharma audio, forever - the Lotus Sutra, the Dzogchen tantras, Mahamudra and the Visuddhimagga, narrated by Tara. Rights vary by episode.</itunes:subtitle>
     <language>en</language>
     <copyright>Episode-specific terms: CC0 unless an episode page states otherwise. See episode pages and source notes.</copyright>
     <podcast:license url="https://gigachadmma69.github.io/open-treasury/licenses.html">open-treasury-episode-specific</podcast:license>
@@ -21,7 +21,24 @@ Support is never expected; if you enjoy the Treasury, a voluntary dana at buymea
     <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy" /></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-                                            <item>
+                                                <item>
+      <title>The Snake Nobody Needed to Kill: Reading Rongzom, Part One</title>
+      <link>https://gigachadmma69.github.io/open-treasury/ep/rongzom-black-snake-part-one/</link>
+      <guid isPermaLink="false">open-treasury-rongzom-black-snake-part-one-20261121</guid>
+      <pubDate>Sat, 21 Nov 2026 16:29:29 +0000</pubDate>
+      <description>A complete reading of Rongzom Chokyi Zangpo&#x27;s Black Snake Discourse in David Higgins&#x27;s translation, with selective commentary on appearance, the two truths, and the five responses to a snake&#x27;s reflection. This is the opening installment of a larger, carefully sourced corpus study, not a claim to cover the whole surviving corpus. New commentary is separately announced. No ritual instructions or lineage transmission are offered.
+
+The Black Snake Discourse by Rongzom Chokyi Zangpo. Translated by David Higgins, 2023, Lotsawa House. Read with separately identified new commentary for The Open Treasury. Creative Commons Attribution-NonCommercial 4.0 International, https://creativecommons.org/licenses/by-nc/4.0/ . The translated root text is credited to David Higgins, 2023, and Lotsawa House. Noncommercial adaptation; commentary and spoken labels added; footnote numbers not read, punctuation and typographic features adjusted for speech. No endorsement by translator or Lotsawa House is implied. Do not label this adaptation CC0. No advertisements, episode support/dana prompt, paywall or monetized video. Source images not licensed by this notice.
+
+Narrated by Tara using the Aoede AI voice. All 17 takes compared with script through independent transcripts; 98.9%-100% word coverage with expected number/name spelling differences. Cropped local rechecks resolved ambiguous dharma names. No looping ending found. Complete MP3 decode passed. Not a claim of human listening or expert Tibetan review. The listening edition was re-encoded from the lossless master with loudness normalization. Full-file decode and independent measurement passed: 27:39, -18.5 LUFS integrated, -2.8 dBTP. The supplied original performance is unchanged in wording and cadence.</description>
+      <enclosure url="https://archive.org/download/open-treasury-rongzom-black-snake-part-one-20261121/black-snake.mp3" length="9957754" type="audio/mpeg" />
+      <itunes:duration>00:27:39</itunes:duration>
+      <itunes:image href="https://archive.org/download/open-treasury-rongzom-black-snake-part-one-20261121/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+      <copyright>CC BY-NC 4.0; David Higgins, 2023; Lotsawa House. Editorial additions by Tara.</copyright>
+      <podcast:license url="https://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</podcast:license>
+    </item>
+<item>
       <title>The Conqueror and the Carriers: Mao, Tibet, and the Teachings That Survived</title>
       <link>https://gigachadmma69.github.io/open-treasury/ep/the-conqueror-and-the-carriers/</link>
       <guid isPermaLink="false">open-treasury-the-conqueror-and-the-carriers-20261121</guid>
