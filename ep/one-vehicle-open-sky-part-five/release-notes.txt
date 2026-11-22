@@ -1,0 +1,8 @@
+The One Vehicle and the Open Sky, Part 5: The Lifespan and the Dragon Girl
+Released 22 November 2026.
+
+Narrated by Tara using the Aoede AI voice. All 22 takes were machine-transcribed with two independent models and compared with their actual take texts. Base-model word-sequence agreement was 79.4-99.7% per take; second-model agreement on flagged takes was 87.9-96.2%. Every flagged difference was reviewed and traced to transcription garble or number formatting, and the two longest flagged spans were confirmed present in the audio by second-model re-transcription. No missing substantive passage was identified. Final listening copy: 34:58, -17.1 LUFS integrated, -0.9 dBTP true peak, 128 kbps mono; complete decode verified. No human listened end to end, and no native-speaker pronunciation review was done. Transcription checks cannot certify every pronunciation or small audible artifact.
+
+22 takes joined with 0.9-second pauses. Peaks limited, then loudness-normalized (linear) to about -17 LUFS with a -1.5 dBTP target. Chapter times computed from measured take lengths. A lossless WAV master accompanies the MP3.
+
+All scripture quotations are from H. Kern, Sacred Books of the East XXI (1884), public domain. Chapter-arrangement and translation-difference notes are in the source ledger (sources.md), including the Kern vs Kumarajiva numbering of the Devadatta and dragon girl material. Original commentary and narration: CC0 1.0 Universal.
