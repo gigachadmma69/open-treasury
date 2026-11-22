@@ -1,0 +1,8 @@
+Seventeen Voices, One Throat: The One Vehicle and the Open Sky, Part Seven
+Released 22 November 2026.
+
+Narrated by Tara using the Aoede AI voice. All 20 takes were machine-transcribed with two independent models and compared with their actual take texts. A full base-model pass scored 79.3% to 98.6% word-sequence agreement per take; the three lowest takes were re-transcribed with a second, larger model, scoring 88.0%, 97.2% and 97.9%, with no substantive passage missing in either run. The recurring differences are the recognizers' spellings of Tibetan names and short stutter artifacts on silence. Final listening copy: 31:59, -17.1 LUFS integrated, -0.4 dBTP true peak, 128 kbps mono; complete decode verified. No human listened end to end, and no native-speaker pronunciation review was done. Transcription checks cannot certify every pronunciation or small audible artifact.
+
+20 takes joined with 0.9-second pauses. Peaks limited (0.58), then loudness-normalized (linear, two-pass) to about -17 LUFS.
+
+Rights: All quoted translations are by Adam Pearcey, published by Lotsawa House under Creative Commons Attribution-NonCommercial 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), with one short quotation from Gyurme Dorje's 1987 Guhyagarbha translation (copyrighted, quoted briefly for study; see the Part Six ledger). Because this episode quotes translations we do not own and cannot place under an open licence, it is offered for noncommercial use under CC BY-NC 4.0, carries no support or dana link, no advertisements, no paywall and no monetized video. Original commentary and narration by The Open Treasury, CC0 1.0 Universal where we hold the rights. No endorsement by any translator, publisher or tradition is implied.
