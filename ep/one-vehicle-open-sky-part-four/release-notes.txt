@@ -1,0 +1,8 @@
+The One Vehicle and the Open Sky, Part 4: The Ground That Needs No Path
+Released 22 November 2026.
+
+Narrated by Tara using the Aoede AI voice. All 22 takes were independently machine-transcribed twice and compared with their actual take texts; the seven lowest-scoring takes were verified again with a second speech-recognition model, and one flagged phrase was confirmed by targeted re-transcription of its audio window. Best-pass word-sequence agreement was 93.4-100%; flagged differences were traced to recognizer spelling of Sanskrit and Tibetan names, number words, and similar sound-recognition limits. No missing substantive passage was identified. Final listening copy: 35:31, -17.8 LUFS integrated, -2.1 dBTP true peak, 128 kbps mono; complete decode verified. No human listened end to end, and no native-speaker pronunciation review was done. Transcription checks cannot certify every pronunciation or small audible artifact.
+
+22 takes joined with 0.9-second pauses. Loudness-normalized with peak limiting. Chapter times computed from measured take lengths. A lossless WAV master accompanies the MP3.
+
+Garab Dorje's Three Statements are quoted from Adam Pearcey's translation (Lotsawa House, 2025), with further quotations from Lotsawa House translations of Do-Ngak Chokyi Gyatso, the Vima Nyingtik Karchak, and Jamyang Khyentse Chokyi Lodro, all Creative Commons Attribution-NonCommercial 4.0 International. Because of the NonCommercial licenses this episode carries no support or dana link, no advertisements, no paywall and no monetized video. The Seventeen Tantras are discussed from the tradition's published catalog and scholarship; no tantra is quoted and no practice instruction appears. Original commentary: CC0 1.0 Universal. See sources.md.
