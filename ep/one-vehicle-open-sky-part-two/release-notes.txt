@@ -1,0 +1,8 @@
+The One Vehicle and the Open Sky, Part 2: Only a Buddha and a Buddha
+Released 22 November 2026.
+
+Narrated by Tara using the Aoede AI voice. All 22 takes were independently machine-transcribed twice and compared with their actual take texts. Best-pass word-sequence agreement was 94.1-100%; flagged differences were reviewed against the alternate transcription. No missing substantive passage was identified. Final listening copy: 34:01, -17.8 LUFS integrated, -2.3 dBTP true peak, 128 kbps mono; complete decode verified. No human listened end to end, and no native-speaker pronunciation review was done. Transcription checks cannot certify every pronunciation or small audible artifact.
+
+22 takes joined with 0.9-second pauses. Loudness-normalized with peak limiting. Chapter times computed from measured take lengths. A lossless WAV master accompanies the MP3.
+
+All scripture quotations are from H. Kern, Sacred Books of the East XXI (1884), public domain. Conventional term glosses and original commentary are distinguished in the source ledger. The ten suchnesses are attributed to the Chinese/Tiantai reading, not to Kern. See sources.md for accuracy and rights notes. Original commentary and narration: CC0 1.0 Universal.
