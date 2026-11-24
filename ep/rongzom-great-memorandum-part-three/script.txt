@@ -1,0 +1,80 @@
+What Counts as a Thing. Reading Rongzom, part three.
+
+In the first two parts of this series we heard Rongzom Chokyi Zangpo argue about illusions and about purity. The Black Snake Discourse asked whether a mistaken perception has to be defeated before it stops binding us. Establishing Appearances as Divine asked whether the ordinary world is already inseparable from awakening. In this part we slow down. Before Rongzom argues about reality, he assembles the vocabulary his arguments are made of. Here we watch him build one small piece of that vocabulary: the word substance.
+
+This part differs from the first two in one important way. Those parts read licensed translations by Dominic Sur, published on Lotsawa House. No licensed English translation exists for the text we read now. The short passages in this reading are this project's own study renderings, made directly from photographed pages of a Tibetan print held by the Buddhist Digital Resource Center. They are careful first-pass renderings, not a definitive translation. Where two Tibetan witnesses disagree on a word, we say so. Anything not yet verified on the page images is left out, not smoothed over.
+
+The text is called the Great Memorandum on the View. In Tibetan, lta ba'i brjed byang chen mo. It survives in collections of Rongzom's miscellaneous writings. Depending on the witness, it runs to roughly twenty-four to thirty folios, a medium-length work by the standards of his corpus.
+
+A memorandum, brjed byang, is a written aid to memory. It is a working document that sets out terms, definitions, and classifications, rather than a polished treatise built on one sustained argument. Reading a memorandum is closer to looking over a scholar's shoulder at his reference notes than to hearing a lecture. That is not a defect. It lets us see how an eleventh-century master of the Nyingma tradition organized the materials he had inherited, before he put them to work.
+
+The Great Memorandum on the View moves through the categories of Buddhist analysis: what exists, how it is classified, and what the vehicles of Buddhist practice claim about it. The passage in this reading comes from an early section, where Rongzom records how the word substance is defined and used.
+
+A little background makes the passage easier to hear. The Tibetan word is rdzas, which renders the Sanskrit dravya. In the Abhidharma, the great analytical literature of early Buddhism, a dravya is something that exists as a real thing rather than as a mere label. A chariot, the classic example goes, is only a convenient name for a collection of parts. The parts, or some of them, were held to be substantially real. Whole schools of Buddhist thought were defined by where they drew that line.
+
+Abhidharma analysis sorted what exists into standard frameworks: the aggregates that make up a person, the elements, and the sense fields, the pairings of faculties and objects that make experience possible. When Rongzom records a definition of substance, he is writing inside this inherited machinery. He is not yet giving his own famous arguments. He is documenting the shared starting points, the way a geometry text records its definitions before its proofs.
+
+Keep that in mind as you listen. The voice in this passage is deliberately impersonal. Rongzom reports how the term is explained, and what the traditions count, before he does anything with it.
+
+Here is how the passage begins, in this project's study rendering from the Tibetan:
+
+"As for what is called substance: its nature and its defining term are as follows."
+
+One editorial note. Our working witness, a print from Leh, carries a small uncertainty in this opening line. One syllable could be read two ways, and the meaning shifts only slightly. We have recorded both readings in the written companion and moved on, because the sentence's function is clear either way: it announces that a definition is coming. Announcements like this are the heartbeat of the memorandum style. Term, then definition, then the reasoning that justifies the term. Once you can hear that rhythm, large stretches of Tibetan scholastic writing stop looking like walls of text and start looking like what they are: organized shelves.
+
+Now the first explanation Rongzom records. It is an etymology, and it starts from ordinary life:
+
+"Because it can be grasped and cut, it is called substance. And because it serves a great purpose."
+
+The Tibetan expression translated as substance here is nor rdzas. Outside philosophy, nor rdzas means goods: wares, property, stuff you can hold and trade. The etymology leans on that everyday sense. A substance is the kind of thing you can take hold of and divide up, the way goods are grasped, portioned, and exchanged. And it matters. It does a great deal of work.
+
+This is a very Tibetan way of teaching. Before asking whether something ultimately exists, ask what the word does in the marketplace. The philosophical term is anchored to a homely picture: goods on a table, weighed, cut, and sold. Rongzom did not invent this style. He inherited centuries of commentarial habit, and in the memorandum he writes the habit down faithfully, because his later arguments will lean on these shared definitions.
+
+An honesty note, one of several in this part. The two Tibetan witnesses we work from spell one word of that etymology differently. Our working witness reads bcad, cut. The other witness reads btsad, a closely related spelling. The picture, goods grasped and divided, is the same either way, so we render the sense and record both spellings in the written companion. A second small difference nearby, in the phrase about the great purpose, is handled the same way.
+
+Why mention this at all? Because a course like this one has a duty to its sources. These prints are hand-carved woodblock editions, copied from manuscripts, and no two of them agree everywhere. Most differences are trivial. Some are not. The only safe habit is to show the differences when they occur, rather than quietly pick the reading that makes the smoother English sentence. In this passage nothing hangs on the variant. Later in Rongzom's corpus, a single syllable can change an argument. The habit has to be built here, where the stakes are small.
+
+The passage then illustrates the point with valuables. Rongzom names gold and silver as examples of what the world calls substance.
+
+One more honesty note. At this spot the photographed line runs to the very edge of a page, and we have verified the phrase naming gold and silver, but not every syllable of the sentence that carries it. So in this reading we report the example and stop there. The written companion marks exactly which portion of the line has been checked against the page image and which portion waits for a second look.
+
+This may feel fussy. It is, deliberately. The rule of this series is that nothing enters the public reading from an unresolved reading of the page. When a text is a thousand years old and survives in a handful of prints, patience is not a luxury. It is the whole method. Gold and silver as the world's model of goods: that much the page gives us plainly, and it is enough to make the point. The world's substances are the things it can hold, divide, and treasure.
+
+Next, Rongzom records the opposite list: cases that are not reckoned as substance, even though the world handles them as things. The list opens with a phrase about a stone.
+
+Here the two witnesses genuinely part company. Our working witness reads a phrase built around a stone thrown straight. The other witness spells the phrase differently, around a stone that is polished or filed. These are not the same picture, and we cannot yet say which reading Rongzom wrote or intended. So the spoken text does not choose. We report that the list of what fails to count as substance begins with an example involving a stone, and that the exact description of that stone is one of the open questions in the written companion.
+
+What matters structurally is clear, and it does not depend on the variant. A definition earns its keep by excluding as well as including. Rongzom's memorandum does not only tell us what substance is. It records boundary cases, things that look substantial but are not counted, so that the category has an edge. Philosophy in this tradition is as much about where a term stops as about where it reaches.
+
+Then the passage turns, and this is the moment worth waiting for. After the worldly explanation, Rongzom records a second etymology, from the side of the Dharma:
+
+"In the same way, the taught Dharma transforms the mind."
+
+And the phrase that follows speaks of a person whose mind is transformed.
+
+Notice what just happened. The word that meant goods on a table, grasped and cut, is now being heard from inside practice. The Dharma is what takes hold of a mind and works on it, the way hands take hold of goods. The worldly etymology is not discarded. It is repurposed. The grasping and shaping that defined mere property becomes the pattern for how teaching grasps and reshapes a person.
+
+This is Rongzom's characteristic move, and we meet it in miniature before we meet it in his great arguments. Take the ordinary term seriously, then show that its own logic already points beyond the ordinary use. If you remember one thing from this part, remember that the same word can carry the marketplace and the path at once, and that Rongzom hears both registers in a single syllable.
+
+The passage closes by counting. Rongzom records the classification this way:
+
+"Mind is also included as a substance. There is even one single one. They hold that there are twenty-one substances."
+
+A word of orientation. The count belongs to the Abhidharma frameworks we mentioned: the elements and the sense fields, the standard inventories into which experience was sorted. The memorandum is documenting how the traditions enumerate what substantially exists, and it insists on two points a newcomer might miss. First, mind is on the list. Mind is not a ghost hovering over the furniture of the world. In this analysis it is an item in the inventory, one substance among others. Second, the inventory is precise. Twenty-one, not "many". Scholastic Buddhism counts, because counting forces clarity about what a system commits to.
+
+One caution, recorded rather than hidden. In the count phrase, a single syllable of our witness is not fully certain between two spellings, though the number itself is clear. And we have verified the framework and the total, not every one of the twenty-one items. A future part may walk the full list. This one does not, because we only publish what we have checked.
+
+What does a definition of substance have to do with the Rongzom of the first two parts? Everything, though quietly.
+
+The Black Snake Discourse argued that a mistaken appearance does not need to be attacked with a counter-reality. Establishing Appearances as Divine argued that what appears is already pure. Both arguments play with the border between what is real and what is merely taken to be real. That border is exactly what a word like substance polices. When Rongzom writes down, patiently, how the traditions draw the line, what counts, what fails to count, and how many items the inventory holds, he is mapping the territory his later arguments will cross.
+
+That is an editorial reading, and we label it as such. The memorandum itself does not announce this connection. It simply records the definitions, with a scholar's care for who holds what. But a reader who has heard the first two parts can feel the ground being prepared. You cannot argue about what is truly real until you have been honest about what your tradition calls real, and why.
+
+There is also a lesson in temperament. Rongzom is famous for daring conclusions. This passage shows the discipline underneath the daring: definitions first, variants recorded, counts exact.
+
+Sources and credits for this part. The text is the Great Memorandum on the View by Rongzom Chokyi Zangpo, an eleventh-century master of the Nyingma tradition. The passages heard here are this project's own study renderings from the Tibetan, checked word by word against photographed pages of a print from Leh held by the Buddhist Digital Resource Center, with a second witness, a modern Tibetan edition, used for comparison. Where the two witnesses differ, the written companion records both readings. Where a syllable remains uncertain, we have said so aloud rather than silently repair it.
+
+Unlike the first two parts, no licensed English translation underlies this reading, and no independent scholarly translation was paraphrased into it. The renderings are first-pass study versions, offered for learning, not as a definitive translation of the passage.
+
+The written companion lists the exact page and line locations of every passage read, the variants, and the open questions, including the full enumeration of twenty-one substances, which awaits the same word-by-word checking before it can be read aloud. In the next part we plan to continue through the Great Memorandum's definitions as verification allows. Thank you for listening.
+
