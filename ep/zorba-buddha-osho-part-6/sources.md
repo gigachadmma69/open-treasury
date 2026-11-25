@@ -1,0 +1,8 @@
+# Sources, Part 6 of 8: The Dream That Ate Itself
+
+- Share-a-Home 2,300+ homeless bused in; Antelope council takeover 1982 (town ~50); two-arm election scheme; "one of Rajneesh's deputies laughed off the matter... the county just didn't understand their sense of humor" — The Atlantic (2014), theatlantic.com/politics/archive/2014/06/a-strange-but-true-tale-of-voter-fraud-and-bioterrorism/372445/
+- Salmonella Typhimurium bought from Seattle medical supply co; trial runs (commissioners' water glasses, grocery produce, courthouse doorknobs/urinal handles); 10 restaurants; 751 sick / 45 hospitalized / 0 dead; first and largest US bioterror attack; aborted plot vs US Attorney; lab sample match; two officials convicted of attempted murder, served 29 months of 20-year sentences — en.wikipedia.org/wiki/1984_Rajneeshee_bioterror_attack
+- Silence period; satsangs replaced discourses; privately stated Sheela spoke on his behalf; his claim of unawareness until Sheela's gang left; attempted murder of his physician; bugging of his living quarters; Sheela convicted — en.wikipedia.org/wiki/Osho
+- Ranch purchase helped by Ma Yoga Mukta (Greek shipping heiress) — en.wikipedia.org/wiki/Osho
+- Charlotte arrest 28 Oct 1985, two chartered jets, 8 facing immigration charges — Washington Post, 29 Oct 1985
+- Alford plea 14 Nov 1985: 35-count indictment, $400,000 fine, 10-year suspended sentence, 5 years probation, 5-year reentry bar, 4 civil suits dismissed, $500k bail posted Nov 8, "I never want to return again", busloads of disciples, attorney Brian O'Neill "asserts his innocence" — LA Times, 15 Nov 1985, latimes.com/archives/la-xpm-1985-11-15-mn-2417-story.html
