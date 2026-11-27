@@ -1,3 +1,5 @@
+CORRECTION, November 27, 2026: This episode says the memorandum records twenty-one substances with mind among them. On rechecking the printed page, that number is not settled word for word in either Tibetan witness we can read, so please treat the count of twenty-one as unconfirmed. The rest of the episode is unchanged. The audio itself was not edited.
+
 # Reading Rongzom, Part Three: source credits
 
 Great Memorandum on the View (lta ba'i brjed byang chen mo) by Rongzom Chokyi Zangpo. The short passages read in this episode are The Open Treasury's own study renderings from the Tibetan: AI work offered for scholar review, not a definitive translation, and not a paraphrase of any existing English translation.
